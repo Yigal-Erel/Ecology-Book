@@ -59,6 +59,8 @@
     <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>window.MathJax = {"loader": {"load": ["[tex]/mhchem"]}, "tex": {"packages": {"[+]": ["mhchem"]}, "displayMath": [["$$", "$$"], ["\\[", "\\]"]], "inlineMath": [["$", "$"], ["\\(", "\\)"]]}, "options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'ch12_urban';</script>
     <script src="_static/chapter-version.js?v=238b042c"></script>
     <script src="_static/custom_scroll.js?v=678a69f3"></script>
@@ -547,7 +549,7 @@ Geochemistry).<a class="footnote-reference brackets" href="#id270" id="id29" rol
 אוויר שמקורו בקהיר על איכות אוויר בישראל ונמצא שבעונות המעבר (אביב
 וסתיו) מרבית זיהום האוויר החלקיקי (PM) במרכז ישראל מגיע מקהיר.<a class="footnote-reference brackets" href="#id283" id="id43" role="doc-noteref"><span class="fn-bracket">[</span>38<span class="fn-bracket">]</span></a>
 לאחרונה נמצא שמספר ערים במרכז אסיה מהוות מקור אזורי לזיהום אוויר חלקיקי
-(PM~2.5~) חמור.<a class="footnote-reference brackets" href="#id284" id="id44" role="doc-noteref"><span class="fn-bracket">[</span>39<span class="fn-bracket">]</span></a> בשנת 2019 דלהי (הודו) היתה הטוענת לתואר המפוקפק
+(PM<span class="math notranslate nohighlight">\(_{2.5}\)</span>) חמור.<a class="footnote-reference brackets" href="#id284" id="id44" role="doc-noteref"><span class="fn-bracket">[</span>39<span class="fn-bracket">]</span></a> בשנת 2019 דלהי (הודו) היתה הטוענת לתואר המפוקפק
 ”העיר עם האוויר המזוהם ביותר“. גם בדלהי, כמו בערים אחרות, יש פער גדול
 בחשיפה לזיהום אוויר בהתאם למעמד הסוציו-אקונומי.<a class="footnote-reference brackets" href="#id285" id="id45" role="doc-noteref"><span class="fn-bracket">[</span>40<span class="fn-bracket">]</span></a></p>
 <section id="id46">
@@ -555,8 +557,8 @@ Geochemistry).<a class="footnote-reference brackets" href="#id270" id="id29" rol
 <p>במהלך השנים נעשו מאמצים רבים לתעד ולהעריך את מידת זיהום האוויר של
 מגה-ערים. למשל, ב-2008 התפרסם מאמר שדירג את המגה-ערים על פי כמות פליטת
 גזים וחלקיקים לנפש, בעיקר על סמך מדד זהום אוויר כללי (MPI –
-multi-pollutant index) הלוקח בחשבון גופרית דו חמצנית (SO~2~), תחמוצת
-חנקן (NO~2~) וכלל החלקיקים המרחפים (TSP – total suspended particles),
+multi-pollutant index) הלוקח בחשבון גופרית דו חמצנית (<span class="math notranslate nohighlight">\(\ce{SO2}\)</span>), תחמוצת
+חנקן (<span class="math notranslate nohighlight">\(\ce{NO2}\)</span>) וכלל החלקיקים המרחפים (TSP – total suspended particles),
 ובמקביל התבצעה הערכה של שטחן ושל צפיפותן. מדידה זו אפשרה גם לדרג את
 זיהום האוויר לפי מספר נתון של תושבים (למשל זיהום למיליון תושבים) או
 ליחידת שטח, תהליך הנקרא נרמול של הזיהום לפי מספר תושבים או לפי שטח
@@ -582,7 +584,7 @@ AOD = aerosol optical depth, ראו פרק 11).<a class="footnote-reference brac
 עירוניות של לבנים בארצות הברית נחשפות פחות לסוגים שונים של מזהמי אוויר
 בהשוואה לשכונות של היספנים או שחורים בגלל ריחוקן היחסי ממקורות הזיהום
 (כבישים ראשיים, מפעלי תעשייה, ועוד).<a class="footnote-reference brackets" href="#id294" id="id55" role="doc-noteref"><span class="fn-bracket">[</span>49<span class="fn-bracket">]</span></a> מצב זה מחריף כאשר הסטנדרטים
-הסביבתיים נעשים מחמירים יותר, כמו שקרה עם ~2.5~PM בשנת 2024.<a class="footnote-reference brackets" href="#id295" id="id56" role="doc-noteref"><span class="fn-bracket">[</span>50<span class="fn-bracket">]</span></a></p>
+הסביבתיים נעשים מחמירים יותר, כמו שקרה עם PM<span class="math notranslate nohighlight">\(_{2.5}\)</span> בשנת 2024.<a class="footnote-reference brackets" href="#id295" id="id56" role="doc-noteref"><span class="fn-bracket">[</span>50<span class="fn-bracket">]</span></a></p>
 </section>
 <section id="id57">
 <h3>מקורות זיהום אוויר ודרכי ההתמודדות<a class="headerlink" href="#id57" title="Link to this heading">#</a></h3>
@@ -611,11 +613,11 @@ SOx, VOC) והתפלגות החלקיקים המרחפים.<a class="footnote-re
 במרחק ממרכז העיר, במורד הרוח<a class="footnote-reference brackets" href="#id302" id="id64" role="doc-noteref"><span class="fn-bracket">[</span>57<span class="fn-bracket">]</span></a> וכן ניטור של הולכי רגל.<a class="footnote-reference brackets" href="#id303" id="id65" role="doc-noteref"><span class="fn-bracket">[</span>58<span class="fn-bracket">]</span></a> בערים בהן
 נעשו מאמצים כאלה, יש דיווחים על הצלחות בהפחתת זיהום אוויר כמו למשל בסין,
 וכפי שציינו בפרק 11 גם בלונדון. אולם, לעיתים התמונה מורכבת יותר. מסתבר
-שהורדת הפליטות של גופרית דו חמצנית (SO~2~) ללא הפחתה במקביל בפליטות פיח
+שהורדת הפליטות של גופרית דו חמצנית (<span class="math notranslate nohighlight">\(\ce{SO2}\)</span>) ללא הפחתה במקביל בפליטות פיח
 (BC) איננה מספיקה כדי להוריד את שכיחותם ועוצמתם של אירועי ערפיח הגורמים
 לנזק בריאותי ואף עלול לגרום להתחממות מקומית.<a class="footnote-reference brackets" href="#id304" id="id66" role="doc-noteref"><span class="fn-bracket">[</span>59<span class="fn-bracket">]</span></a> דוגמא בולטת למורכבות
 של זיהום האוויר העירוני והגורמים לו מוצגת באיור 12.1.<a class="footnote-reference brackets" href="#id305" id="id67" role="doc-noteref"><span class="fn-bracket">[</span>60<span class="fn-bracket">]</span></a> באיור רואים
-את ממוצע הריכוזים של חלקיקים מרחפים (PM~2.5~, PM~10~) ושל אוזון בסין
+את ממוצע הריכוזים של חלקיקים מרחפים (PM<span class="math notranslate nohighlight">\(_{2.5}\)</span>, PM<span class="math notranslate nohighlight">\(_{10}\)</span>) ושל אוזון בסין
 במשך ארבעה חודשים בשנת 2014. שימו לב לכך שהאזור המזוהם ביותר באיור 12.1
 הוא צפון מזרח סין – אזור בייג’ינג בה חיים כ-20 מיליון אנשים, ואילו
 בקנטון (Guangzhou) העיר הגדולה ביותר בעולם עם כ-68 מיליון תושבים רמות

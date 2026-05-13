@@ -59,6 +59,8 @@
     <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>window.MathJax = {"loader": {"load": ["[tex]/mhchem"]}, "tex": {"packages": {"[+]": ["mhchem"]}, "displayMath": [["$$", "$$"], ["\\[", "\\]"]], "inlineMath": [["$", "$"], ["\\(", "\\)"]]}, "options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'ch3_energy';</script>
     <script src="_static/chapter-version.js?v=238b042c"></script>
     <script src="_static/custom_scroll.js?v=678a69f3"></script>
@@ -395,7 +397,7 @@ document.write(`
 חיים מבויתים, ובמידה פחותה מרוח וזרימת מים. מאז סוף המאה התשע עשרה ועד
 ימינו הכלכלה העולמית מתבססת בעיקר על אנרגיה המופקת מדלקים פוסיליים.<a class="footnote-reference brackets" href="#id233" id="id2" role="doc-noteref"><span class="fn-bracket">[</span>1<span class="fn-bracket">]</span></a>
 בהתחלה השתמשו בעיקר בפחם, לאחר מכן גם בדלק נוזלי ולאחרונה בגז (מתאן –
-CH~4~) בכמויות הולכות וגדלות. בעשורים האחרונים מתרחש מעבר חלקי להפקת
+<span class="math notranslate nohighlight">\(\ce{CH4}\)</span>) בכמויות הולכות וגדלות. בעשורים האחרונים מתרחש מעבר חלקי להפקת
 אנרגיה ממקורות חילופיים, כגון אנרגיה גרעינית, אנרגיה הידרואלקטרית,
 אנרגיה סולארית ואנרגית רוח. הפרק הנוכחי ידון במקורות האנרגיה השונים
 ובהשלכות הסביבתיות של השימוש בהם. נתחיל את הפרק בהצגת גודל האתגר (3.1),
@@ -438,7 +440,7 @@ CH~4~) בכמויות הולכות וגדלות. בעשורים האחרונים
 <p>דלקים פוסיליים (פחם, דלק נוזלי גולמי וגז – בעיקר מתאן)<a class="footnote-reference brackets" href="#id238" id="id9" role="doc-noteref"><span class="fn-bracket">[</span>6<span class="fn-bracket">]</span></a> נוצרו במשך
 מיליוני שנה (בעיקר מלפני כ-350 מיליוני שנה ועד ההווה) משרידי
 מיקרואורגניזמים, בעלי חיים וצמחים שנקברו בסדימנט<a class="footnote-reference brackets" href="#id239" id="id10" role="doc-noteref"><span class="fn-bracket">[</span>7<span class="fn-bracket">]</span></a> בטרם הספיקו להתחמצן
-ולהפוך לפד“ח (פחמן דו חמצני – CO~2~). לאחר קבורתם הם עברו תהליכים
+ולהפוך לפד“ח (פחמן דו חמצני – <span class="math notranslate nohighlight">\(\ce{CO2}\)</span>). לאחר קבורתם הם עברו תהליכים
 ביולוגיים וכימיים בטמפרטורות נמוכות (דיאגנזה, עד 50 מעלות צלזיוס) ללא
 נוכחות חמצן, ויצרו גאו-פולימרים<a class="footnote-reference brackets" href="#id240" id="id11" role="doc-noteref"><span class="fn-bracket">[</span>8<span class="fn-bracket">]</span></a> כגון חומצות הומיות וקרוגן.<a class="footnote-reference brackets" href="#id241" id="id12" role="doc-noteref"><span class="fn-bracket">[</span>9<span class="fn-bracket">]</span></a> לאחר
 מכן, גאו-פולימרים אלו עברו תהליך של ”הבשלה“ (קטגנזה -
@@ -524,8 +526,8 @@ cycle / combined heat and power - CHP),<a class="footnote-reference brackets" hr
 <h3>סילוק מזהמים ולכידת פד“ח<a class="headerlink" href="#id29" title="Link to this heading">#</a></h3>
 <p>דרך נוספת לצמצום ההשפעה הסביבתית של שימוש בדלקים פוסיליים היא באמצעות
 סילוק המזהמים הנפלטים בזמן שריפתם (חלקיקים מרחפים (PM), גופרית (בעיקר
-SO~2~), חנקן (בעיקרNOx = NO + NO~2~), מתכות רעילות, בעיקר כספית Hg; ראו
-פרוט בפרק 11), תרכובות אורגניות (למשל PAH),<a class="footnote-reference brackets" href="#id256" id="id30" role="doc-noteref"><span class="fn-bracket">[</span>25<span class="fn-bracket">]</span></a> ופד“ח (CO~2~
+<span class="math notranslate nohighlight">\(\ce{SO2}\)</span>), חנקן (בעיקרNOx = NO + <span class="math notranslate nohighlight">\(\ce{NO2}\)</span>), מתכות רעילות, בעיקר כספית Hg; ראו
+פרוט בפרק 11), תרכובות אורגניות (למשל PAH),<a class="footnote-reference brackets" href="#id256" id="id30" role="doc-noteref"><span class="fn-bracket">[</span>25<span class="fn-bracket">]</span></a> ופד“ח (<span class="math notranslate nohighlight">\(\ce{CO2}\)</span>
 sequestration – ראו בהמשך). הטכנולוגיות לסילוק כל המזהמים זמינות
 ומופעלות בתחנות כוח רבות ברחבי העולם, אם כי לא ברובן. התקנתן מייקרת את
 מחיר השימוש בדלקים פוסיליים ולכן לרוב אינה נובעת מיוזמה עצמאית של
@@ -729,7 +731,7 @@ pollution-mortality) היו כ-5 טריליון דולר, השקולים ל-6.5%
 אורניום 235, צריך להעשיר את ריכוזו באורניום עד לריכוז של מספר אחוזים
 (כ-4.5% אורניום 235) כדי להשיג תגובת שרשרת של ביקועים הדרושה להפעלת
 כורים המקוררים במים – מרבית כורי-הכוח הפועלים כיום. כורים המשתמשים במים
-כבדים - D~2~O, ובחומרים נוספים (ראו למטה) יכולים להשתמש באורניום טבעי.
+כבדים - <span class="math notranslate nohighlight">\(\ce{D2O}\)</span>, ובחומרים נוספים (ראו למטה) יכולים להשתמש באורניום טבעי.
 כיום פועלים בעולם כ-440 כורים גרעיניים לייצור אנרגיה שרובם פועל כבר
 עשרות שנים. יש כ-55 כורים נוספים בשלבי בניה והם אמורים להיכנס לפעולה
 בשנים הקרובות, אם כתוספת או כתחליף לחלק מהכורים הישנים שיושבתו.<a class="footnote-reference brackets" href="#id308" id="id85" role="doc-noteref"><span class="fn-bracket">[</span>80<span class="fn-bracket">]</span></a>
@@ -851,7 +853,7 @@ trans-U waste).</p>
 משום שהמים המחוממים מאכלים (corrosive) יותר ממי תהום רגילים ויכולים
 לשחרר יסודות רעילים הנמצאים בתת הקרקע. יתרון האנרגיה הגאותרמית בכך שאינה
 משחררת פד“ח לאטמוספרה, אם כי יש חשש שכמויות קטנות של גזים כמו מתאן
-ומימן גופרתי (H~2~S) עלולים להיפלט מהמים שהוחדרו לעומקים גדולים, כפי
+ומימן גופרתי (<span class="math notranslate nohighlight">\(\ce{H2}\)</span>S) עלולים להיפלט מהמים שהוחדרו לעומקים גדולים, כפי
 שעולה מסקר שביצעה הסוכנות הבינלאומית לאנרגיות מתחדשות (IRENA) ושהוזכר
 בראשית תת הפרק הזה. יתרון נוסף הוא שהמִדְרך האקולוגי של תחנות גאותרמיות
 (מבחינת שטחים הדרושים לפעילותה, כמות חומרי הגלם הנחוצים להקמתן אם לא
@@ -1086,7 +1088,7 @@ depletion)<a class="footnote-reference brackets" href="#id392" id="id175" role="
 וחמצן (אלקטרוליזה)<a class="footnote-reference brackets" href="#id398" id="id181" role="doc-noteref"><span class="fn-bracket">[</span>172<span class="fn-bracket">]</span></a> ולהשתמש במימן שנוצר כחומר גלם (מימן ירוק)
 לבעירה בזמן צורך.</p>
 <p>שימוש במימן לייצור אנרגיה חורג מתחום אגירת אנרגיה, ומהווה נושא בפני
-עצמו. למשל, כיום מנסים להפיק מימן מפירוק של מתאן (CH~4~) או
+עצמו. למשל, כיום מנסים להפיק מימן מפירוק של מתאן (<span class="math notranslate nohighlight">\(\ce{CH4}\)</span>) או
 ביו-מסה<a class="footnote-reference brackets" href="#id399" id="id182" role="doc-noteref"><span class="fn-bracket">[</span>173<span class="fn-bracket">]</span></a> (מימן אפור, משום שהתהליך מלווה בשחרור פד“ח שצריך ללכוד
 בשיטות שונות של CCS). לאחרונה הוצע להשתמש בשילוב של ראקציות כימיות על
 מנת להפיק מימן מגז מתאן ובמקביל לקבע את הפחמן המשתחרר בתהליך הנקרא
@@ -1639,7 +1641,7 @@ limited CO2 removal. <em>ES&amp;T</em>.
 <aside class="footnote brackets" id="id271" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id45">40</a><span class="fn-bracket">]</span></span>
 <p>סלעים מאפיים הם סלעים מגמתיים המכילים יחסית מעט צורן דו-חמצני
-(45-52% - SiO~2~) וריכוזים גבוהים יחסית של ברזל ומגנזיום. בזלת היא
+(45-52% - <span class="math notranslate nohighlight">\(\ce{SiO2}\)</span>) וריכוזים גבוהים יחסית של ברזל ומגנזיום. בזלת היא
 דוגמא לסלע מאפי נפוץ. סלעים אולטרה-מאפיים מכילים פחות מ 45% צורן
 דו-חמצני. הסלעים הנפוצים ביותר הם פרידוטיט – המורכב ממינרלי אוליבין
 ופירוקסן, ודוניט – המורכב בעיקר מאוליבין. רוב הסלעים האולטרה-מאפיים
@@ -1937,10 +1939,10 @@ Oil and Gas Journal on Feb 18 2000,
 </aside>
 <aside class="footnote brackets" id="id302" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id78">71</a><span class="fn-bracket">]</span></span>
-<p><img alt=" mathrm{LCOE} = frac{text{sum of costs overlifetime}}{text{sum of electrical energy produced over lifetime}}= frac{sum{t=1}{n} frac{ I_t + M_t +F_t}{left({1+r}right)t} }{sum{t=1}{n}frac{E_t}{left({1+r}right){t}} }" src="media/image6.png" /> Where, <em>I~t~</em> = investment
-expenditures in the year t; <em>M~t~</em> = operations and maintenance
-expenditures in the year t; <em>F~t~</em> = fuel expenditures in the year
-t; <em>E~t~</em> = electrical energy generated in the year t; <em>r</em> =
+<p><img alt=" mathrm{LCOE} = frac{text{sum of costs overlifetime}}{text{sum of electrical energy produced over lifetime}}= frac{sum{t=1}{n} frac{ I_t + M_t +F_t}{left({1+r}right)t} }{sum{t=1}{n}frac{E_t}{left({1+r}right){t}} }" src="media/image6.png" /> Where, <em><span class="math notranslate nohighlight">\(I_t\)</span></em> = investment
+expenditures in the year t; <em><span class="math notranslate nohighlight">\(M_t\)</span></em> = operations and maintenance
+expenditures in the year t; <em><span class="math notranslate nohighlight">\(F_t\)</span></em> = fuel expenditures in the year
+t; <em><span class="math notranslate nohighlight">\(E_t\)</span></em> = electrical energy generated in the year t; <em>r</em> =
 discount rate; <em>n</em> = expected lifetime of system or power station.</p>
 </aside>
 <aside class="footnote brackets" id="id303" role="doc-footnote">
@@ -2841,7 +2843,7 @@ power generated by fusion before this is really a breakeven exp. ”</p>
 Precambrian continental lithosphere to global H2 production.
 <em>Nature</em> <strong>516</strong>, 379-382.
 <a class="reference external" href="https://www.nature.com/articles/nature14017">https://www.nature.com/articles/nature14017</a>; (2) Warr, O. et al.
-(2019) Mechanisms and rates of ^4^He, ^40^Ar, and H~2~ production
+(2019) Mechanisms and rates of ^4^He, ^40^Ar, and <span class="math notranslate nohighlight">\(\ce{H2}\)</span> production
 and accumulation in fracture fluids in Precambrian Shield
 environments. <em>Chemical Geology</em>, <strong>530</strong>, 119322.
 <a class="reference external" href="https://www.sciencedirect.com/science/article/abs/pii/S0009254119304292?via%3Dihub">https://www.sciencedirect.com/science/article/abs/pii/S0009254119304292?via%3Dihub</a>
@@ -2878,7 +2880,7 @@ geologic hydrogen resources. <em>Sci. Adv</em>. <strong>10</strong>.
 </aside>
 <aside class="footnote brackets" id="id423" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id209">197</a><span class="fn-bracket">]</span></span>
-<p>There are two major pathways to produce H~2~ by igneous rocks
+<p>There are two major pathways to produce <span class="math notranslate nohighlight">\(\ce{H2}\)</span> by igneous rocks
 (Lollar, et al., 2014): (1) ~80% s produced through
 serpentinization - water reaction with iron-rich minerals that
 reside in iron-rich rocks to make hydrogen; (2) ~20% is produced by
@@ -2955,8 +2957,8 @@ months before the March 11^th^ 2011 Fukushima nuclear disaster.</p>
 </aside>
 <aside class="footnote brackets" id="id434" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id221">208</a><span class="fn-bracket">]</span></span>
-<p>In 2003 - 27.7 GT CO~2~ were emitted, in 2013 – 35.3 GT, and in
-2023 – 37.8 GT (delta CO~2~: 2003 – 2013 = 7.6 GT; 2013-2023 = 2.5
+<p>In 2003 - 27.7 GT <span class="math notranslate nohighlight">\(\ce{CO2}\)</span> were emitted, in 2013 – 35.3 GT, and in
+2023 – 37.8 GT (delta <span class="math notranslate nohighlight">\(\ce{CO2}\)</span>: 2003 – 2013 = 7.6 GT; 2013-2023 = 2.5
 GT).
 <a class="reference external" href="https://ourworldindata.org/co2-and-greenhouse-gas-emissions%20%20-%20in%202003">https://ourworldindata.org/co2-and-greenhouse-gas-emissions</a></p>
 </aside>

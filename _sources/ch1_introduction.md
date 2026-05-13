@@ -134,7 +134,7 @@ name: fig 1-1
 :::{div} .en-quote
 
 
-The great smog, London (1952)<br>CO~2~ rise, the Mauna Loa record -- C. Keeling (1957)<br>Silent Spring, bio-magnification of pesticides - R. Carson (1962)<br>Pollution is global & ancient, Pb in ice cores -- C. C. Patterson (1969)<br>Earth Day -- G. Nelson & D. Hayes (1970)<br>Limits to Growth -- The Club of Rome (1972)<br>The central role of oceans in climate regulation -- W. Broecker & DSDP<br>(1970s)<br>The stratospheric O~3~ depletion -- M. Molina & S. Rowland (1974--1980s)<br>The Gaia Hypothesis -- J. Lovelock & L. Margulis (1970s)<br>Ecological Footprint concept -- W. Rees & M. Wackernagel (1992)<br>Earth in the Balance -- A. Gore (1992)<br>Global warming -- 1896 (S. Arrhenius), 1930s (G. Callendar), 1970s,<br>1990s (Rio -- 1992) - present (COP21 - Paris 2015, COP30 - Brazil)
+The great smog, London (1952)<br>$\ce{CO2}$ rise, the Mauna Loa record -- C. Keeling (1957)<br>Silent Spring, bio-magnification of pesticides - R. Carson (1962)<br>Pollution is global & ancient, Pb in ice cores -- C. C. Patterson (1969)<br>Earth Day -- G. Nelson & D. Hayes (1970)<br>Limits to Growth -- The Club of Rome (1972)<br>The central role of oceans in climate regulation -- W. Broecker & DSDP<br>(1970s)<br>The stratospheric $\ce{O3}$ depletion -- M. Molina & S. Rowland (1974--1980s)<br>The Gaia Hypothesis -- J. Lovelock & L. Margulis (1970s)<br>Ecological Footprint concept -- W. Rees & M. Wackernagel (1992)<br>Earth in the Balance -- A. Gore (1992)<br>Global warming -- 1896 (S. Arrhenius), 1930s (G. Callendar), 1970s,<br>1990s (Rio -- 1992) - present (COP21 - Paris 2015, COP30 - Brazil)
 :::
 
 ## תיעוד הבעיה הסביבתית באמצעות מדדים רב-ממדיים
@@ -894,7 +894,7 @@ name: fig 1-4
     ההתחלתי שביחס אליו מחושב הגידול ובמספרים מוחלטים באותו פרק זמן יש
     תוספת גדולה יותר. ניתן לחשב בקלות את הזמן הדרוש להכפלת הערך ההתחלתי:
 
-    t~(x2)~ = 70/R, where t~(x2)~ = time needed for the initial value to
+    $t_{x2}$ = 70/R, where $t_{x2}$ = time needed for the initial value to
     double itself, and R = growth rate in %. [Exponential growth
     Definition and Examples - Biology Online
     Dictionary](https://www.biologyonline.com/dictionary/exponential-growth)

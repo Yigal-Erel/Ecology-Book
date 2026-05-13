@@ -82,7 +82,7 @@ species richness)[^13] בגלל שבירת הרצף (קיטוע) של בתי ג�
 המגוון הביולוגי. מצד שני, ב-2013 וב-2016 התפרסמו מחקרים שתעדו באמצעות
 ניתוח של תצלומי לווין מגמה של גידול בכיסוי הצמחייה (לא רק חקלאית) על פני
 היבשות בעשורים האחרונים greening effect)) למרות המשך הפגיעה בשטחים
-פתוחים,[^14] כאשר 70% מהעלייה יוחסה לדישון של פד\"ח (CO~2~
+פתוחים,[^14] כאשר 70% מהעלייה יוחסה לדישון של פד\"ח ($\ce{CO2}$
 fertilization)[^15] והיתרה התחלקה בין מספר גורמים כמו התחממות גלובלית,
 זמינות של חנקן, ושינוי בשימושי קרקע.[^16] המגמה של גידול בכיסוי צמחיה
 נמצאה במחקר נוסף שפורסם ב-2017 והסתמך על מדידות של קרבוניל גופרתי
@@ -599,10 +599,10 @@ name: fig 8-7
 ופגיעה במגוון הביולוגי.[^183] לתהליכים אלה, הקרויים בשם כולל הרס הקרקע
 (soil degradation), יש גם השלכות על גופי מים סמוכים, כמו למשל זיהום
 ואאוטרופיקציה (eutrophication -- ראו פרק 2 ופרק 9) וכן פליטה של גזים
-שונים לאטמוספרה (CO~2~, CH~4~, N~2~O, NOx - ראו פרק 11).
+שונים לאטמוספרה ($\ce{CO2}$, $\ce{CH4}$, $\ce{N2O}$, NOx - ראו פרק 11).
 
 אחת השאלות החשובות בחקר הקרקע היא מה תהיה תגובת הקרקעות בעולם להתחממות
-גלובלית והאם כתוצאה מהתחממות והגברת היצרנות הראשונית (בעיקר עקב CO~2~
+גלובלית והאם כתוצאה מהתחממות והגברת היצרנות הראשונית (בעיקר עקב $\ce{CO2}$
 fertilization), תכולת החומר האורגני בקרקע תעלה או שמא היא דווקא תרד בגלל
 העלייה בקצב הפירוק של חומר אורגני עם העלייה בטמפרטורה.[^184] מחקרים
 שונים מצביעים על כך שחלק מאי הוודאות לגבי קצב קליטת פד\"ח על ידי קרקעות
@@ -1520,7 +1520,7 @@ Management של אלן סבורי ( Savory- ראו פרק 2),[^250] וכן הפ�
     <https://www.pnas.org/doi/10.1073/pnas.1922030117>
 
 [^123]: \(1\) Reich, P. B. et al. (2018) Unexpected reversal of C3
-    versus C4 grass response to elevated CO~2~ during a 20-year field
+    versus C4 grass response to elevated $\ce{CO2}$ during a 20-year field
     experiment. *Science* **360**, 317-320.
     [*https://doi.org/doi:10.1126/science.aas9313*](https://doi.org/doi:10.1126/science.aas9313)
     ; (2) Hovenden, M. J., Newton, P. C. & Wills, K. E (2014) Seasonal
@@ -1923,7 +1923,7 @@ Management של אלן סבורי ( Savory- ראו פרק 2),[^250] וכן הפ�
     *Science* **358**, 101-105.
     [*https://doi.org/doi:10.1126/science.aan2874*](https://doi.org/doi:10.1126/science.aan2874)
     ; (4) Terrer, C. et al*.* (2021) A trade-off between plant and soil
-    carbon storage under elevated CO~2~. *Nature* **591**, 599--603.
+    carbon storage under elevated $\ce{CO2}$. *Nature* **591**, 599--603.
     <https://doi.org/10.1038/s41586-021-03306-8> ; (5) Fang, C. et
     al. (2005) Similar response of labile and resistant soil organic
     matter pools to changes in temperature. *Nature* **433**, 57--59.
@@ -1989,7 +1989,7 @@ Management של אלן סבורי ( Savory- ראו פרק 2),[^250] וכן הפ�
 
 [^195]: אלקליניות -- alkalinity: The excess of strong base cations
     (chiefly, Ca2+, Mg2+, Na+, K+) relative to strong acid anions
-    (mostly, Cl^-^, SO~4~^2-^, NO~3~^-^) dissolved in water, considering
+    (mostly, Cl^-^, $\ce{SO4^{2-}}$, $\ce{NO3-}$) dissolved in water, considering
     both concentrations and charges. It translates to the ability of the
     water to neutralize acids and bases and maintain a relatively stable
     pH level -- Stumm W. and Morgan J. J. (1996) Aquatic Chemistry,

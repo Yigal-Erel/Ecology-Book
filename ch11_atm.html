@@ -59,6 +59,8 @@
     <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>window.MathJax = {"loader": {"load": ["[tex]/mhchem"]}, "tex": {"packages": {"[+]": ["mhchem"]}, "displayMath": [["$$", "$$"], ["\\[", "\\]"]], "inlineMath": [["$", "$"], ["\\(", "\\)"]]}, "options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'ch11_atm';</script>
     <script src="_static/chapter-version.js?v=238b042c"></script>
     <script src="_static/custom_scroll.js?v=678a69f3"></script>
@@ -397,15 +399,15 @@ document.write(`
 האטמוספרה אינם מכירים בגבולות של מדינות מה שיוצר זיהום אוויר חוצה גבולות
 (11.8). נסיים את החלק על זיהום האטמוספרה התחתונה (טרופוספרה) בסקירת
 שיטות דיגום וניטור של מזהמי אוויר (11.9). לאחר מכן נתמקד בפגיעה באוזון
-(~3~O) הסטרטוספרי ובאמצעות הסקירה הזאת נטפל בתהליכים מושרי-אור באטמוספרה
+(<span class="math notranslate nohighlight">\(\ce{O3}\)</span>) הסטרטוספרי ובאמצעות הסקירה הזאת נטפל בתהליכים מושרי-אור באטמוספרה
 וביצירת מזהמים שניוניים (ראו הגדרה בהמשך) (11.10).</p>
 <section id="id2">
 <h2>הרכב, תכונות ותנועת האוויר באטמוספרה<a class="headerlink" href="#id2" title="Link to this heading">#</a></h2>
-<p>האטמוספרה של כדור הארץ מכילה ארבעה סוגי גז עיקריים: חנקן (N~2~ 78%~),
-חמצן (O~2~ 21%~), ארגון (0.9%~ Ar) ופחמן דו חמצני - פד“ח (CO~2~
+<p>האטמוספרה של כדור הארץ מכילה ארבעה סוגי גז עיקריים: חנקן (<span class="math notranslate nohighlight">\(\ce{N2}\)</span> 78%~),
+חמצן (<span class="math notranslate nohighlight">\(\ce{O2}\)</span> 21%~), ארגון (0.9%~ Ar) ופחמן דו חמצני - פד“ח (<span class="math notranslate nohighlight">\(\ce{CO2}\)</span>
 0.04%~). גזים נוספים נמצאים בריכוזים נמוכים הרבה יותר, והם כוללים אדי
-מים<a class="footnote-reference brackets" href="#id268" id="id3" role="doc-noteref"><span class="fn-bracket">[</span>1<span class="fn-bracket">]</span></a> תחמוצות גופרית ( SO~2~, SO~3~), תחמוצות חנקן (NO, NO~2~, N~2~O),
-מתאן (CH~4~), ועוד. בנוסף, האטמוספרה מכילה טיפות מים, גבישי קרח וחלקיקים
+מים<a class="footnote-reference brackets" href="#id268" id="id3" role="doc-noteref"><span class="fn-bracket">[</span>1<span class="fn-bracket">]</span></a> תחמוצות גופרית ( <span class="math notranslate nohighlight">\(\ce{SO2}\)</span>, <span class="math notranslate nohighlight">\(\ce{SO3}\)</span>), תחמוצות חנקן (NO, <span class="math notranslate nohighlight">\(\ce{NO2}\)</span>, <span class="math notranslate nohighlight">\(\ce{N2O}\)</span>),
+מתאן (<span class="math notranslate nohighlight">\(\ce{CH4}\)</span>), ועוד. בנוסף, האטמוספרה מכילה טיפות מים, גבישי קרח וחלקיקים
 מרחפים (אירוסולים או אווירוסולים – PM, particulate matter). לעיתים חלק
 מהמרכיבים הללו מגיבים אחד עם השני, כאשר חלק מהתגובות מחייבות אור שמש
 כמקור אנרגיה (תהליך מושרה אור – פוטוכימי) וחלקן מתרחשות גם בחושך. חקר
@@ -517,20 +519,20 @@ heat)<a class="footnote-reference brackets" href="#id281" id="id16" role="doc-no
 <p>מזהמי אוויר נפלטים ממקורות נייחים (תחנות כוח השורפות דלקים פוסיליים,
 מפעלי תעשייה, מכרות, שדות חקלאיים, ועוד) וממקורות ניידים (מכוניות,
 רכבות, ספינות ומטוסים). את מזהמי האטמוספרה מחלקים למזהמים גזיים (CO,
-SO~x~ (SO~2~ + SO~3~), Volatile Organic Compounds (VOC),<a class="footnote-reference brackets" href="#id301" id="id37" role="doc-noteref"><span class="fn-bracket">[</span>35<span class="fn-bracket">]</span></a> NO~x~
-(NO+NO~2~), N~2~O, O~3~, HCl, Cl~2~, HF), מזהמים המומסים בטיפות ענן וגשם
-(H~2~S, SO~4~^2-^, NO~3~^-^), ומזהמים חלקיקיים, אירוסולים (PM –
+SO<span class="math notranslate nohighlight">\(_x\)</span> (<span class="math notranslate nohighlight">\(\ce{SO2}\)</span> + <span class="math notranslate nohighlight">\(\ce{SO3}\)</span>), Volatile Organic Compounds (VOC),<a class="footnote-reference brackets" href="#id301" id="id37" role="doc-noteref"><span class="fn-bracket">[</span>35<span class="fn-bracket">]</span></a> NO<span class="math notranslate nohighlight">\(_x\)</span>
+(NO+<span class="math notranslate nohighlight">\(\ce{NO2}\)</span>), <span class="math notranslate nohighlight">\(\ce{N2O}\)</span>, <span class="math notranslate nohighlight">\(\ce{O3}\)</span>, HCl, <span class="math notranslate nohighlight">\(\ce{Cl2}\)</span>, HF), מזהמים המומסים בטיפות ענן וגשם
+(<span class="math notranslate nohighlight">\(\ce{H2}\)</span>S, <span class="math notranslate nohighlight">\(\ce{SO4^{2-}}\)</span>, <span class="math notranslate nohighlight">\(\ce{NO3-}\)</span>), ומזהמים חלקיקיים, אירוסולים (PM –
 particulate matter), <a class="footnote-reference brackets" href="#id302" id="id38" role="doc-noteref"><span class="fn-bracket">[</span>36<span class="fn-bracket">]</span></a>וכן למזהמים ראשוניים ושניוניים. מזהמים
 ראשוניים נפלטים ישירות ממקורות הזיהום שפורטו למעלה (לדוגמה CO, NO,
-SO~2~, PM) ומזהמים שניוניים נוצרים מריאקציות בזמן התנועה של מזהמים
-באטמוספרה (NO~2~, NO~3~^-^, SO~4~^2-^, O~3~, PM). מזהמים שניוניים נוצרים
+<span class="math notranslate nohighlight">\(\ce{SO2}\)</span>, PM) ומזהמים שניוניים נוצרים מריאקציות בזמן התנועה של מזהמים
+באטמוספרה (<span class="math notranslate nohighlight">\(\ce{NO2}\)</span>, <span class="math notranslate nohighlight">\(\ce{NO3-}\)</span>, <span class="math notranslate nohighlight">\(\ce{SO4^{2-}}\)</span>, <span class="math notranslate nohighlight">\(\ce{O3}\)</span>, PM). מזהמים שניוניים נוצרים
 בתהליכים מושרי-אור וכן בתהליכים המתרחשים גם בחושך. בהקשר זה חשוב לציין
 שניים מבין תהליכי יצירת PM שניוניים: (1) יצירה של חלקיקים אורגניים
 מרחפים שניוניים (SOA – Secondary Organic Aerosols) מהתעבות תוצרי חמצון
-של VOC וחומרים נוספים,<a class="footnote-reference brackets" href="#id303" id="id39" role="doc-noteref"><span class="fn-bracket">[</span>37<span class="fn-bracket">]</span></a> ו-(2) חמצון של גופרית דו חמצנית גזית (~2~SO)
-ויצירת יון סולפיט SO~3~^2-^ המתמוסס בטיפות המים באטמוספרה, עובר
-הידרוליזה ויוצר יון סולפט (SO~4~^2-^) המגיב עם יונים כמו אמוניום
-(NH~4~^+^) ליצירת אירוסולים של מלחים (ראו בהמשך). לאחרונה עלה חשש שיצירה
+של VOC וחומרים נוספים,<a class="footnote-reference brackets" href="#id303" id="id39" role="doc-noteref"><span class="fn-bracket">[</span>37<span class="fn-bracket">]</span></a> ו-(2) חמצון של גופרית דו חמצנית גזית (<span class="math notranslate nohighlight">\(\ce{SO2}\)</span>)
+ויצירת יון סולפיט <span class="math notranslate nohighlight">\(\ce{SO3}\)</span>^2-^ המתמוסס בטיפות המים באטמוספרה, עובר
+הידרוליזה ויוצר יון סולפט (<span class="math notranslate nohighlight">\(\ce{SO4^{2-}}\)</span>) המגיב עם יונים כמו אמוניום
+(<span class="math notranslate nohighlight">\(\ce{NH4+}\)</span>) ליצירת אירוסולים של מלחים (ראו בהמשך). לאחרונה עלה חשש שיצירה
 של סוגים מסוימים של SOA מתגברת בימים חמים, כלומר צפוי שיותר SOA ייווצרו
 כאשר תכיפותם של גלי חום תגבר עם ההתחממות הגלובלית.<a class="footnote-reference brackets" href="#id304" id="id40" role="doc-noteref"><span class="fn-bracket">[</span>38<span class="fn-bracket">]</span></a> בנוסף לכל
 המקורות הללו שמגיעים מפני השטח של כדור הארץ, מתרבים לאחרונה הדיווחים על
@@ -547,8 +549,8 @@ SO~2~, PM) ומזהמים שניוניים נוצרים מריאקציות בז�
 מזהמים:<a class="footnote-reference brackets" href="#id307" id="id43" role="doc-noteref"><span class="fn-bracket">[</span>41<span class="fn-bracket">]</span></a> אלו המסכנים את בריאות הציבור ואלו הקשורים לפגיעה בצמחים,
 בעלי חיים, ראות (visibility) ומבנים (יש גם מזהמים השייכים לשתי הקבוצות,
 למשל אוזון). הסוג הראשון כלל בהתחלה שישה מזהמים ונתן להם שם ”מזהמי
-קריטריון“ (אוזון – ~3~O, פחמן חד-חמצני – CO, תחמוצות חנקן NO~X~,
-גופרית דו חמצנית ~2~SO, חלקיקים מרחפים – PM, עופרת – Pb). במרוצת השנים
+קריטריון“ (אוזון – <span class="math notranslate nohighlight">\(\ce{O3}\)</span>, פחמן חד-חמצני – CO, תחמוצות חנקן NO<span class="math notranslate nohighlight">\(_x\)</span>,
+גופרית דו חמצנית <span class="math notranslate nohighlight">\(\ce{SO2}\)</span>, חלקיקים מרחפים – PM, עופרת – Pb). במרוצת השנים
 ה-EPA שינה את הסטנדרטים הסביבתיים שלהם בהתאם להתפתחות המחקר הטוקסיקולוגי
 והאפידמיולוגי וכן הוסיף רשימה ארוכה של מזהמים נוספים (בעיקר סוגים שונים
 של VOC, תת סוגים של PM, ומספר מתכות רעילות). אולם, רשימת מזהמי הקריטריון
@@ -566,7 +568,7 @@ SO~2~, PM) ומזהמים שניוניים נוצרים מריאקציות בז�
 דבר דינמי שמתעדכן מעת לעת על סמך התקדמות הידע שלנו על ההשלכות הבריאותיות
 והסביבתיות (טבלה 11.1).<a class="footnote-reference brackets" href="#id311" id="id47" role="doc-noteref"><span class="fn-bracket">[</span>45<span class="fn-bracket">]</span></a></p>
 <p>בישראל רוב התקנים למזהמי אוויר דומים לתקנים שנקבעו בארצות הברית
-ובאירופה, אולם לגבי PM (PM~10~, PM~2.5~)<a class="footnote-reference brackets" href="#id312" id="id48" role="doc-noteref"><span class="fn-bracket">[</span>46<span class="fn-bracket">]</span></a> התקנים שונים, משום שישראל
+ובאירופה, אולם לגבי PM (PM<span class="math notranslate nohighlight">\(_{10}\)</span>, PM<span class="math notranslate nohighlight">\(_{2.5}\)</span>)<a class="footnote-reference brackets" href="#id312" id="id48" role="doc-noteref"><span class="fn-bracket">[</span>46<span class="fn-bracket">]</span></a> התקנים שונים, משום שישראל
 נמצאת במיקום גיאוגרפי שונה מרוב מדינות ה-OECD, כלומר, בקרבת מדבריות
 המשחררים לאטמוספרה כמויות גדולות של PM, ושאין דרך פשוטה להשפיע על
 הפליטות שלהם. במהלך השנים הסתבר ש-PM, עליהם נרחיב בהמשך, גורמים לנזקי
@@ -586,59 +588,59 @@ SO~2~, PM) ומזהמים שניוניים נוצרים מריאקציות בז�
 <section id="nox-no-no2-n2o-no3">
 <h3>תחמוצות חנקן (NOx (NO+NO2), N2O, NO3-)<a class="headerlink" href="#nox-no-no2-n2o-no3" title="Link to this heading">#</a></h3>
 <p>הדיון בפרק זה מתבסס ומרחיב את מה שנכתב על מחזור החנקן בפרק 5. הדיון
-מתמקד בחנקן פעיל, ומתעלם מחנקן גזי אטמוספרי (N~2~) שהוא אינרטי מבחינה
+מתמקד בחנקן פעיל, ומתעלם מחנקן גזי אטמוספרי (<span class="math notranslate nohighlight">\(\ce{N2}\)</span>) שהוא אינרטי מבחינה
 כימית. התהליכים העיקריים המשפיעים על חנקן אטמוספרי מופיעים באיור 11.3.
-בנוסף לתחמוצות חנקן (NO~x~ (NO+NO~2~), N~2~O, NO~3~^-^) חשוב להזכיר גם
-את האמוניה (NH~3~), תרכובת גזית שבה החנקן נמצא במצב חמצון מחוזר והיא
+בנוסף לתחמוצות חנקן (NO<span class="math notranslate nohighlight">\(_x\)</span> (NO+<span class="math notranslate nohighlight">\(\ce{NO2}\)</span>), <span class="math notranslate nohighlight">\(\ce{N2O}\)</span>, <span class="math notranslate nohighlight">\(\ce{NO3-}\)</span>) חשוב להזכיר גם
+את האמוניה (<span class="math notranslate nohighlight">\(\ce{NH3}\)</span>), תרכובת גזית שבה החנקן נמצא במצב חמצון מחוזר והיא
 שחקן חשוב ביצירת אירוסולים שניוניים באטמוספרה ומהווה בעצמה מזהם
 אטמוספרי, בעיקר סמוך למקורות פליטה (תעשייה ושדות חקלאיים), אולם איננה
 אחד ממזהמי הקריטריון. כמו כן, לא נדון בתחמוצות חנקן נוספות שזמן השהות
 שלהן באטמוספרה קצר, אם כי הן משתתפות במגוון תהליכים פוטוכימיים ותרמיים
-(למשל, NO~3~ (radical),<a class="footnote-reference brackets" href="#id315" id="id51" role="doc-noteref"><span class="fn-bracket">[</span>50<span class="fn-bracket">]</span></a> N~2~O~3~, N~2~O~4~, N~2~O~5~). חשוב לציין
-בנוסף את החומצות החנקתיות (HONO, HNO~3~), כאשר HONO (nitrous acid) <a class="footnote-reference brackets" href="#id316" id="id52" role="doc-noteref"><span class="fn-bracket">[</span>51<span class="fn-bracket">]</span></a>
+(למשל, N<span class="math notranslate nohighlight">\(\ce{O3}\)</span> (radical),<a class="footnote-reference brackets" href="#id315" id="id51" role="doc-noteref"><span class="fn-bracket">[</span>50<span class="fn-bracket">]</span></a> <span class="math notranslate nohighlight">\(\ce{N2O}\)</span>~3~, <span class="math notranslate nohighlight">\(\ce{N2O}\)</span>~4~, <span class="math notranslate nohighlight">\(\ce{N2O}\)</span>~5~). חשוב לציין
+בנוסף את החומצות החנקתיות (HONO, <span class="math notranslate nohighlight">\(\ce{HNO3}\)</span>), כאשר HONO (nitrous acid) <a class="footnote-reference brackets" href="#id316" id="id52" role="doc-noteref"><span class="fn-bracket">[</span>51<span class="fn-bracket">]</span></a>
 הוא שחקן חשוב ביצירת רדיקל חופשי של אוזון ושל הידרוקסיד (^.^OH),<a class="footnote-reference brackets" href="#id317" id="id53" role="doc-noteref"><span class="fn-bracket">[</span>52<span class="fn-bracket">]</span></a>
-ואילו ~3~HNO הוא שחקן מפתח ביצירת גשם חומצי. אנחנו נדון בשניהם ביתר
-הרחבה בהמשך. כפי שציינו בפרק על התחממות גלובלית, O~2~N הוא גז החממה
+ואילו <span class="math notranslate nohighlight">\(\ce{HNO3}\)</span> הוא שחקן מפתח ביצירת גשם חומצי. אנחנו נדון בשניהם ביתר
+הרחבה בהמשך. כפי שציינו בפרק על התחממות גלובלית, <span class="math notranslate nohighlight">\(\ce{O2}\)</span>N הוא גז החממה
 השלישי בחשיבותו, בנוסף להיותו משתתף פעיל בהרס האוזון הסטרטוספרי (ראו
 בהמשך הפרק). בנוסף לכל אלה, תרכובות חנקן יוצרות אירוסולים, שהנפוץ בהם
-הוא אמוניום-ניטרט (NH~4~NO~3~).</p>
-<p>תחמוצות החנקן NO~x~(NO+NO~2~) מוגדרות כמזהם קריטריון. NO~X~ מוגדר כסכום
-של NO ו-~2~NO משום שבמהלך היממה שתי התרכובות הללו משתחלפות בהשפעת קרינת
-השמש ואינטראקציה עם מרכיבים אחרים באטמוספרה. תרכובות NO~x~ הן שחקניות
-מרכזיות בתהליכים שונים באטמוספרה, כמו למשל ייצור אוזון (~3~O)
+הוא אמוניום-ניטרט (NH~4~N<span class="math notranslate nohighlight">\(\ce{O3}\)</span>).</p>
+<p>תחמוצות החנקן NO<span class="math notranslate nohighlight">\(_x\)</span>(NO+<span class="math notranslate nohighlight">\(\ce{NO2}\)</span>) מוגדרות כמזהם קריטריון. NO<span class="math notranslate nohighlight">\(_x\)</span> מוגדר כסכום
+של NO ו-<span class="math notranslate nohighlight">\(\ce{NO2}\)</span> משום שבמהלך היממה שתי התרכובות הללו משתחלפות בהשפעת קרינת
+השמש ואינטראקציה עם מרכיבים אחרים באטמוספרה. תרכובות NO<span class="math notranslate nohighlight">\(_x\)</span> הן שחקניות
+מרכזיות בתהליכים שונים באטמוספרה, כמו למשל ייצור אוזון (<span class="math notranslate nohighlight">\(\ce{O3}\)</span>)
 טרופוספרי,<a class="footnote-reference brackets" href="#id318" id="id54" role="doc-noteref"><span class="fn-bracket">[</span>53<span class="fn-bracket">]</span></a> אחד מתהליכי יצירת ערפיח פוטוכימי (photochemical smog) בו
 נדון בהמשך הפרק. NO הוא מזהם ראשוני הנפלט ממנועי שריפה פנימית ומתחנות
-כוח, בעיקר כתוצאה מריאקציה בין חנקן אטמוספרי (~2~N) וחמצן אטמוספרי
-(~2~O) במנוע שריפה פנימית, וכן כתוצאה מחמצון של תרכובות חנקן הנמצאות
-בדלק פוסילי. כמויות קטנות של ~2~NO נפלטות כמזהם ראשוני ממנועי שריפה
-פנימית בנוסף ל NO. פירוק דשנים עשירי חנקה (ניטרט -NO~3~^-^) בעיקר בשדות
+כוח, בעיקר כתוצאה מריאקציה בין חנקן אטמוספרי (<span class="math notranslate nohighlight">\(\ce{N2}\)</span>) וחמצן אטמוספרי
+(<span class="math notranslate nohighlight">\(\ce{O2}\)</span>) במנוע שריפה פנימית, וכן כתוצאה מחמצון של תרכובות חנקן הנמצאות
+בדלק פוסילי. כמויות קטנות של <span class="math notranslate nohighlight">\(\ce{NO2}\)</span> נפלטות כמזהם ראשוני ממנועי שריפה
+פנימית בנוסף ל NO. פירוק דשנים עשירי חנקה (ניטרט -<span class="math notranslate nohighlight">\(\ce{NO3-}\)</span>) בעיקר בשדות
 המקבלים עודפי דשנים (denitrification – פרק 5) מהווה מקור נוסף לתרכובות
-NO~X~ ו O~2~N הנפלטות לאטמוספרה.<a class="footnote-reference brackets" href="#id319" id="id55" role="doc-noteref"><span class="fn-bracket">[</span>54<span class="fn-bracket">]</span></a> מעברי חמצון – חיזור של תחמוצות
+NO<span class="math notranslate nohighlight">\(_x\)</span> ו <span class="math notranslate nohighlight">\(\ce{O2}\)</span>N הנפלטות לאטמוספרה.<a class="footnote-reference brackets" href="#id319" id="id55" role="doc-noteref"><span class="fn-bracket">[</span>54<span class="fn-bracket">]</span></a> מעברי חמצון – חיזור של תחמוצות
 חנקן הם מורכבים ביותר, ומתוארים במספר גדול של ספרי לימוד ומאמרים,<a class="footnote-reference brackets" href="#id320" id="id56" role="doc-noteref"><span class="fn-bracket">[</span>55<span class="fn-bracket">]</span></a>
-ולכן לא נדון בהם בפירוט במסגרת הפרק הזה. נציין רק ש NO ו-~2~NO משתתפים
-כאמור במחזור יממתי. NO מגיב עם אוזון או מחמצנים נוספים ויוצר ~2~NO.<a class="footnote-reference brackets" href="#id321" id="id57" role="doc-noteref"><span class="fn-bracket">[</span>56<span class="fn-bracket">]</span></a>
-זאת כיוון שרוב ~2~NO באטמוספרה מגיע ממקור זה, ~2~NO הוא בעיקר מזהם
-שניוני. עם התגברות קרינת השמש, ~2~NO מתפרק ל-NO תוך כדי תגובה עם חמצן
-אטמוספרי ליצירת אוזון. במקביל, חלק מה-~2~NO מגיב עם רדיקל ^.^OH, מתחמצן
-ויוצר חומצה חנקתית גזית (~3~HNO) המסולקת במהירות מהאוויר ע“י התמוססת
+ולכן לא נדון בהם בפירוט במסגרת הפרק הזה. נציין רק ש NO ו-<span class="math notranslate nohighlight">\(\ce{NO2}\)</span> משתתפים
+כאמור במחזור יממתי. NO מגיב עם אוזון או מחמצנים נוספים ויוצר <span class="math notranslate nohighlight">\(\ce{NO2}\)</span>.<a class="footnote-reference brackets" href="#id321" id="id57" role="doc-noteref"><span class="fn-bracket">[</span>56<span class="fn-bracket">]</span></a>
+זאת כיוון שרוב <span class="math notranslate nohighlight">\(\ce{NO2}\)</span> באטמוספרה מגיע ממקור זה, <span class="math notranslate nohighlight">\(\ce{NO2}\)</span> הוא בעיקר מזהם
+שניוני. עם התגברות קרינת השמש, <span class="math notranslate nohighlight">\(\ce{NO2}\)</span> מתפרק ל-NO תוך כדי תגובה עם חמצן
+אטמוספרי ליצירת אוזון. במקביל, חלק מה-<span class="math notranslate nohighlight">\(\ce{NO2}\)</span> מגיב עם רדיקל ^.^OH, מתחמצן
+ויוצר חומצה חנקתית גזית (<span class="math notranslate nohighlight">\(\ce{HNO3}\)</span>) המסולקת במהירות מהאוויר ע“י התמוססת
 בטיפות מים וכן ספיחה לפני שטח של חלקיקים (PM) אטמוספריים. בתמיסה, חומצה
-חנקתית מתפרקת במהירות ומשחררת פרוטון (H^+^), תהליך התורם ליצירת גשם
-חומצי, כפי שנראה בהמשך הפרק. NO~2\ ~גורמת לבעיות נשימה בעיקר אצל אנשים
-הסובלים ממחלות רקע, וביחד עם אירוסולים של ניטרט (NO~3~^-^) היא יוצרת
+חנקתית מתפרקת במהירות ומשחררת פרוטון (<span class="math notranslate nohighlight">\(\ce{H+}\)</span>), תהליך התורם ליצירת גשם
+חומצי, כפי שנראה בהמשך הפרק. NO<span class="math notranslate nohighlight">\(_2\)</span> גורמת לבעיות נשימה בעיקר אצל אנשים
+הסובלים ממחלות רקע, וביחד עם אירוסולים של ניטרט (<span class="math notranslate nohighlight">\(\ce{NO3-}\)</span>) היא יוצרת
 עננה חומה (ערפיח פוטוכימי - photochemical smog) הפוגעת בראות
 (visibility), בולעת קרינת שמש וגורמת להתחממות האטמוספרה.</p>
-<p>בעשורים האחרונים נרשמה ירידה מתמדת בפליטות של NO~X\ ~בהרבה ארצות, אם כי
+<p>בעשורים האחרונים נרשמה ירידה מתמדת בפליטות של NO<span class="math notranslate nohighlight">\(_x\)</span> בהרבה ארצות, אם כי
 לאחרונה תועדה האטה בקצב הירידה, כנראה בגלל פליטה גדולה מהצפוי מרכבי שטח
 ומרכבים-מונעי דיזל.<a class="footnote-reference brackets" href="#id322" id="id58" role="doc-noteref"><span class="fn-bracket">[</span>57<span class="fn-bracket">]</span></a> במקביל, נעשים מאמצים רבים להפחית פליטות של
-O~2~N, אם כי כאן המשימה מורכבת יותר הן בגלל שמקור הפליטה העיקרי היא
+<span class="math notranslate nohighlight">\(\ce{O2}\)</span>N, אם כי כאן המשימה מורכבת יותר הן בגלל שמקור הפליטה העיקרי היא
 הפעילות המיקרוביאלית (denitrification) שצוינה קודם בשדות חקלאיים, והן
 בגלל שמנגנוני החמצון/חיזור שלו פחות ברורים,<a class="footnote-reference brackets" href="#id323" id="id59" role="doc-noteref"><span class="fn-bracket">[</span>58<span class="fn-bracket">]</span></a> עובדה המקשה על פיתוח
 זרזים לפירוקו.</p>
-<p>קיימות מגוון שיטות להפחית את פליטות NO~X~ ממנועי שריפה פנימית, אולם
+<p>קיימות מגוון שיטות להפחית את פליטות NO<span class="math notranslate nohighlight">\(_x\)</span> ממנועי שריפה פנימית, אולם
 אנחנו נציין רק את הממיר הקטליטי (catalytic converter) שתפקידו לסלק
-פחמימנים,<a class="footnote-reference brackets" href="#id324" id="id60" role="doc-noteref"><span class="fn-bracket">[</span>59<span class="fn-bracket">]</span></a> NO~X~, ו-CO לאחר שכבר נוצרו (ראו גם התייחסות בפרק 5 בחלק
-על העופרת). הממיר הקטליטי מזרז במקביל חמצון פחמימנים ו-CO ל ~2~CO,
-וחיזור NO~X~ לחנקן אטמוספרי, ~2~N.<a class="footnote-reference brackets" href="#id325" id="id61" role="doc-noteref"><span class="fn-bracket">[</span>60<span class="fn-bracket">]</span></a> פעולתו של ממיר קטליטי מצריכה
+פחמימנים,<a class="footnote-reference brackets" href="#id324" id="id60" role="doc-noteref"><span class="fn-bracket">[</span>59<span class="fn-bracket">]</span></a> NO<span class="math notranslate nohighlight">\(_x\)</span>, ו-CO לאחר שכבר נוצרו (ראו גם התייחסות בפרק 5 בחלק
+על העופרת). הממיר הקטליטי מזרז במקביל חמצון פחמימנים ו-CO ל <span class="math notranslate nohighlight">\(\ce{CO2}\)</span>,
+וחיזור NO<span class="math notranslate nohighlight">\(_x\)</span> לחנקן אטמוספרי, <span class="math notranslate nohighlight">\(\ce{N2}\)</span>.<a class="footnote-reference brackets" href="#id325" id="id61" role="doc-noteref"><span class="fn-bracket">[</span>60<span class="fn-bracket">]</span></a> פעולתו של ממיר קטליטי מצריכה
 משטחים מצופים במתכות נדירות ביותר ממשפחת הפלטינה (e.g., Pt, Pd, Rh), וכן
 מתכות נדירות נוספות. לכן, במקביל לתרומת הממירים הקטליטיים בהפחתת פליטות
 מזהמים לאטמוספרה, השימוש בהם גורם לבעיות סביבתיות חמורות באתרי הכרייה
@@ -669,10 +671,10 @@ permission.</p>
 </section>
 <section id="sox-so2-so32-so42">
 <h3>תחמוצות גופרית (SOx (SO2 + SO32-), SO42-)<a class="headerlink" href="#sox-so2-so32-so42" title="Link to this heading">#</a></h3>
-<p>גופרית דו חמצנית (~2~SO) נפלטת כגז לאטמוספרה ממקורות רבים. כפי שכבר
-ציינו בפרק 5, SO~2~ נפלטת מהרי געש ומשריפה של דלקים פוסיליים ושל
+<p>גופרית דו חמצנית (<span class="math notranslate nohighlight">\(\ce{SO2}\)</span>) נפלטת כגז לאטמוספרה ממקורות רבים. כפי שכבר
+ציינו בפרק 5, <span class="math notranslate nohighlight">\(\ce{SO2}\)</span> נפלטת מהרי געש ומשריפה של דלקים פוסיליים ושל
 ביומסה,<a class="footnote-reference brackets" href="#id328" id="id64" role="doc-noteref"><span class="fn-bracket">[</span>64<span class="fn-bracket">]</span></a> כלומר היא מזהם ראשוני. באטמוספרה היא מתחמצנת לסולפט
-(SO~4~^2^).<a class="footnote-reference brackets" href="#id329" id="id65" role="doc-noteref"><span class="fn-bracket">[</span>65<span class="fn-bracket">]</span></a> סולפט משתתף בתהליכי יצירת גשם ושלג חומצי בדומה
+(<span class="math notranslate nohighlight">\(\ce{SO4}\)</span>^2^).<a class="footnote-reference brackets" href="#id329" id="id65" role="doc-noteref"><span class="fn-bracket">[</span>65<span class="fn-bracket">]</span></a> סולפט משתתף בתהליכי יצירת גשם ושלג חומצי בדומה
 לניטרט.<a class="footnote-reference brackets" href="#id330" id="id66" role="doc-noteref"><span class="fn-bracket">[</span>66<span class="fn-bracket">]</span></a> כמו כן, סולפט מגיב עם אמוניה או עם נתרן המגיע ממלח ים,
 ויוצר חלקיקים מרחפים (אירוסולים - PM). אירוסולים אלה יכולים להוות זיהום
 אוויר כשהם נמצאים בשכבת הגבול של האטמוספרה (נרחיב על כך במסגרת הדיון על
@@ -687,10 +689,10 @@ PM), ולהשפיע על החזרת הקרינה של השמש בעיקר כשה
 ביולוגית, כגון COS ו-DMS (COS - carbonyl sulphide DMS,-(dimethyl
 sulphide .<a class="footnote-reference brackets" href="#id332" id="id68" role="doc-noteref"><span class="fn-bracket">[</span>68<span class="fn-bracket">]</span></a> תהליכי החמצון של גופרית באטמוספרה שפורטו לעיל מונעים
 בחלקם על ידי קרינת השמש (photochemical reactions) אולם יש גם ראקציות
-המתרחשות ללא אור. הגופרית האטמוספרית נמצאת הן בפאזה הגזית (SO~2\ ~ו
-SO~3~), הן בפאזה הנוזלית ( SO~4~^2-^,SO~2~^-^H~2~O, HSO~3~^-^,
-SO~3~^2-^=) והן בפאזה המוצקה, כחלקיקים עשירי SO~4~^2^. בנוסף, ישנן
-פליטות של גופרית מחוזרת (H~2~S) ממקורות טבעיים ואנתרופוגניים, כאשר
+המתרחשות ללא אור. הגופרית האטמוספרית נמצאת הן בפאזה הגזית (SO<span class="math notranslate nohighlight">\(_2\)</span> ו
+<span class="math notranslate nohighlight">\(\ce{SO3}\)</span>), הן בפאזה הנוזלית ( <span class="math notranslate nohighlight">\(\ce{SO4^{2-}}\)</span>,<span class="math notranslate nohighlight">\(\ce{SO2}\)</span>^-^<span class="math notranslate nohighlight">\(\ce{H2O}\)</span>, H<span class="math notranslate nohighlight">\(\ce{SO3}\)</span>^-^,
+<span class="math notranslate nohighlight">\(\ce{SO3}\)</span>^2-^=) והן בפאזה המוצקה, כחלקיקים עשירי <span class="math notranslate nohighlight">\(\ce{SO4}\)</span>^2^. בנוסף, ישנן
+פליטות של גופרית מחוזרת (<span class="math notranslate nohighlight">\(\ce{H2}\)</span>S) ממקורות טבעיים ואנתרופוגניים, כאשר
 באטמוספרה היא מתחמצנת לגופרית דו חמצנית. בדומה לתרכובות החנקן, מעברי
 חמצון – חיזור של תחמוצות גופרית הם תהליכים מורכבים ביותר הכוללים גם
 מעברים בין פאזות שונות (גז, נוזל ומוצק), ומתוארים בפירוט בספרי לימוד
@@ -699,23 +701,23 @@ SO~3~^2-^=) והן בפאזה המוצקה, כחלקיקים עשירי SO~4~^2^
 השורפות פחם,<a class="footnote-reference brackets" href="#id334" id="id70" role="doc-noteref"><span class="fn-bracket">[</span>70<span class="fn-bracket">]</span></a> אולם המאמץ העיקרי החל בשנות החמישים של המאה הקודמת
 בעקבות אירועי זיהום אוויר חמורים שיידונו בהמשך. בשנות השבעים התרחב המאמץ
 למדינות נוספות; למשל ארצות הברית, בעקבות חקיקת ”חוק אוויר נקי“ (Clean
-Air Act).<a class="footnote-reference brackets" href="#id335" id="id71" role="doc-noteref"><span class="fn-bracket">[</span>71<span class="fn-bracket">]</span></a> כיום נעשה שימוש נרחב בהתקנים לסילוק SO~2\ ~מארובות של
+Air Act).<a class="footnote-reference brackets" href="#id335" id="id71" role="doc-noteref"><span class="fn-bracket">[</span>71<span class="fn-bracket">]</span></a> כיום נעשה שימוש נרחב בהתקנים לסילוק SO<span class="math notranslate nohighlight">\(_2\)</span> מארובות של
 תחנות כוח ומפעלי תעשייה וכן מתבצע מעבר לדלקים עם תכולת גופרית נמוכה
 יותר. סיבה נוספת למעבר לדלקים עם תכולת גופרית נמוכה היא שהגופרית, בדומה
 לעופרת, פוגעת בתפקוד הממיר הקטליטי שהוזכר קודם. ישנם סוגים רבים של
-התקנים לסילוק SO~2~, כאשר שני הסוגים העיקריים הם סולקנים לחים (wet
+התקנים לסילוק <span class="math notranslate nohighlight">\(\ce{SO2}\)</span>, כאשר שני הסוגים העיקריים הם סולקנים לחים (wet
 scrubbers – כ-85% מכלל הסולקנים בארצות הברית) ויבשים (dry injection or
 spray drying). מנגנון הפעולה בסולקנים לחים הוא המסה, הידרוליזה והגבה של
-SO~2\ ~עם גיר או עם תחמוצת סידן:</p>
+SO<span class="math notranslate nohighlight">\(_2\)</span> עם גיר או עם תחמוצת סידן:</p>
 <blockquote>
-<div><p>CaCO~3(s)~ + SO~2(g)~ → CaSO~3(s)~ + CO~2(g)~</p>
-<p>Ca(OH)~2(s)~ + SO~2(g)~ → CaSO~3(s)~ + H~2~O~(l)~</p>
+<div><p><span class="math notranslate nohighlight">\(\ce{CaCO3(s)}\)</span> + <span class="math notranslate nohighlight">\(\ce{SO2(g)}\)</span> → <span class="math notranslate nohighlight">\(\ce{CaSO3(s)}\)</span> + <span class="math notranslate nohighlight">\(\ce{CO2(g)}\)</span></p>
+<p>Ca(OH)~2(s)~ + <span class="math notranslate nohighlight">\(\ce{SO2(g)}\)</span> → <span class="math notranslate nohighlight">\(\ce{CaSO3(s)}\)</span> + <span class="math notranslate nohighlight">\(\ce{H2O}\)</span>~(l)~</p>
 </div></blockquote>
-<p>במקרים רבים ממשיכים את התהליך על ידי הגבה וחמצון של CaSO~3\ ~על מנת
-לייצר גבס (CaSO~4~·2H~2~O) שאותו ניתן לשווק כחומר גלם לבנייה. כיוון
+<p>במקרים רבים ממשיכים את התהליך על ידי הגבה וחמצון של CaSO<span class="math notranslate nohighlight">\(_3\)</span> על מנת
+לייצר גבס (Ca<span class="math notranslate nohighlight">\(\ce{SO4}\)</span>·2<span class="math notranslate nohighlight">\(\ce{H2O}\)</span>) שאותו ניתן לשווק כחומר גלם לבנייה. כיוון
 שהטמעת השימוש בסולקני גופרית התקדמה בעצלתיים בעולם בכלל ובארצות המתועשות
-בפרט,<a class="footnote-reference brackets" href="#id336" id="id72" role="doc-noteref"><span class="fn-bracket">[</span>72<span class="fn-bracket">]</span></a> פליטות SO~2\ ~ממשיכות להוות בעיה סביבתית חמורה במשך עשורים,
-וה-SO~2\ ~שנפלט תורם להיווצרות משקעים חומציים (ראו בהמשך).</p>
+בפרט,<a class="footnote-reference brackets" href="#id336" id="id72" role="doc-noteref"><span class="fn-bracket">[</span>72<span class="fn-bracket">]</span></a> פליטות SO<span class="math notranslate nohighlight">\(_2\)</span> ממשיכות להוות בעיה סביבתית חמורה במשך עשורים,
+וה-SO<span class="math notranslate nohighlight">\(_2\)</span> שנפלט תורם להיווצרות משקעים חומציים (ראו בהמשך).</p>
 <p>**</p>
 </section>
 <section id="o">
@@ -730,9 +732,9 @@ SO~2\ ~עם גיר או עם תחמוצת סידן:</p>
 חלקם קשור לתחמוצות חנקן שהוזכרו קודם.<a class="footnote-reference brackets" href="#id339" id="id75" role="doc-noteref"><span class="fn-bracket">[</span>75<span class="fn-bracket">]</span></a> אוזון איננו המחמצן היחיד
 באטמוספרה. חמצן מולקולרי (בעיקר בנוכחות זרזים כמו חלקיקים עשירים במתכות
 מעבר), רדיקלים חופשיים של הידרוקסיל (OH·), ורדיקלים חופשיים של ניטרט
-(NO~3~) גם הם מחמצנים חשובים המשתתפים במגוון גדול של ריאקציות מושרות אור
+(N<span class="math notranslate nohighlight">\(\ce{O3}\)</span>) גם הם מחמצנים חשובים המשתתפים במגוון גדול של ריאקציות מושרות אור
 וריאקציות תרמיות באטמוספרה, וכן בסילוק חומרים אורגנים מזהמים ממשפחת
-ה-VOC.<a class="footnote-reference brackets" href="#id340" id="id76" role="doc-noteref"><span class="fn-bracket">[</span>76<span class="fn-bracket">]</span></a> לאחרונה דווח ששילוב של NO~3\ ~ואוזון באטמוספרה בריכוזים
+ה-VOC.<a class="footnote-reference brackets" href="#id340" id="id76" role="doc-noteref"><span class="fn-bracket">[</span>76<span class="fn-bracket">]</span></a> לאחרונה דווח ששילוב של NO<span class="math notranslate nohighlight">\(_3\)</span> ואוזון באטמוספרה בריכוזים
 לא-חריגים גורם לחמצון תרכובות אורגניות שצמחים פולטים על מנת למשוך
 מאביקים, ומשפיע בעיקר על יעילות האבקה של מאביקי לילה.<a class="footnote-reference brackets" href="#id341" id="id77" role="doc-noteref"><span class="fn-bracket">[</span>77<span class="fn-bracket">]</span></a> נעשים מאמצים
 רבים להפחית את ריכוזי האוזון בטרופוספרה בגלל הנזקים להם הוא גורם.
@@ -792,13 +794,13 @@ SO~2\ ~עם גיר או עם תחמוצת סידן:</p>
 הם חודרים למערכת הנשימה של בני אדם ובעלי חיים, ובאיזו מידה הם נוטים
 לשחרר את החומרים האצורים בהם שחלקם רעילים ומזיקים.<a class="footnote-reference brackets" href="#id361" id="id97" role="doc-noteref"><span class="fn-bracket">[</span>98<span class="fn-bracket">]</span></a> חלוקת הגודל
 המקובלת של PM היא: TSP (total suspended particles) סך כל החלקיקים
-המרחפים, על פי רוב חלקיקים הקטנים מכמה עשרות מיקרומטר; PM~10~, חלקיקים
-הקטנים מ-10 מיקרומטר; ו-~2.5~PM, חלקיקים הקטנים מ-2.5 מיקרומטר, החודרים
+המרחפים, על פי רוב חלקיקים הקטנים מכמה עשרות מיקרומטר; PM<span class="math notranslate nohighlight">\(_{10}\)</span>, חלקיקים
+הקטנים מ-10 מיקרומטר; ו-PM<span class="math notranslate nohighlight">\(_{2.5}\)</span>, חלקיקים הקטנים מ-2.5 מיקרומטר, החודרים
 עמוק למערכת הנשימה. יש מחקרים העוסקים גם בחלקיקים הקטנים מ-1 או אפילו
-מ-0.1 מיקרומטר (~1~PM, ~0.1~PM). כפי שנראה בהמשך, כיום קיימים תקנים
-לריכוז סביבתי רק ל-~10~PM ול-~2.5~PM ובמקרים מסוימים גם ל-TSP. אבק מדברי
-מכיל אחוז גבוה יותר של ~10~PM ואילו אירוסולים הנפלטים משריפת דלקים
-פוסיליים מכילים אחוזים גבוהים יותר של ~2.5~PM (איור 11.4).<a class="footnote-reference brackets" href="#id362" id="id98" role="doc-noteref"><span class="fn-bracket">[</span>99<span class="fn-bracket">]</span></a></p>
+מ-0.1 מיקרומטר (PM<span class="math notranslate nohighlight">\(_1\)</span>, PM<span class="math notranslate nohighlight">\(_{0.1}\)</span>). כפי שנראה בהמשך, כיום קיימים תקנים
+לריכוז סביבתי רק ל-PM<span class="math notranslate nohighlight">\(_{10}\)</span> ול-PM<span class="math notranslate nohighlight">\(_{2.5}\)</span> ובמקרים מסוימים גם ל-TSP. אבק מדברי
+מכיל אחוז גבוה יותר של PM<span class="math notranslate nohighlight">\(_{10}\)</span> ואילו אירוסולים הנפלטים משריפת דלקים
+פוסיליים מכילים אחוזים גבוהים יותר של PM<span class="math notranslate nohighlight">\(_{2.5}\)</span> (איור 11.4).<a class="footnote-reference brackets" href="#id362" id="id98" role="doc-noteref"><span class="fn-bracket">[</span>99<span class="fn-bracket">]</span></a></p>
 <p>מלבד ההבדלים בגודל חלקיקים, מקורות פליטה שונים מאופיינים לרוב בהרכב
 מינרלוגי וכימי שונה, דבר המאפשר לזהות את מקורות הפליטה. למשל, שריפת עצים
 לעומת שריפת דלקים פוסיליים.<a class="footnote-reference brackets" href="#id363" id="id99" role="doc-noteref"><span class="fn-bracket">[</span>100<span class="fn-bracket">]</span></a> מבחינת הרכבם, נהוג להבחין בין PM
@@ -850,10 +852,10 @@ OA הנבדלים בתהליכי יצירתם, ראשוניים (primary organic
 משתנים, והם תלויים הרבה יותר במשטר הרוחות האזורי-סינופטי.<a class="footnote-reference brackets" href="#id372" id="id109" role="doc-noteref"><span class="fn-bracket">[</span>110<span class="fn-bracket">]</span></a></p>
 <section id="id110">
 <h3>מגמות בריכוזים של מזהמי האטמוספרה<a class="headerlink" href="#id110" title="Link to this heading">#</a></h3>
-<p>חלק הארי של פליטות ~2~NO ו-NO וכן פליטות עופרת ומתכות רעילות נוספות
+<p>חלק הארי של פליטות <span class="math notranslate nohighlight">\(\ce{NO2}\)</span> ו-NO וכן פליטות עופרת ומתכות רעילות נוספות
 לאטמוספרה מגיע מפעילות בני אדם. כפי שציינו בפרק 5, כשליש עד מחצית
 מפליטות הגופרית לאטמוספרה מגיעה מפעילות בני אדם. אם מסתכלים על פליטות של
-SO~2~ בלבד, חלקה של התרומה האנושית הרבה יותר גדול. לעומת זאת רק 15% מכלל
+<span class="math notranslate nohighlight">\(\ce{SO2}\)</span> בלבד, חלקה של התרומה האנושית הרבה יותר גדול. לעומת זאת רק 15% מכלל
 החלקיקים המתרוממים לאטמוספרה קשורים בפעילות אנושית. מקור הפליטה העיקרי
 של חלקיקים הוא קרקעות מופרעות, שהצומח עליהן נעקר, נאכל, סולק, ותאחיזת
 החלקיקים בהן נפגעה עקב, למשל, עיבוד קרקע לא נכון או רעיית יתר. לעומת
@@ -914,11 +916,11 @@ PM.<a class="footnote-reference brackets" href="#id382" id="id120" role="doc-not
 <p>ערפיח אטמוספרי נוצר כאשר שילוב של מספר מזהמים גורם לתופעה סינרגטית
 כלומר, התוצאה מסוכנת מסך כל מרכיביה. אנחנו מכירים שני סוגים של ערפיח:
 ערפיח פוטוכימי (photochemical smog) וערפיח גופריתי (Sulphurous smog).
-ערפיח פוטוכימי<a class="footnote-reference brackets" href="#id394" id="id132" role="doc-noteref"><span class="fn-bracket">[</span>132<span class="fn-bracket">]</span></a> נוצר בתהליך שבו תחמוצות חנקן (NO~x~ (NO, NO~2~),
+ערפיח פוטוכימי<a class="footnote-reference brackets" href="#id394" id="id132" role="doc-noteref"><span class="fn-bracket">[</span>132<span class="fn-bracket">]</span></a> נוצר בתהליך שבו תחמוצות חנקן (NO<span class="math notranslate nohighlight">\(_x\)</span> (NO, <span class="math notranslate nohighlight">\(\ce{NO2}\)</span>),
 HONO – nitrous acid) מגיבות עם תרכובות אורגניות נדיפות (VOC) שנפלטות
 מצמחיה וממנועי שריפה פנימית או עם מתאן ו-CO. הערפיח החום-עכור פוגע קשות
 בראות (visibility) ומהווה סכנה בריאותית משום שהוא מכיל בתוכו מספר
-תרכובות ראקטיביות ובראשן אוזון, NO~2~ ו-PM (מכילי ניטרט). אנרגיית השפעול
+תרכובות ראקטיביות ובראשן אוזון, <span class="math notranslate nohighlight">\(\ce{NO2}\)</span> ו-PM (מכילי ניטרט). אנרגיית השפעול
 של התהליך מתקבלת מקרינת השמש באורכי גל שונים.<a class="footnote-reference brackets" href="#id395" id="id133" role="doc-noteref"><span class="fn-bracket">[</span>133<span class="fn-bracket">]</span></a> תהליכים מושרי-אור
 באטמוספרה אינם מוגבלים ליצירת ערפיח פוטוכימי. למשל, יש עדויות לחמצון
 פוטוכימי של VOC (למשל בנזן),<a class="footnote-reference brackets" href="#id396" id="id134" role="doc-noteref"><span class="fn-bracket">[</span>134<span class="fn-bracket">]</span></a> ליצירת רדיקל הידרוקסיד (·OH
@@ -933,7 +935,7 @@ species)<a class="footnote-reference brackets" href="#id398" id="id136" role="do
 האטמוספרית.<a class="footnote-reference brackets" href="#id401" id="id139" role="doc-noteref"><span class="fn-bracket">[</span>139<span class="fn-bracket">]</span></a></p>
 <p>ערפיח גופריתי מתפתח בתנאים של יציבות אטמוספרית, כאשר שריפה של דלק פוסילי
 עתיר-גופרית, בעיקר פחם וביטומן מתנורים לחימום ביתי ותחנות כוח משחררת
-לאטמוספרה פיח (BC – black carbon) וגופרית דו חמצנית (~2~SO) שמתחמצנת
+לאטמוספרה פיח (BC – black carbon) וגופרית דו חמצנית (<span class="math notranslate nohighlight">\(\ce{SO2}\)</span>) שמתחמצנת
 לסולפט בטיפות הערפל והופכת אותן לחומציות ביותר. האוויר נעשה עכור והראות
 יורדת דרמטית. שני סוגי הערפיח גורמים לקשיי נשימה, לעלייה באשפוז עקב קשיי
 נשימה ולעלייה במקרי מוות של אוכלוסיות רגישות (זקנים, ילדים ומבוגרים
@@ -944,10 +946,10 @@ species)<a class="footnote-reference brackets" href="#id398" id="id136" role="do
 הערפיח הגדול של לונדון ננקטו שורה של צעדים משמעותיים שתרמו להפחתה
 משמעותית בריכוזי פיח וגופרית באוויר של העיר. ביניהם ראוי לציין שימוש
 בדלקים נקיים יותר והרחקת תחנות כוח ומפעלי תעשייה ממרכז העיר. שבעים שנה
-לאחר האירוע, פליטת מזהמי אוויר (SO~2~, PM~2.5~, NO~x~) בלונדון נמוכה
+לאחר האירוע, פליטת מזהמי אוויר (<span class="math notranslate nohighlight">\(\ce{SO2}\)</span>, PM<span class="math notranslate nohighlight">\(_{2.5}\)</span>, NO<span class="math notranslate nohighlight">\(_x\)</span>) בלונדון נמוכה
 עשרות מונים בהשוואה לערכים של שנות החמישים.<a class="footnote-reference brackets" href="#id403" id="id141" role="doc-noteref"><span class="fn-bracket">[</span>141<span class="fn-bracket">]</span></a> לאחרונה נטען שמכל
 המרכיבים הללו, הקריטי ביותר ליצירת ערפיח הוא ריכוז הפיח, המהווה מצע יעיל
-לחמצון ~2~SO.<a class="footnote-reference brackets" href="#id404" id="id142" role="doc-noteref"><span class="fn-bracket">[</span>142<span class="fn-bracket">]</span></a></p>
+לחמצון <span class="math notranslate nohighlight">\(\ce{SO2}\)</span>.<a class="footnote-reference brackets" href="#id404" id="id142" role="doc-noteref"><span class="fn-bracket">[</span>142<span class="fn-bracket">]</span></a></p>
 <p>בשנות השמונים של המאה הקודמת התפרסמו מחקרים רבים על הנזקים שגורמים
 משקעים חומציים (גשם ושלג המכילים ריכוזים גבוהים של ניטרט וסולפט מומסים)
 לגופי מים מתוקים, יערות ושטחים פתוחים הנמצאים עשרות ומאות קילומטרים
@@ -972,7 +974,7 @@ species)<a class="footnote-reference brackets" href="#id398" id="id136" role="do
 <p>מבחינת זיהום אוויר, ביתו של אדם איננו מפלטו.<a class="footnote-reference brackets" href="#id408" id="id147" role="doc-noteref"><span class="fn-bracket">[</span>146<span class="fn-bracket">]</span></a> מסתבר שבבית אנחנו
 נחשפים לריכוזים גבוהים של מגוון מזהמי אוויר,<a class="footnote-reference brackets" href="#id409" id="id148" role="doc-noteref"><span class="fn-bracket">[</span>147<span class="fn-bracket">]</span></a> לעיתים ברמות העולות
 על ריכוזם מחוץ לבית. זיהום תוך-ביתי כולל מזהמים המוכרים גם מחוץ לבית כמו
-CO, NO~X~, VOC, וסוגים שונים של PM. בנוסף לאלה, ישנם חומרים הנפלטים
+CO, NO<span class="math notranslate nohighlight">\(_x\)</span>, VOC, וסוגים שונים של PM. בנוסף לאלה, ישנם חומרים הנפלטים
 ממגוון מוצרים הנמצאים בבית כמו צבע, חומרי ניקוי, בדים ועוד. רוב המזהמים
 הללו נופלים לקטגוריות של VOC או PM ונוספים עליהם גם פטריות עובש
 ובקטריות.<a class="footnote-reference brackets" href="#id410" id="id149" role="doc-noteref"><span class="fn-bracket">[</span>148<span class="fn-bracket">]</span></a> ברור לגמרי שחומרת השפעתם של מזהמים תוך-ביתיים היא פועל
@@ -1015,22 +1017,22 @@ CO, NO~X~, VOC, וסוגים שונים של PM. בנוסף לאלה, ישנם �
 דרגו את זיהום האוויר כגורם המוות הרביעי או אף השני בחומרתו בעולם<a class="footnote-reference brackets" href="#id430" id="id170" role="doc-noteref"><span class="fn-bracket">[</span>168<span class="fn-bracket">]</span></a>
 (לגבי סין – ראו בהמשך).</p>
 <p>מכלל מזהמי האוויר, רוב הפגיעות הבריאותיות והתמותה מיוחסות ל-PM ובמידה
-פחותה אך עדין משמעותית גם לאוזון<a class="footnote-reference brackets" href="#id431" id="id171" role="doc-noteref"><span class="fn-bracket">[</span>169<span class="fn-bracket">]</span></a> ול-~2~NO,<a class="footnote-reference brackets" href="#id432" id="id172" role="doc-noteref"><span class="fn-bracket">[</span>170<span class="fn-bracket">]</span></a> ויש המצביעים על
+פחותה אך עדין משמעותית גם לאוזון<a class="footnote-reference brackets" href="#id431" id="id171" role="doc-noteref"><span class="fn-bracket">[</span>169<span class="fn-bracket">]</span></a> ול-<span class="math notranslate nohighlight">\(\ce{NO2}\)</span>,<a class="footnote-reference brackets" href="#id432" id="id172" role="doc-noteref"><span class="fn-bracket">[</span>170<span class="fn-bracket">]</span></a> ויש המצביעים על
 הסכנה הבריאותית עקב שילוב של זיהום אוויר (בעיקר אוזון) וגלי חום.<a class="footnote-reference brackets" href="#id433" id="id173" role="doc-noteref"><span class="fn-bracket">[</span>171<span class="fn-bracket">]</span></a>
 העדות הראשונה לכך הגיעה ממחקר מכונן שהתפרסם ב-1993 (Harvard Six Cities
 study) וממחקרי המשך (טבלה 11.2).<a class="footnote-reference brackets" href="#id434" id="id174" role="doc-noteref"><span class="fn-bracket">[</span>172<span class="fn-bracket">]</span></a> כעשור לאחר מכן התבצע מחקר המשך
 שהיה מקיף ביותר, אשר עקב אחרי כחצי מיליון בני אדם והעלה מספר תצפיות
 מרכזיות:<a class="footnote-reference brackets" href="#id435" id="id175" role="doc-noteref"><span class="fn-bracket">[</span>173<span class="fn-bracket">]</span></a> (1) קיימות עדויות לסיכונים בריאותיים של PM הן ממקורות
 קרובים והן כתוצאה מזיהום אוויר חוצה גבולות; (2) חלקיקים קטנים (למשל
-~2.5~PM) מסוכנים יותר לבריאות בהשוואה ל-PM גס יותר; (3) כל עלייה של 10
-מיקרוגרם למטר מעוקב אוויר בריכוז של ~2.5~PM מעלה את סיכויי התמותה ב-6%
-(סטנדרט חשיפה מותר: PM~2.5~ (24-hour) = 35 µg/m^3^); (4) למרות שניסויי
+PM<span class="math notranslate nohighlight">\(_{2.5}\)</span>) מסוכנים יותר לבריאות בהשוואה ל-PM גס יותר; (3) כל עלייה של 10
+מיקרוגרם למטר מעוקב אוויר בריכוז של PM<span class="math notranslate nohighlight">\(_{2.5}\)</span> מעלה את סיכויי התמותה ב-6%
+(סטנדרט חשיפה מותר: PM<span class="math notranslate nohighlight">\(_{2.5}\)</span> (24-hour) = 35 µg/m^3^); (4) למרות שניסויי
 מעבדה מצביעים על נזקים דלקתיים חמורים יותר כתוצאה מחשיפה לחלקיקים
 המגיעים משריפת דלקים פוסיליים בהשוואה לסוגי חלקיקים אחרים, אין לכך ביטוי
 במחקרים אפידמיולוגיים ו-(5) הממצא המדאיג ביותר שנמצא הוא קיומן של פגיעות
 בריאותיות בקרב האוכלוסייה גם בגלל חשיפה לריכוזים נמוכים יחסית של
-~2.5~PM. זאת תוצאה מדאיגה עקב העלייה בתכיפותן של שריפות יער, סוואנות
-וביצות<a class="footnote-reference brackets" href="#id436" id="id176" role="doc-noteref"><span class="fn-bracket">[</span>174<span class="fn-bracket">]</span></a> שפולטות הרבה ~2.5~PM ומשפיעות על שטחים נרחבים.</p>
+PM<span class="math notranslate nohighlight">\(_{2.5}\)</span>. זאת תוצאה מדאיגה עקב העלייה בתכיפותן של שריפות יער, סוואנות
+וביצות<a class="footnote-reference brackets" href="#id436" id="id176" role="doc-noteref"><span class="fn-bracket">[</span>174<span class="fn-bracket">]</span></a> שפולטות הרבה PM<span class="math notranslate nohighlight">\(_{2.5}\)</span> ומשפיעות על שטחים נרחבים.</p>
 <p>על פי דוח של ארגון הבריאות העולמי שהוזכר קודם, כשבעה מיליון אנשים מתים
 בעולם מידי שנה בגלל זיהום אוויר ביתי וחוץ בייתי. כ-90% ממקרי המוות
 הנובעים מזיהום אוויר קרו בארצות שאינן עשירות, בעיקר באפריקה, דרום-מזרח
@@ -1199,7 +1201,7 @@ PM.<a class="footnote-reference brackets" href="#id470" id="id211" role="doc-not
 כך למשל דווח בארה“ב,<a class="footnote-reference brackets" href="#id472" id="id214" role="doc-noteref"><span class="fn-bracket">[</span>210<span class="fn-bracket">]</span></a> ביפן,<a class="footnote-reference brackets" href="#id473" id="id215" role="doc-noteref"><span class="fn-bracket">[</span>211<span class="fn-bracket">]</span></a> בדרום-מזרח אסיה,<a class="footnote-reference brackets" href="#id474" id="id216" role="doc-noteref"><span class="fn-bracket">[</span>212<span class="fn-bracket">]</span></a> במזרח
 התיכון<a class="footnote-reference brackets" href="#id475" id="id217" role="doc-noteref"><span class="fn-bracket">[</span>213<span class="fn-bracket">]</span></a> ובכל אגן הים התיכון ואירופה<a class="footnote-reference brackets" href="#id476" id="id218" role="doc-noteref"><span class="fn-bracket">[</span>214<span class="fn-bracket">]</span></a> שמזהמים ממקורות מרוחקים
 מתווספים לזיהום האויר המקומי. בחלק מהמחקרים נעשה ניסיון לקשור בין פליטות
-של מזהמים ראשוניים (NO~X~) באזור המקור, עם ריכוזים גבוהים של מזהמים
+של מזהמים ראשוניים (NO<span class="math notranslate nohighlight">\(_x\)</span>) באזור המקור, עם ריכוזים גבוהים של מזהמים
 שניוניים (אוזון) באזור המטרה.<a class="footnote-reference brackets" href="#id477" id="id219" role="doc-noteref"><span class="fn-bracket">[</span>215<span class="fn-bracket">]</span></a> איור 11.12 מצביע על כיווני התנועה של
 מזהמים מאירופה, החל באזור הים השחור וכלה בספרד, אל מזרח התיכון וצפון
 אפריקה.</p>
@@ -1278,17 +1280,17 @@ Factor)<a class="footnote-reference brackets" href="#id480" id="id222" role="doc
 ביותר.<a class="footnote-reference brackets" href="#id501" id="id245" role="doc-noteref"><span class="fn-bracket">[</span>239<span class="fn-bracket">]</span></a> לאור הממצאים הללו, התאגדו כמעט כל מדינות העולם כדי להפסיק
 את השימוש בתרכובות CFC וכדי למצוא להן תחליפים (אמנת מונטריאול – ראו
 למטה).</p>
-<p>שכבת האוזון בסטרטוספרה מכילה כ-90% מכלל האוזון (~3~O) הנמצא באטמוספרה,
+<p>שכבת האוזון בסטרטוספרה מכילה כ-90% מכלל האוזון (<span class="math notranslate nohighlight">\(\ce{O3}\)</span>) הנמצא באטמוספרה,
 כאשר ה-10% הנותרים נמצאים בטרופוספרה ומשתתפים בתהליכים בהם דנו קודם.
 קרינת השמש כוללת מגוון של אורכי גל<a class="footnote-reference brackets" href="#id502" id="id246" role="doc-noteref"><span class="fn-bracket">[</span>240<span class="fn-bracket">]</span></a> ביניהם קרינה אולטרה-סגולה (UV
 – ultraviolet radiation). קרינת ה-UV (בין אורכי גל של 0.1 עד 0.4
-מיקרומטר) מחולקת לפי אורך גל לשלושה סוגים: UV~A~, UV~B~, UV~C~. קרינת
-UV~C~ היא בעלת אורך הגל הקצר ביותר, ולכן היא גם ההרסנית ביותר לתא החי
-(גורמת לנזקים ל-DNA ולסרטן). UV~C~ נבלע בסטרטוספרה על ידי מולקולות חמצן
-(~2~O) בתהליך המייצר אוזון (~3~O). קרינת UV~B~ שגם היא מזיקה מבחינה
+מיקרומטר) מחולקת לפי אורך גל לשלושה סוגים: UV<span class="math notranslate nohighlight">\(_A\)</span>, UV<span class="math notranslate nohighlight">\(_B\)</span>, UV<span class="math notranslate nohighlight">\(_C\)</span>. קרינת
+UV<span class="math notranslate nohighlight">\(_C\)</span> היא בעלת אורך הגל הקצר ביותר, ולכן היא גם ההרסנית ביותר לתא החי
+(גורמת לנזקים ל-DNA ולסרטן). UV<span class="math notranslate nohighlight">\(_C\)</span> נבלע בסטרטוספרה על ידי מולקולות חמצן
+(<span class="math notranslate nohighlight">\(\ce{O2}\)</span>) בתהליך המייצר אוזון (<span class="math notranslate nohighlight">\(\ce{O3}\)</span>). קרינת UV<span class="math notranslate nohighlight">\(_B\)</span> שגם היא מזיקה מבחינה
 בריאותית, נבלעת ברובה על ידי אוזון סטרטוספרי וגורמת לפירוקו, תוך כדי
-שאוזון נוצר במקביל מבליעת UV~C~. UV~A,~ קרינת ה-UV הפחות מזיקה, מצליחה
-לחדור את האטמוספרה ומגיעה לפני השטח של כדור הארץ. UV~A~ ו-UV~B~ משתתפים
+שאוזון נוצר במקביל מבליעת UV<span class="math notranslate nohighlight">\(_C\)</span>. UV<span class="math notranslate nohighlight">\(_A\)</span>, קרינת ה-UV הפחות מזיקה, מצליחה
+לחדור את האטמוספרה ומגיעה לפני השטח של כדור הארץ. UV<span class="math notranslate nohighlight">\(_A\)</span> ו-UV<span class="math notranslate nohighlight">\(_B\)</span> משתתפים
 בתהליכים של יצירת וויטמין D בגוף החי,<a class="footnote-reference brackets" href="#id503" id="id247" role="doc-noteref"><span class="fn-bracket">[</span>241<span class="fn-bracket">]</span></a> ביצור הורמונים בצמחים,
 בשיזוף ובקביעת השעון הביולוגי.<a class="footnote-reference brackets" href="#id504" id="id248" role="doc-noteref"><span class="fn-bracket">[</span>242<span class="fn-bracket">]</span></a></p>
 <p>התהליכים הכימיים והפיזיקליים היוצרים את מחזור החיים של האוזון הסטרטוספרי
@@ -1296,11 +1298,11 @@ UV~C~ היא בעלת אורך הגל הקצר ביותר, ולכן היא גם 
 מולינה ורולנד היה ידוע שאטומי כלור המגיעים לסטרטוספרה משתתפים בפירוק
 אוזון סטרטוספרי בתהליך המצריך קרינת UV (Process 1):</p>
 <p>Process 1:</p>
-<p>Cl + O~3~ → ClO + O~2~</p>
-<p>ClO + O → Cl + O~2~</p>
-<p>O~3~ + hν~UVB~ → O~2~ + O; where hν~UVB~ = UV~B~ light</p>
+<p>Cl + <span class="math notranslate nohighlight">\(\ce{O3}\)</span> → ClO + <span class="math notranslate nohighlight">\(\ce{O2}\)</span></p>
+<p>ClO + O → Cl + <span class="math notranslate nohighlight">\(\ce{O2}\)</span></p>
+<p><span class="math notranslate nohighlight">\(\ce{O3}\)</span> + hν~UVB~ → <span class="math notranslate nohighlight">\(\ce{O2}\)</span> + O; where hν~UVB~ = UV<span class="math notranslate nohighlight">\(_B\)</span> light</p>
 <p>———————————</p>
-<p>Net: 2O~3~ + hν~UVB~ → 3O~2~</p>
+<p>Net: 2<span class="math notranslate nohighlight">\(\ce{O3}\)</span> + hν~UVB~ → 3<span class="math notranslate nohighlight">\(\ce{O2}\)</span></p>
 <p>בעוד שתהליכים אלו מתרחשים בסטרטוספרה על פני כל כדה“א, באזורי הקטבים
 מתפתחים תנאים ייחודיים המגבירים את יעילות וקצב הפירוק של אוזון בתחילת
 עונת האביב וגורמים לירידה בריכוזו למשך מספר חודשים – תופעה שזכתה בשם
@@ -1311,34 +1313,34 @@ UV~C~ היא בעלת אורך הגל הקצר ביותר, ולכן היא גם 
 התורם אטומי כלור. עקב הקור העז מתפתחים בחורף ענני קרח עשירי ניטרט ו/או
 סולפט (Polar Stratospheric Clouds - PSCs). על פני השטח של חלקיקי הקרח
 מתרחשות ראקציות המסבות תרכובות כימיות יציבות יחסית (לדוגמה, כלור-ניטרט
-(ClONO~2~) שמקורו בתרכובות CFC) לתרכובות שבבוא האביב עם החשיפה לאור
+(ClO<span class="math notranslate nohighlight">\(\ce{NO2}\)</span>) שמקורו בתרכובות CFC) לתרכובות שבבוא האביב עם החשיפה לאור
 משחררות אטומי כלור:</p>
-<p>ClONO~2~ + HCl →~PSC~→ Cl~2~ + HNO~3~ (takes place in the dark during
+<p>ClO<span class="math notranslate nohighlight">\(\ce{NO2}\)</span> + HCl →~PSC~→ <span class="math notranslate nohighlight">\(\ce{Cl2}\)</span> + <span class="math notranslate nohighlight">\(\ce{HNO3}\)</span> (takes place in the dark during
 the long winter-night)</p>
-<p>Cl~2~ + hν~vis~ → 2Cl (needs visible light, the more energetic UV light
+<p><span class="math notranslate nohighlight">\(\ce{Cl2}\)</span> + hν<span class="math notranslate nohighlight">\(_{vis}\)</span> → 2Cl (needs visible light, the more energetic UV light
 is not essential)</p>
 <p>אטומי כלור נוצרים בתחילת האביב כאשר מגיע האור הראשון, והם משתתפים בשני
 תהליכים המפורטים להלן, בהם אור נראה הוא מספיק אנרגטי כדי לפרק אוזון.</p>
 <p>Process 2a:</p>
-<p>ClO + ClO + M → Cl~2~O~2~ + M (M - particle surfaces provided by the ice
+<p>ClO + ClO + M → <span class="math notranslate nohighlight">\(\ce{Cl2}\)</span><span class="math notranslate nohighlight">\(\ce{O2}\)</span> + M (M - particle surfaces provided by the ice
 crystals in the PSC)</p>
-<p>Cl~2~O~2~ + hν~vis~ → Cl + ClO~2~</p>
-<p>ClO~2~ + M → Cl + O~2~ + M</p>
-<p>2 [Cl + O~3~ → ClO + O~2~]</p>
+<p><span class="math notranslate nohighlight">\(\ce{Cl2}\)</span><span class="math notranslate nohighlight">\(\ce{O2}\)</span> + hν<span class="math notranslate nohighlight">\(_{vis}\)</span> → Cl + Cl<span class="math notranslate nohighlight">\(\ce{O2}\)</span></p>
+<p>Cl<span class="math notranslate nohighlight">\(\ce{O2}\)</span> + M → Cl + <span class="math notranslate nohighlight">\(\ce{O2}\)</span> + M</p>
+<p>2 [Cl + <span class="math notranslate nohighlight">\(\ce{O3}\)</span> → ClO + <span class="math notranslate nohighlight">\(\ce{O2}\)</span>]</p>
 <p>—————————————</p>
-<p>Net: 2O~3~ + hν~vis~ → 3O~2~</p>
+<p>Net: 2<span class="math notranslate nohighlight">\(\ce{O3}\)</span> + hν<span class="math notranslate nohighlight">\(_{vis}\)</span> → 3<span class="math notranslate nohighlight">\(\ce{O2}\)</span></p>
 <p>Process 2b:</p>
-<p>Br + O~3~ → BrO + O~2~ (Br arrives from the extensive use of methyl
-bromide (CH~3~Br) as pesticide in agriculture)</p>
-<p>Cl + O~3~ → ClO + O~2~</p>
-<p>BrO + ClO → BrCl + O~2~</p>
-<p>BrCl + hν~vis~ → Cl + Br</p>
+<p>Br + <span class="math notranslate nohighlight">\(\ce{O3}\)</span> → BrO + <span class="math notranslate nohighlight">\(\ce{O2}\)</span> (Br arrives from the extensive use of methyl
+bromide (<span class="math notranslate nohighlight">\(\ce{CH3Br}\)</span>) as pesticide in agriculture)</p>
+<p>Cl + <span class="math notranslate nohighlight">\(\ce{O3}\)</span> → ClO + <span class="math notranslate nohighlight">\(\ce{O2}\)</span></p>
+<p>BrO + ClO → BrCl + <span class="math notranslate nohighlight">\(\ce{O2}\)</span></p>
+<p>BrCl + hν<span class="math notranslate nohighlight">\(_{vis}\)</span> → Cl + Br</p>
 <p>————————–</p>
-<p>Net: 2O~3~ + hν~vis~ → 3O~2~</p>
+<p>Net: 2<span class="math notranslate nohighlight">\(\ce{O3}\)</span> + hν<span class="math notranslate nohighlight">\(_{vis}\)</span> → 3<span class="math notranslate nohighlight">\(\ce{O2}\)</span></p>
 <p>במקביל, מתרחשות ראקציות איטיות יותר שצורכות את ה-Cl ומורידות את ריכוזו
 באטמוספרה וכן את יכולתו לפרק אוזון. הן מתחילות לבוא לידי ביטוי כמה
 שבועות אחרי תחילת האביב, כשריכוז האוזון יורד משמעותית.</p>
-<p>Cl + CH~4~ → HCl + CH~3~</p>
+<p>Cl + <span class="math notranslate nohighlight">\(\ce{CH4}\)</span> → HCl + CH~3~</p>
 <p>בנוסף, בהמשך האביב-קיץ יש החלשות של ה“וורטקס“ של אנטארקטיקה ומתאפשר
 ערבול עם אוויר עשיר יותר באוזון המגיע מקווי רוחב נמוכים יותר.</p>
 <p>לאור הממצאים החמורים שעלו מהדמאות לווין בשנות השמונים של המאה ה-20,
@@ -1833,12 +1835,12 @@ associated with short-term exposure to common air pollutants.
 </aside>
 <aside class="footnote brackets" id="id312" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id48">46</a><span class="fn-bracket">]</span></span>
-<p>~10~PM = חלקיקים הקטנים מ-10 מיקרומטר; ו-~2.5~PM = חלקיקים הקטנים
+<p>PM<span class="math notranslate nohighlight">\(_{10}\)</span> = חלקיקים הקטנים מ-10 מיקרומטר; ו-PM<span class="math notranslate nohighlight">\(_{2.5}\)</span> = חלקיקים הקטנים
 מ-2.5 מיקרומטר.</p>
 </aside>
 <aside class="footnote brackets" id="id313" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id49">47</a><span class="fn-bracket">]</span></span>
-<p>PM~2.5~ (year average) = 12 µg/m^3^; PM~2.5~ (24-hour) = 35
+<p>PM<span class="math notranslate nohighlight">\(_{2.5}\)</span> (year average) = 12 µg/m^3^; PM<span class="math notranslate nohighlight">\(_{2.5}\)</span> (24-hour) = 35
 µg/m^3^;
 <a class="reference external" href="https://eos.org/articles/epa-air-pollution-proposal-stirs-debate?utm_source=EosBuzz&amp;amp;mkt_tok=OTg3LUlHVC01NzIAAAGLZ2fubkLKJTUOzqUVmLyV9nV5tzctUVl-sqeOEAo8APHeAWII4KL-i9Jsa5fHvbA2vESChFw6%E2%80%A6">https://eos.org/articles/epa-air-pollution-proposal-stirs-debate?utm_source=EosBuzz&amp;mkt_tok=OTg3LUlHVC01NzIAAAGLZ2fubkLKJTUOzqUVmLyV9nV5tzctUVl-sqeOEAo8APHeAWII4KL-i9Jsa5fHvbA2vESChFw6…</a></p>
 </aside>
@@ -1871,8 +1873,8 @@ soil and ocean, <em>Atmospheric</em></p>
 <p>Hydroxyl radical (OH) - The hydroxyl radical (a radical is a
 molecule that has a lone electron in the outer, bonding orbital) is
 the major chemical oxidizer in the. It is formed by the reaction of
-excited O with H~2~O vapor, and is destroyed while it oxidizes
-several types of molecules (e.g., CO, CH~4~) in the atmosphere. See:
+excited O with <span class="math notranslate nohighlight">\(\ce{H2O}\)</span> vapor, and is destroyed while it oxidizes
+several types of molecules (e.g., CO, <span class="math notranslate nohighlight">\(\ce{CH4}\)</span>) in the atmosphere. See:
 Prinn R. G. (2014) Ozone, Hydroxyl Radical, and Oxidative Capacity.
 In Vol. 5, Treatise on Geochemistry 2nd Edition (Eds.: Holland H. D.
 and Turekian K. K.).
@@ -1903,7 +1905,7 @@ Academic Press. ISBN: 978-0-12-257060-5.
 <aside class="footnote brackets" id="id321" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id57">56</a><span class="fn-bracket">]</span></span>
 <p>במקביל מתקיימות ראקציות בין VOC לרדיקל הידרוקסיל (OH) ליצירת
-RO~2~ (peroxy radical) שמחמצנים NO ל NO~2~.</p>
+R<span class="math notranslate nohighlight">\(\ce{O2}\)</span> (peroxy radical) שמחמצנים NO ל <span class="math notranslate nohighlight">\(\ce{NO2}\)</span>.</p>
 </aside>
 <aside class="footnote brackets" id="id322" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id58">57</a><span class="fn-bracket">]</span></span>
@@ -1914,7 +1916,7 @@ emission reduction in the past decade. <em>PNAS</em> <strong>115</strong>, 5099-
 <aside class="footnote brackets" id="id323" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id59">58</a><span class="fn-bracket">]</span></span>
 <p>Cheng, C. Et al. (2022) Photolysis versus photothermolysis of
-N~2~O on a semiconductor surface revealed by nonadiabatic molecular
+<span class="math notranslate nohighlight">\(\ce{N2O}\)</span> on a semiconductor surface revealed by nonadiabatic molecular
 dynamics. <em>J. American Chemical Society</em> <strong>145</strong>, 476-486.
 <a class="reference external" href="https://pubs.acs.org/doi/10.1021/jacs.2c10643">https://pubs.acs.org/doi/10.1021/jacs.2c10643</a></p>
 </aside>
@@ -1954,9 +1956,9 @@ regional SO2 emissions, <em>Atmospheric Research</em>.
 </aside>
 <aside class="footnote brackets" id="id329" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id65">65</a><span class="fn-bracket">]</span></span>
-<p>(1) SO~2~ is oxidized to sulfate either in the <em>gas phase</em>
+<p>(1) <span class="math notranslate nohighlight">\(\ce{SO2}\)</span> is oxidized to sulfate either in the <em>gas phase</em>
 mostly w/ hydroxyl radical (·OH) or in <em>atmospheric water</em> either w/
-hydrogen peroxide (H~2~O~2~), ozone (O~3~) or oxygen (O~2~) with a
+hydrogen peroxide (<span class="math notranslate nohighlight">\(\ce{H2O}\)</span>~2~), ozone (<span class="math notranslate nohighlight">\(\ce{O3}\)</span>) or oxygen (<span class="math notranslate nohighlight">\(\ce{O2}\)</span>) with a
 transition metal such as iron (Fe) serving as a catalyst; (2)
 Torrent-Sucarrat, M., Francisco, J. S. &amp; Anglada, J. M. (2012)
 Sulfuric acid as autocatalyst in the formation of sulfuric acid. <em>J.
@@ -2305,7 +2307,7 @@ in a separate Monograph in this volume.“ -
 </aside>
 <aside class="footnote brackets" id="id371" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id108">109</a><span class="fn-bracket">]</span></span>
-<p>יש מזהמים ששוהים באטמוספרה גם זמנים ארוכים יותר, לדוגמה N~2~O,
+<p>יש מזהמים ששוהים באטמוספרה גם זמנים ארוכים יותר, לדוגמה <span class="math notranslate nohighlight">\(\ce{N2O}\)</span>,
 CFCs ועוד.</p>
 </aside>
 <aside class="footnote brackets" id="id372" role="doc-footnote">
@@ -2582,7 +2584,7 @@ on acid deposition. <em>Atmos. Environ.</em> <strong>146</strong>, 1-346.
 </aside>
 <aside class="footnote brackets" id="id406" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id144">144</a><span class="fn-bracket">]</span></span>
-<p>In a very simplistic way, NO → NO~2~ → HNO~3~ (nitric acid that
+<p>In a very simplistic way, NO → <span class="math notranslate nohighlight">\(\ce{NO2}\)</span> → <span class="math notranslate nohighlight">\(\ce{HNO3}\)</span> (nitric acid that
 dissolves in atmospheric water), although opposite direction
 reactions also take place especially in the absence of sun-light.
 For more details, see: Warneck, P. (1988) Chemistry of the Natural
@@ -2592,8 +2594,8 @@ Press.
 </aside>
 <aside class="footnote brackets" id="id407" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id145">145</a><span class="fn-bracket">]</span></span>
-<p>In a very simplistic way, SO~2~ → SO~3~; SO~3~ + H~2~O →
-H~2~SO~4~ (sulfuric acid that dissolves in atmospheric water); For
+<p>In a very simplistic way, <span class="math notranslate nohighlight">\(\ce{SO2}\)</span> → <span class="math notranslate nohighlight">\(\ce{SO3}\)</span>; <span class="math notranslate nohighlight">\(\ce{SO3}\)</span> + <span class="math notranslate nohighlight">\(\ce{H2O}\)</span> →
+<span class="math notranslate nohighlight">\(\ce{H2SO4}\)</span> (sulfuric acid that dissolves in atmospheric water); For
 more details, see: Warneck P. (1988) Chemistry of the Natural
 Atmosphere, Ch. 10: Sulfur Compounds in the Atmosphere. Academic
 Press.
@@ -2919,7 +2921,7 @@ particulate matter toxicity. <em>Clin Exp Allergy</em>. <strong>29</strong>, 118
 <a class="reference external" href="https://onlinelibrary.wiley.com/doi/10.1046/j.1365-2222.1999.00576.x">https://onlinelibrary.wiley.com/doi/10.1046/j.1365-2222.1999.00576.x</a>;
 (2) Rappazzo, K. M. et al. (1994) Exploration of PM mass, source,
 and component-related factors that might explain heterogeneity in
-daily PM~2.5~-mortality associations across the United States.
+daily PM<span class="math notranslate nohighlight">\(_{2.5}\)</span>-mortality associations across the United States.
 <em>Atmos Environ</em>. <strong>262</strong>:118650.
 <a class="reference external" href="https://www.sciencedirect.com/science/article/abs/pii/S1352231021004726?via%3Dihub">https://www.sciencedirect.com/science/article/abs/pii/S1352231021004726?via%3Dihub</a>.</p>
 </aside>
@@ -3591,7 +3593,7 @@ over the South Pole during the wintertime. <em>EGU sphere</em> 1-35.
 <aside class="footnote brackets" id="id503" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id247">241</a><span class="fn-bracket">]</span></span>
 <p>”During exposure to sunlight 7-dehydrocholesterol in the skin
-absorbs UV~B~ radiation and is converted to pre-vitamin D3 which in
+absorbs UV<span class="math notranslate nohighlight">\(_B\)</span> radiation and is converted to pre-vitamin D3 which in
 turn isomerizes into vitamin D3.“ -
 <a class="reference external" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3897598/#:~:text=Vitamin%20D%20is%20the%20sunshine,turn%20isomerizes%20into%20vitamin%20D3">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3897598/#:~:text=Vitamin D is the sunshine,turn isomerizes into vitamin D3</a>.</p>
 </aside>

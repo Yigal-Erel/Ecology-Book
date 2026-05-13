@@ -13,7 +13,7 @@
 ביותר להשפעה של הביוטה על תנאי הסביבה היא הרכב האטמוספרה הנוכחי, כ-80%
 חנקן וכ-20% חמצן. כל העדויות המצויות בידנו מצביעות על כך שבראשית חייו
 היתה לכדור הארץ אטמוספרה עם הרכב שונה לחלוטין, שבשלב מסוים כללה בעיקר
-פד\"ח (פחמן דו חמצני -- CO~2~), וריכוז החמצן החופשי בה היה אפסי. בעקבות
+פד\"ח (פחמן דו חמצני -- $\ce{CO2}$), וריכוז החמצן החופשי בה היה אפסי. בעקבות
 הופעתם של מיקרואורגניזמים המבצעים פוטוסינתיזה (photosynthesis),[^1]
 בשילוב עם קבורה משמעותית של חומר אורגני (ראו פרק 3) שנוצר בתהליך
 הפוטוסינתזה, ובנוסף השקעה של שלדים קרבונטיים[^2] (תהליך המסלק פד\"ח מן
@@ -372,7 +372,7 @@ Hypothesis) [^112]הגורסת שהכחדות הן חלק בלתי נפרד מה
 מנגנון ההכחדה העיקרי לטענת וורד הוא התחממות כדור הארץ עקב הצטברות גזי
 חממה, שגורמת להפסקת הערבוב של מי האוקיינוסים (נרחיב על כך בפרק 10).
 הפסקת הערבוב של מי הים גורמת להיווצרות של גוף מים עמוקים חסר חמצן שבו
-פועלים מיקרואורגניזמים אנאירוביים המייצרים גז מימן סולפיד (H~2~S) רעיל
+פועלים מיקרואורגניזמים אנאירוביים המייצרים גז מימן סולפיד ($\ce{H2}$S) רעיל
 ביותר, המתנדף לאטמוספרה וגורם להכחדה נרחבת וכן להעלמות שכבת האוזון
 הסטרטוספרי, המגינה על פני השטח של כדור הארץ מקרינה אולטרה-סגולה קטלנית
 (נחזור לשכבת האוזון הסטרטוספרי בפרק 11).
@@ -619,16 +619,16 @@ name: fig 7-4
 [^1]: Photosynthesis -- the fundamental biochemical process where
     organisms, primarily plants, algae, and some bacteria, harness the
     energy from sunlight to synthesize glucose (a sugar) from carbon
-    dioxide (CO~2~​) and water (H~2~​O). This conversion transforms light
+    dioxide ($\ce{CO2}$​) and water ($\ce{H2}$​O). This conversion transforms light
     energy into a usable form of potential chemical energy stored within
     the bonds of glucose. Photosynthesis takes place in two distinct
     stages. <https://www.ncbi.nlm.nih.gov/books/NBK9861/>
 
 [^2]: Biologically driven conversion of dissolved Ca and 2 ions of
     bicarbonate, originated from the atmosphere, to form solid carbonate
-    mineral and a release of CO~2~ that dissolves in water and/or
-    escapes to the atmosphere. The reaction is: Ca^2+^ + 2HCO~3~^-^
-    \<-\> CaCO~3~ + CO~2~ + H~2~O
+    mineral and a release of $\ce{CO2}$ that dissolves in water and/or
+    escapes to the atmosphere. The reaction is: $\ce{Ca^{2+}}$ + 2$\ce{HCO3-}$
+    \<-\> $\ce{CaCO3}$ + $\ce{CO2}$ + $\ce{H2O}$
 
 [^3]: <https://www.who.int/news-room/fact-sheets/detail/one-health>
 
