@@ -185,7 +185,7 @@ Rights Reserved. Reprinted with permission.
 height: 400px
 name: fig 6-2
 ---
-איור 6.2: (א) שינויים בריכוז פד"ח באטמוספרה ב-1000 השנים האחרונות כפי שנמדדו בבועות אוויר בשלושה גלעיני קרח מאנטארקטיקה. מקור – Ahn et al (2012) https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011GB004247 Reprinted with permission by AGU ריכוזי פד"ח ממוצעים ממספר גלעיני קרח ב-800 אלף השנים האחרונות כפי שהורכבו על ידי סוכנות החלל האמריקאית. על פי – NASA - https://climate.nasa.gov/climate_resources/24/graphic-the-relentless-rise-of-carbon-dioxide/
+איור 6.2: (א) שינויים בריכוז פד"ח באטמוספרה ב-1000 השנים האחרונות כפי שנמדדו בבועות אוויר בשלושה גלעיני קרח מאנטארקטיקה. מקור – Ahn et al (2012) [agupubs.onlinelibrary.wiley.com](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011GB004247) Reprinted with permission by AGU ריכוזי פד"ח ממוצעים ממספר גלעיני קרח ב-800 אלף השנים האחרונות כפי שהורכבו על ידי סוכנות החלל האמריקאית. על פי – NASA - [climate.nasa.gov](https://climate.nasa.gov/climate_resources/24/graphic-the-relentless-rise-of-carbon-dioxide/)
 ```
 
 Ahn et al (2012)
@@ -464,7 +464,7 @@ RCP = Representative Concentration Pathway -- see Figure 6.3
 height: 400px
 name: fig 6-5
 ---
-איור 6.5: שינוי הטמפרטורה הממוצעת בכדור הארץ וריכוזי פד"ח (part per million - ppm) בארבעה מיליוני השנה האחרונות, בהשוואה לשנים 1850 - 1900. כל פנל מתאר טווח שונה של שנים לפני ההווה. מקור – Fischer, H. et al. (2018). https://www.nature.com/articles/s41561-018-0146-0.  Reprinted with permission from Nature.
+איור 6.5: שינוי הטמפרטורה הממוצעת בכדור הארץ וריכוזי פד"ח (part per million - ppm) בארבעה מיליוני השנה האחרונות, בהשוואה לשנים 1850 - 1900. כל פנל מתאר טווח שונה של שנים לפני ההווה. מקור – Fischer, H. et al. (2018). [Nature](https://www.nature.com/articles/s41561-018-0146-0).  Reprinted with permission from Nature.
 ```
 
 ## התחממות גלובלית ועליית מפלס הים

@@ -212,7 +212,7 @@ SO~2~, PM) ומזהמים שניוניים נוצרים מריאקציות בז�
 height: 400px
 name: fig 11-1
 ---
-טבלה 11.1: הנחיות של ארגון הבריאות העולמי (WHO) לגבי סטנדרטים סופיים (12/2022) וסטנדרטי ביניים של מזהמי הקריטריון (למעט עופרת). שימו לב שיש ערכים אחרים לזמני חשיפה שונים (שנתי מול 8/24-שעות). מקור – https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health
+טבלה 11.1: הנחיות של ארגון הבריאות העולמי (WHO) לגבי סטנדרטים סופיים (12/2022) וסטנדרטי ביניים של מזהמי הקריטריון (למעט עופרת). שימו לב שיש ערכים אחרים לזמני חשיפה שונים (שנתי מול 8/24-שעות). מקור – [WHO](https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health)
 ```
 
 AQG = air quality guidelines
@@ -297,7 +297,7 @@ O~2~N, אם כי כאן המשימה מורכבת יותר הן בגלל שמק�
 height: 400px
 name: fig 11-3
 ---
-איור 11.3: מקורות, תהליכים ומבלעים עיקריים של חנקן אטמוספרי פעיל. היחידות הן מגה (106) טון חנקן בשנה. המספרים בשחור מייצגים שטפים כוללים, ובאדום שטפים אנתרופוגנים. בנוסף לתהליכים המופיעים באיור חשוב לציין שברקים מקבעים כ-5 מגה-טון חנקן בשנה. מקור  - Fowler et al. (2013) https://royalsocietypublishing.org/rstb/article-abstract/368/1621/20130164/22158/The-global-nitrogen-cycle-in-the-twenty-first?redirectedFrom=fulltext Published by the Royal Society. All rights reserved. Reprinted with permission.
+איור 11.3: מקורות, תהליכים ומבלעים עיקריים של חנקן אטמוספרי פעיל. היחידות הן מגה (106) טון חנקן בשנה. המספרים בשחור מייצגים שטפים כוללים, ובאדום שטפים אנתרופוגנים. בנוסף לתהליכים המופיעים באיור חשוב לציין שברקים מקבעים כ-5 מגה-טון חנקן בשנה. מקור  - Fowler et al. (2013) [royalsocietypublishing.org](https://royalsocietypublishing.org/rstb/article-abstract/368/1621/20130164/22158/The-global-nitrogen-cycle-in-the-twenty-first?redirectedFrom=fulltext) Published by the Royal Society. All rights reserved. Reprinted with permission.
 ```
 
 Fowler et al. (2013)
@@ -556,7 +556,7 @@ PM.[^120] כמו כן, מסתבר שחלקיקים מרחפים (PM) מכילי�
 height: 400px
 name: fig 11-5
 ---
-איור 11.5: ריכוזים של מזהמי אוויר בבייג'ין בשנים 1998-2017. מקור – UN Environment (2019) https://wedocs.unep.org/bitstream/handle/20.500.11822/27645/airPolCh_EN.pdf?sequence=1&isAllowed=y ; Copyright © United Nations Environment Programme, 2019. Reprinted with permission.
+איור 11.5: ריכוזים של מזהמי אוויר בבייג'ין בשנים 1998-2017. מקור – UN Environment (2019) [UNEP](https://wedocs.unep.org/bitstream/handle/20.500.11822/27645/airPolCh_EN.pdf?sequence=1&isAllowed=y) ; Copyright © United Nations Environment Programme, 2019. Reprinted with permission.
 ```
 
 ## ערפיח (SMOG) ומשקעים חומציים -- זיהום אטמוספרה על ידי מספר מזהמים הפועלים יחד
@@ -769,7 +769,7 @@ reactive oxygen species), כנראה בגלל שיש מתכות מעבר בחל�
 height: 400px
 name: fig 11-2
 ---
-טבלה 11.2: מספר כללי של מקרי מוות כתוצאה מהתקפי לב וסרטן בשש הערים שהשתתפו במחקר המקורי משנת 1993 (1974-1989) ובמחקר המשך (1990-1998). מקור – Laden, F. et al. (2006) https://academic.oup.com/ajrccm/article-abstract/173/6/667/8528153?redirectedFrom=fulltext.
+טבלה 11.2: מספר כללי של מקרי מוות כתוצאה מהתקפי לב וסרטן בשש הערים שהשתתפו במחקר המקורי משנת 1993 (1974-1989) ובמחקר המשך (1990-1998). מקור – Laden, F. et al. (2006) [Oxford Academic](https://academic.oup.com/ajrccm/article-abstract/173/6/667/8528153?redirectedFrom=fulltext).
 ```
 
 ```{figure} media/11_7.jpg
@@ -801,7 +801,7 @@ name: fig 11-9
 height: 400px
 name: fig 11-10
 ---
-איור 11.10: מגמות של מקרי מוות ונזקים כלכליים בארצות שונות עקב זיהום אוויר (PM ואוזון), 2010 לעומת 2060. מקור – <https://web-archive.oecd.org/2017-01-04/405314-air-pollution-to-cause-6-9-million-premature-deaths-and-cost-1-gdp-by-2060.htm> ; © Organisation for Economic Co-operation and Development; Reprinted with permission.
+איור 11.10: מגמות של מקרי מוות ונזקים כלכליים בארצות שונות עקב זיהום אוויר (PM ואוזון), 2010 לעומת 2060. מקור – [OECD](https://web-archive.oecd.org/2017-01-04/405314-air-pollution-to-cause-6-9-million-premature-deaths-and-cost-1-gdp-by-2060.htm) ; © Organisation for Economic Co-operation and Development; Reprinted with permission.
 ```
 
 ## השפעת מזהמי אוויר על האקלים
@@ -1083,7 +1083,7 @@ CFC אחרות,[^249] דבר שמצביע על הצורך בהמשך מעקב, �
 height: 400px
 name: fig 11-13
 ---
-איור 11.13: רצף האירועים העיקריים בגילוי, תיעוד והתמודדות עם הרס האוזון הסטרטוספרי. מקור – Making Peace with Nature: https://www.unep.org/resources/making-peace-nature; © 2024 UNEP; Reprinted with permission.
+איור 11.13: רצף האירועים העיקריים בגילוי, תיעוד והתמודדות עם הרס האוזון הסטרטוספרי. מקור – Making Peace with Nature: [UNEP](https://www.unep.org/resources/making-peace-nature); © 2024 UNEP; Reprinted with permission.
 ```
 
 ```{figure} media/11_14.png

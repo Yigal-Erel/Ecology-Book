@@ -142,7 +142,7 @@ cycle / combined heat and power - CHP),[^23] שבו היעילות עולה
 height: 400px
 name: fig 3-2
 ---
-איור 3.2: סכמה של איבוד אנרגיה בתהליך ייצור חשמל בדרך מתחנת הכוח אל הצרכנים. יחידות - TWh. מקור – IEA (2008). <https://www.iea.org/reports/combined-heat-and-power>, CC BY 4.0; Reprinted with permission.
+איור 3.2: סכמה של איבוד אנרגיה בתהליך ייצור חשמל בדרך מתחנת הכוח אל הצרכנים. יחידות - TWh. מקור – IEA (2008). [IEA](https://www.iea.org/reports/combined-heat-and-power), CC BY 4.0; Reprinted with permission.
 ```
 
 ### סילוק מזהמים ולכידת פד\"ח
@@ -352,7 +352,7 @@ pollution-mortality) היו כ-5 טריליון דולר, השקולים ל-6.5%
 height: 400px
 name: fig 3-4
 ---
-איור 3.4: LCOE (דולר למגה-וואט שעה) כפי שחושב על ידי LAZARD. שימו לב לערכים התחרותיים של אנרגיית רוח ושל PV ברמת ה-utility scale. על פי - https://www.lazard.com/perspective/levelized-cost-of-energy-levelized-cost-of-storage-and-levelized-cost-of-hydrogen/
+איור 3.4: LCOE (דולר למגה-וואט שעה) כפי שחושב על ידי LAZARD. שימו לב לערכים התחרותיים של אנרגיית רוח ושל PV ברמת ה-utility scale. על פי - [LAZARD](https://www.lazard.com/perspective/levelized-cost-of-energy-levelized-cost-of-storage-and-levelized-cost-of-hydrogen/)
 ```
 
 ### אנרגיה גרעינית -- ביקוע
@@ -882,7 +882,7 @@ process) בדומה לשריפת דלקים פוסיליים, אולם בניג�
 height: 400px
 name: fig 3-6
 ---
-איור 3.6: תהליכי יצירה, תנועה והפקה של מימן גיאולוגי. על פי - Hand E. (Science) - https://www.science.org/content/article/hidden-hydrogen-earth-may-hold-vast-stores-renewable-carbon-free-fuel
+איור 3.6: תהליכי יצירה, תנועה והפקה של מימן גיאולוגי. על פי - Hand E. (Science) - [Science](https://www.science.org/content/article/hidden-hydrogen-earth-may-hold-vast-stores-renewable-carbon-free-fuel)
 ```
 
 ## כיווני התפתחות
@@ -968,7 +968,7 @@ grids) אמור לספק מידה גדולה יותר של ביטחון אנרג
 height: 400px
 name: fig 3-7
 ---
-איור 3.7: השילוב המוצע בין מקורות האנרגיה העתידים לשלוט בשוק האנרגיה לבין אמצעי האגירה ודרישות צרכני האנרגיה. מקור – Davis S. J. et al., (2018) https://www.science.org/doi/10.1126/science.aas9793.  Reprinted with permission from AAAS.
+איור 3.7: השילוב המוצע בין מקורות האנרגיה העתידים לשלוט בשוק האנרגיה לבין אמצעי האגירה ודרישות צרכני האנרגיה. מקור – Davis S. J. et al., (2018) [Science](https://www.science.org/doi/10.1126/science.aas9793).  Reprinted with permission from AAAS.
 ```
 
 ## סיכום

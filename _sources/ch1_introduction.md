@@ -1,23 +1,9 @@
-"All people --- living in ancient or modern times, in luxury or
-
-destitution, in mega-cities or vast hinterlands --- depend
-
-intimately and utterly on nature. Through the microbiome
-
-inhabiting our body, the nature in local parks and farms, and
-
-exotic forests and underwater realms across the world, we
-
-are all deeply embedded within the web of life. This extremely
-
-subtle and extensive net of relationships sustains and fulfills
-
-us, providing the material basics of nutrition, health, and
-
-security to ethereal senses of attachment, beauty, and spirit."
+:::{div} .en-quote
+"All people — living in ancient or modern times, in luxury or destitution, in mega-cities or vast hinterlands — depend intimately and utterly on nature. Through the microbiome inhabiting our body, the nature in local parks and farms, and exotic forests and underwater realms across the world, we are all deeply embedded within the web of life. This extremely subtle and extensive net of relationships sustains and fulfills us, providing the material basics of nutrition, health, and security to ethereal senses of attachment, beauty, and spirit."
 
 Gretchen C. Daily, Stanford University, 2021
-(<https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review/the-economics-of-biodiversity-the-dasgupta-review-reactions>)
+:::
+
 
 # מבוא - עקרונות, היסטוריה והגורמים למשבר הסביבה והאקלים
 
@@ -324,7 +310,7 @@ P\*A\*T, הטוענת שהשפעת האנושות על הטבע (I) שווה ל�
 height: 400px
 name: fig 1-2
 ---
-איור 1.2: טווח התחזיות של האו"ם לגבי גודל האוכלוסייה העולמית עד שנת 2100. מקור – <https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900>; Reprinted with permission.
+איור 1.2: טווח התחזיות של האו"ם לגבי גודל האוכלוסייה העולמית עד שנת 2100. מקור – [UN](https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900); Reprinted with permission.
 ```
 
 ```{figure} media/1_3.jpg
@@ -457,7 +443,7 @@ content - ראו פרקים 6 ו-10). [^75]
 height: 400px
 name: fig 1-4
 ---
-איור 1.4: ההשפעה של ההתחממות הגלובלית על מערכות אקולוגיות, חקלאות, משאבי מים ובני אדם. (א) השפעה על מערכות אקולוגיות; (ב) השפעה על בני אדם ומערכות אנושיות. מקור: IPCC (2022), https://www.cambridge.org/core/books/climate-change-2022-impacts-adaptation-and-vulnerability/summary-for-policymakers/016527EADEE2178406C4A7CE7DEAEACA Reprinted with permission א. IPCC (2022), <https://www.cambridge.org/core/books/climate-change-2022-impacts-adaptation-and-vulnerability/summary-for-policymakers/016527EADEE2178406C4A7CE7DEAEACA> Reprinted with permission
+איור 1.4: ההשפעה של ההתחממות הגלובלית על מערכות אקולוגיות, חקלאות, משאבי מים ובני אדם. (א) השפעה על מערכות אקולוגיות; (ב) השפעה על בני אדם ומערכות אנושיות. מקור: IPCC (2022), [Cambridge](https://www.cambridge.org/core/books/climate-change-2022-impacts-adaptation-and-vulnerability/summary-for-policymakers/016527EADEE2178406C4A7CE7DEAEACA) Reprinted with permission א. IPCC (2022), [Cambridge](https://www.cambridge.org/core/books/climate-change-2022-impacts-adaptation-and-vulnerability/summary-for-policymakers/016527EADEE2178406C4A7CE7DEAEACA) Reprinted with permission
 ```
 
 ## מבנה הספר

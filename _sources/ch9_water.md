@@ -84,7 +84,7 @@ name: fig 9-1
 height: 400px
 name: fig 9-2
 ---
-איור 9.2: מאגרי ושטפי מים עיקריים בכדור הארץ. מקור – Trenberth, K. E. et al. (2007) https://journals.ametsoc.org/view/journals/hydr/8/4/jhm600_1.xml. © American Meteorological Society. Reprinted with permission.
+איור 9.2: מאגרי ושטפי מים עיקריים בכדור הארץ. מקור – Trenberth, K. E. et al. (2007) [journals.ametsoc.org](https://journals.ametsoc.org/view/journals/hydr/8/4/jhm600_1.xml). © American Meteorological Society. Reprinted with permission.
 ```
 
 ## השפעת האנושות על מחזור ואיכות המים

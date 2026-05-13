@@ -156,7 +156,7 @@ species turnover,[^43] and trait diversity[^44]) יצליח לתאר בצורה 
 height: 400px
 name: fig 7-1
 ---
-איור 7.1: התרומה של גורמים עקיפים (דמוגרפים, חברתיים, כלכליים, טכנולוגיים, פוליטיים, מנהליים, מלחמות ומגיפות) על הגורמים הישירים (שינוי שימושי קרקע, ניצול יתר, שינוי אקלים, זיהום, חדירת מינים פולשים וגורמים אחרים) המביאים לפגיעה בטבע (גודל מערכות אקולוגיות, הכחדת מינים, חברות אקולוגיות, ביומסה ו-evenness, קהילות מקומיות וילידים) במערכות אקולוגיות יבשתיות, מימיות (מים מתוקים), וימיות. מקור – IPBES (2019) <https://files.ipbes.net/ipbes-web-prod-public-files/inline/files/ipbes_global_assessment_report_summary_for_policymakers.pdf>. Reprinted with permission.
+איור 7.1: התרומה של גורמים עקיפים (דמוגרפים, חברתיים, כלכליים, טכנולוגיים, פוליטיים, מנהליים, מלחמות ומגיפות) על הגורמים הישירים (שינוי שימושי קרקע, ניצול יתר, שינוי אקלים, זיהום, חדירת מינים פולשים וגורמים אחרים) המביאים לפגיעה בטבע (גודל מערכות אקולוגיות, הכחדת מינים, חברות אקולוגיות, ביומסה ו-evenness, קהילות מקומיות וילידים) במערכות אקולוגיות יבשתיות, מימיות (מים מתוקים), וימיות. מקור – IPBES (2019) [IPBES](https://files.ipbes.net/ipbes-web-prod-public-files/inline/files/ipbes_global_assessment_report_summary_for_policymakers.pdf). Reprinted with permission.
 ```
 
 ```{figure} media/7_2.jpg
@@ -164,7 +164,7 @@ name: fig 7-1
 height: 400px
 name: fig 7-2
 ---
-איור 7.2: סכנת ההכחדה ופגיעה במגוון של פטריות, צמחים, חסרי חוליות, בעלי חוליות. שימו לב לחלונות הזמן השונים באיורים B ו-C. מקור – IPBES (2019) <https://files.ipbes.net/ipbes-web-prod-public-files/inline/files/ipbes_global_assessment_report_summary_for_policymakers.pdf>. Reprinted with permission.
+איור 7.2: סכנת ההכחדה ופגיעה במגוון של פטריות, צמחים, חסרי חוליות, בעלי חוליות. שימו לב לחלונות הזמן השונים באיורים B ו-C. מקור – IPBES (2019) [IPBES](https://files.ipbes.net/ipbes-web-prod-public-files/inline/files/ipbes_global_assessment_report_summary_for_policymakers.pdf). Reprinted with permission.
 ```
 
 > 7.2.2 *השפעת שינויי אקלים על מערכות אקולוגיות*
@@ -583,7 +583,7 @@ COP-16,[^144] בסיומו הוסכם שמדינות העולם יגייסו ב�
 height: 400px
 name: fig 7-4
 ---
-איור 7.4: שינויים יחסיים במגוון הביולוגי ביבשות השונות בין 1970 ל-2018. מקור – WWF (2022) <https://wwfint.awsassets.panda.org/downloads/embargo_13_10_2022_lpr_2022_full_report_single_page_1.pdf> © Reprinted with permission.
+איור 7.4: שינויים יחסיים במגוון הביולוגי ביבשות השונות בין 1970 ל-2018. מקור – WWF (2022) [WWF](https://wwfint.awsassets.panda.org/downloads/embargo_13_10_2022_lpr_2022_full_report_single_page_1.pdf) © Reprinted with permission.
 ```
 
 ## סיכום

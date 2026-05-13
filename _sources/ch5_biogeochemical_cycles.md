@@ -237,7 +237,7 @@ Niña שהגבירו את המשקעים באזורים אלה. עוד דוגמ�
 height: 400px
 name: fig 5-2
 ---
-איור 5.2: מחזור הפחמן הגלובלי. איור זה מדגיש את ההפרעה האנתרופוגנית שמתוארת על ידי חיצים. השטפים וגודלי המאגרים הטבעיים רשומים בקטן. היחידות של המאגרים הן גיגה-טון פחמן, והיחידות של השטפים הן גיגה-טון פחמן לשנה. מקור – Friedlingstein, P. et al. (2024) <https://essd.copernicus.org/preprints/essd-2024-519/> © Author(s) 2020. Reprinted with permission.
+איור 5.2: מחזור הפחמן הגלובלי. איור זה מדגיש את ההפרעה האנתרופוגנית שמתוארת על ידי חיצים. השטפים וגודלי המאגרים הטבעיים רשומים בקטן. היחידות של המאגרים הן גיגה-טון פחמן, והיחידות של השטפים הן גיגה-טון פחמן לשנה. מקור – Friedlingstein, P. et al. (2024) [essd.copernicus.org](https://essd.copernicus.org/preprints/essd-2024-519/) © Author(s) 2020. Reprinted with permission.
 ```
 
 ```{figure} media/5_3.jpg
@@ -245,7 +245,7 @@ name: fig 5-2
 height: 400px
 name: fig 5-3
 ---
-איור 5.3: הפעילויות העיקריות הגורמות לפליטת גזי חממה ממקורות אנתרופוגנים. מקור - OUR WORLD IN DATA - https://ourworldindata.org/ghg-emissions-by-sector ; Reprinted with permission.
+איור 5.3: הפעילויות העיקריות הגורמות לפליטת גזי חממה ממקורות אנתרופוגנים. מקור - OUR WORLD IN DATA - [Our World in Data](https://ourworldindata.org/ghg-emissions-by-sector) ; Reprinted with permission.
 ```
 
 ```{figure} media/5_4.jpg
@@ -359,7 +359,7 @@ Biological N Fixation). זהו תהליך מיקרוביאלי (על ידי מי
 height: 400px
 name: fig 5-5
 ---
-איור 5.5: שטפים של קיבוע חנקן אטמוספירי והפיכתו לחנקן ראקטיבי. BNF – Biological N Fixation). Tg = 1012 g = 106 ton = mega-ton = 0.001 giga-ton) מקור - Fowler, D. et al. (2013) https://royalsocietypublishing.org/rstb/article-abstract/368/1621/20130164/22158/The-global-nitrogen-cycle-in-the-twenty-first?redirectedFrom=fulltext ©  Published by the Royal Society. All rights reserved. Reprinted with permission.
+איור 5.5: שטפים של קיבוע חנקן אטמוספירי והפיכתו לחנקן ראקטיבי. BNF – Biological N Fixation). Tg = 1012 g = 106 ton = mega-ton = 0.001 giga-ton) מקור - Fowler, D. et al. (2013) [royalsocietypublishing.org](https://royalsocietypublishing.org/rstb/article-abstract/368/1621/20130164/22158/The-global-nitrogen-cycle-in-the-twenty-first?redirectedFrom=fulltext) ©  Published by the Royal Society. All rights reserved. Reprinted with permission.
 ```
 
 BNF -- Biological N Fixation). Tg = 10^12^ g = 10^6^ ton = mega-ton =
@@ -380,7 +380,7 @@ permission.
 height: 400px
 name: fig 5-6
 ---
-איור 5.6: שינוי בכמויות של דשן-חנקני, חומרי הדברה, ותוצרי התעשייה הכימית בהשוואה ל-1970. מקור - United Nations Environment Programme (2021) https://www.unep.org/resources/making-peace-nature ; © 2024 UNEP. Reprinted with permission.
+איור 5.6: שינוי בכמויות של דשן-חנקני, חומרי הדברה, ותוצרי התעשייה הכימית בהשוואה ל-1970. מקור - United Nations Environment Programme (2021) [UNEP](https://www.unep.org/resources/making-peace-nature) ; © 2024 UNEP. Reprinted with permission.
 ```
 
 ### השפעת הפעילות האנושית על מחזור החנקן
@@ -671,7 +671,7 @@ NOx).[^118] רעילותה הגבוהה של עופרת והעדויות שהצ�
 height: 400px
 name: fig 5-9
 ---
-איור 5.9: הפקה ופליטה לסביבה של שלוש מתכות מרכזיות בתעשייה העולמית (נחושת, אבץ ועופרת). מקור – Nriagu, J. O. (1996). https://www.science.org/doi/10.1126/science.272.5259.223  Reprinted with permission from AAAS.
+איור 5.9: הפקה ופליטה לסביבה של שלוש מתכות מרכזיות בתעשייה העולמית (נחושת, אבץ ועופרת). מקור – Nriagu, J. O. (1996). [Science](https://www.science.org/doi/10.1126/science.272.5259.223)  Reprinted with permission from AAAS.
 ```
 
 ### זיהום הסביבה על ידי עופרת בעבר ובהווה
@@ -746,7 +746,7 @@ name: fig 5-9
 height: 400px
 name: fig 5-10
 ---
-איור 5.10: ההיסטוריה של הפקת העופרת. Cupellation = קופלציה. מקור – Settle & Patterson (1980) https://www.science.org/doi/10.1126/science.6986654. Reprinted with permission from AAAS.
+איור 5.10: ההיסטוריה של הפקת העופרת. Cupellation = קופלציה. מקור – Settle & Patterson (1980) [Science](https://www.science.org/doi/10.1126/science.6986654). Reprinted with permission from AAAS.
 ```
 
 ### נזקי העופרת והמאבק להגבלת השימוש

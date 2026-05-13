@@ -112,7 +112,7 @@ William Sound בו התרחשה הדליפה של Exxon Valdez, וכן בימי�
 height: 400px
 name: fig 10-1
 ---
-איור 10.1: מספר אירועי דליפת נפט גולמי ממכליות לאוקיינוסים בכל שנה (עמודות) ובממוצע בכל עשור (קו אדום) בין 1970 ו-2023. מקור – https://www.itopf.org/knowledge-resources/data-statistics/statistics/; Copyright © ITOPF Limited, 2023. All rights reserved. Reprinted with permission. [https://www.itopf.org/knowledge-resources/data-statistics/statistics/](https://www.itopf.org/knowledge-resources/data-statistics/statistics/); Copyright © ITOPF Limited, 2023. All rights reserved. Reprinted with permission.
+איור 10.1: מספר אירועי דליפת נפט גולמי ממכליות לאוקיינוסים בכל שנה (עמודות) ובממוצע בכל עשור (קו אדום) בין 1970 ו-2023. מקור – [itopf.org](https://www.itopf.org/knowledge-resources/data-statistics/statistics/); Copyright © ITOPF Limited, 2023. All rights reserved. Reprinted with permission. [https://www.itopf.org/knowledge-resources/data-statistics/statistics/](https://www.itopf.org/knowledge-resources/data-statistics/statistics/); Copyright © ITOPF Limited, 2023. All rights reserved. Reprinted with permission.
 ```
 
 ## זיהום פלסטיק באוקיינוסים
@@ -412,7 +412,7 @@ reefs) בסביבות ימיות שונות: מים קרים או חמים, עמ
 height: 400px
 name: fig 10-4
 ---
-איור 10.4: מידת הסכנה למספר קבוצות טקסונומיות, כולל אלמוגים. מקור – <https://www.iucn.org/resources/conservation-tool/iucn-red-list-threatened-species> ; ©IUCN. Reprinted with permission.
+איור 10.4: מידת הסכנה למספר קבוצות טקסונומיות, כולל אלמוגים. מקור – [IUCN](https://www.iucn.org/resources/conservation-tool/iucn-red-list-threatened-species) ; ©IUCN. Reprinted with permission.
 ```
 
 ## תהליכי אאוטרופיקציה בסביבה החופית ואזורים עניים בחמצן בים העמוק
@@ -794,7 +794,7 @@ Bering Strait components and Mediterranean and Red Sea inflows.
 height: 400px
 name: fig 10-7
 ---
-איור 10.7: מפת האוקיינוסים עם ריכוזי זרחן, כפוספט (עליון) וחמצן (תחתון) בעומק של 4,000 מטר (שימו לב ליחידות). נתונים – https://www.ncei.noaa.gov/products/world-ocean-atlas
+איור 10.7: מפת האוקיינוסים עם ריכוזי זרחן, כפוספט (עליון) וחמצן (תחתון) בעומק של 4,000 מטר (שימו לב ליחידות). נתונים – [NOAA](https://www.ncei.noaa.gov/products/world-ocean-atlas)
 ```
 
 ### יחסי הגומלין בין זרמי הים ושינויי אקלים
@@ -904,7 +904,7 @@ Warm Period, and the Little Ice Age).[^237] למעשה, העובדה שיש מת
 height: 400px
 name: fig 10-8
 ---
-איור 10.8: שינויים באוקיינוסים ובכיפות הקרח בעקבות התחממות גלובלית בעבר ובעתיד, בין שנת 1950 ועד 2100 בהשוואה לערך הממוצע של 2005-1986. RCP2.6 –increase in temperature by 1.6°C by the end-of-century RCP8.5 - increase in temperature by 4.3°C by the end-of-century איור A: שינויים בטמפרטורה הממוצעת של האוויר בכדור הארץ. איור B: שינויים בטמפרטורה הממוצעת של מי השטח באוקיינוסים. איור C: מספר הימים של גלי חום ימיים.  איור D: תכולת החום שספגו האוקיינוסים ושינויים במפלס הים האוקיינוסים (האוקיינוסים ספגו מאז 1970 כ- 90% מעודף החום של כדור הארץ. בגלל קיבול החום הגדול של מים, יעבור זמן רב אחרי שנפסיק לפלוט גזי חממה בטרם האוקיינוסים יתקררו שוב). איור E: אובדן קרח מגרינלנד. איור F: אובדן קרח מאנטארקטיקה. איור G: אובדן קרח מקרחונים הרריים. איור H: ערך החומציות (pH) של מי השטח של האוקיינוסים. איור I: ריכוז חמצן מומס בעומק 100-600 מטר. איור J: כיסוי קרח ימי בים הארקטי בספטמבר. איור K: כיסוי שלג באזור האקלים הארקטי ביוני. איור L: שטח הקרקע הקפואה (permafrost). איור M: מפלס מי הים. חשוב לזכור שחלק מהשינויים התחילו לפני 1950. מקור – IPCC (2019), https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/ ; Reprinted with permission.
+איור 10.8: שינויים באוקיינוסים ובכיפות הקרח בעקבות התחממות גלובלית בעבר ובעתיד, בין שנת 1950 ועד 2100 בהשוואה לערך הממוצע של 2005-1986. RCP2.6 –increase in temperature by 1.6°C by the end-of-century RCP8.5 - increase in temperature by 4.3°C by the end-of-century איור A: שינויים בטמפרטורה הממוצעת של האוויר בכדור הארץ. איור B: שינויים בטמפרטורה הממוצעת של מי השטח באוקיינוסים. איור C: מספר הימים של גלי חום ימיים.  איור D: תכולת החום שספגו האוקיינוסים ושינויים במפלס הים האוקיינוסים (האוקיינוסים ספגו מאז 1970 כ- 90% מעודף החום של כדור הארץ. בגלל קיבול החום הגדול של מים, יעבור זמן רב אחרי שנפסיק לפלוט גזי חממה בטרם האוקיינוסים יתקררו שוב). איור E: אובדן קרח מגרינלנד. איור F: אובדן קרח מאנטארקטיקה. איור G: אובדן קרח מקרחונים הרריים. איור H: ערך החומציות (pH) של מי השטח של האוקיינוסים. איור I: ריכוז חמצן מומס בעומק 100-600 מטר. איור J: כיסוי קרח ימי בים הארקטי בספטמבר. איור K: כיסוי שלג באזור האקלים הארקטי ביוני. איור L: שטח הקרקע הקפואה (permafrost). איור M: מפלס מי הים. חשוב לזכור שחלק מהשינויים התחילו לפני 1950. מקור – IPCC (2019), [IPCC](https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/) ; Reprinted with permission.
 ```
 
 RCP2.6 --increase in temperature by 1.6°C by the end-of-century
@@ -934,7 +934,7 @@ Reprinted with permission.
 height: 400px
 name: fig 10-9
 ---
-איור 10.9: השפעת התחממות גלובלית על אזורים שונים באוקיינוסים. מקור – IPCC (2019) https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/; Reprinted with permission. IPCC (2019) <https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/>; Reprinted with permission.
+איור 10.9: השפעת התחממות גלובלית על אזורים שונים באוקיינוסים. מקור – IPCC (2019) [IPCC](https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/); Reprinted with permission. IPCC (2019) [IPCC](https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/); Reprinted with permission.
 ```
 
 ## עליית מפלס הים
@@ -1039,7 +1039,7 @@ name: fig 10-9
 height: 400px
 name: fig 10-10
 ---
-איור 10.10: עליית מפלס הים, שיטות מדידה והגורמים המרכזיים בכל תקופה מאז 1900. מקור – NASA, https://climate.nasa.gov/vital-signs/sea-level/  ; Reprinted with permission. NASA, <https://climate.nasa.gov/vital-signs/sea-level/> ; Reprinted with permission.
+איור 10.10: עליית מפלס הים, שיטות מדידה והגורמים המרכזיים בכל תקופה מאז 1900. מקור – NASA, [climate.nasa.gov](https://climate.nasa.gov/vital-signs/sea-level/)  ; Reprinted with permission. NASA, [climate.nasa.gov](https://climate.nasa.gov/vital-signs/sea-level/) ; Reprinted with permission.
 ```
 
 ## האוקיינוסים כמלכודת לפד\"ח

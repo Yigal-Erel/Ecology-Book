@@ -538,7 +538,7 @@ name: fig 13-1
 height: 400px
 name: fig 13-2
 ---
-איור 13.2: הפעולות העיקריות בהן יש לנקוט כדי להפחית את הנזק שגורמת האנושות לטבע כפי שטוענים משתתפי הכנס בניירובי. מקור – United Nations Environment Programme (2021) <https://www.unep.org/resources/making-peace-nature> ; © 2024 UNEP. Reprinted with permission.
+איור 13.2: הפעולות העיקריות בהן יש לנקוט כדי להפחית את הנזק שגורמת האנושות לטבע כפי שטוענים משתתפי הכנס בניירובי. מקור – United Nations Environment Programme (2021) [UNEP](https://www.unep.org/resources/making-peace-nature) ; © 2024 UNEP. Reprinted with permission.
 ```
 
 ```{figure} media/13_3.jpg
@@ -557,7 +557,7 @@ name: fig 13-3
 height: 400px
 name: fig 13-4
 ---
-איור 13.4: קצב צבירת עושר כפונקציה של המעמד הסוציו-אקונומי. מקור – Global Sustainable Development Report (2023) <https://sdgs.un.org/sites/default/files/2023-09/FINAL%20GSDR%202023-Digital%20-110923_1.pdf>. © 2024 all rights reserved. Reprinted with permission.
+איור 13.4: קצב צבירת עושר כפונקציה של המעמד הסוציו-אקונומי. מקור – Global Sustainable Development Report (2023) [UN](https://sdgs.un.org/sites/default/files/2023-09/FINAL%20GSDR%202023-Digital%20-110923_1.pdf). © 2024 all rights reserved. Reprinted with permission.
 ```
 
 ```{figure} media/13_5.png
@@ -565,7 +565,7 @@ name: fig 13-4
 height: 400px
 name: fig 13-5
 ---
-איור 13.5: הדרך להגיע לאפס פליטות פד"ח ב-2050. שימו לב שכבר ב-2023-2022 היה נראה כאילו יש עצירה בגידול בפליטות, למרות שבפועל יש האטה בפליטות אבל לא עצירה. מקור – IEA September 2023. https://www.iea.org/reports/net-zero-roadmap-a-global-pathway-to-keep-the-15-c-goal-in-reach/executive-summary     CC BY 4.0. Reprinted with permission.
+איור 13.5: הדרך להגיע לאפס פליטות פד"ח ב-2050. שימו לב שכבר ב-2023-2022 היה נראה כאילו יש עצירה בגידול בפליטות, למרות שבפועל יש האטה בפליטות אבל לא עצירה. מקור – IEA September 2023. [IEA](https://www.iea.org/reports/net-zero-roadmap-a-global-pathway-to-keep-the-15-c-goal-in-reach/executive-summary)     CC BY 4.0. Reprinted with permission.
 ```
 
 ## שינוי ההגדרה של מדדים לפיתוח וצמיחה כלכלית
@@ -698,7 +698,7 @@ sustainable development pathway). מענין לראות את התחזית לגב
 height: 400px
 name: fig 13-6
 ---
-איור 13.6: מדד לגטום לשגשוג - Legatum Prosperity Index. מקור – https://docs.prosperity.com/2116/7756/6547/Measuring_Prosperity.pdf ; ©2023 The Legatum Institute Foundation.
+איור 13.6: מדד לגטום לשגשוג - Legatum Prosperity Index. מקור – [docs.prosperity.com](https://docs.prosperity.com/2116/7756/6547/Measuring_Prosperity.pdf) ; ©2023 The Legatum Institute Foundation.
 ```
 
 ```{figure} media/13_7.jpg
@@ -706,7 +706,7 @@ name: fig 13-6
 height: 400px
 name: fig 13-7
 ---
-איור 13.7: התקדמות לקראת יעדי SDG: הערכה לגבי שנת 2030 ושנת 2050 תחת שני תרחישים (high ambition, middle-of-the-road). מקור – Global Sustainable Development Report (2023) https://sdgs.un.org/sites/default/files/2023-09/FINAL%20GSDR%202023-Digital%20-110923_1.pdf. ©  2024 all rights reserved. Reprinted with permission.
+איור 13.7: התקדמות לקראת יעדי SDG: הערכה לגבי שנת 2030 ושנת 2050 תחת שני תרחישים (high ambition, middle-of-the-road). מקור – Global Sustainable Development Report (2023) [UN](https://sdgs.un.org/sites/default/files/2023-09/FINAL%20GSDR%202023-Digital%20-110923_1.pdf). ©  2024 all rights reserved. Reprinted with permission.
 ```
 
 ## צדק חברתי והקשר לבעיות הסביבה
