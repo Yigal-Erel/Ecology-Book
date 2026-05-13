@@ -1039,6 +1039,9 @@ html[data-mode="dark"] body.with-book-bg .bd-footer-content {
 #bg-toggle-btn.bg-off { opacity: 0.40; }
 #bg-toggle-btn.bg-off:hover { opacity: 0.80; }
 
+/* ── Hide Sphinx auto-figure numbers (Hebrew captions already have "איור N.N") */
+figcaption .caption-number { display: none; }
+
 /* ── Chapter version badge ──────────────────────────────────────────────── */
 .chapter-version-badge {
   display: inline-block;

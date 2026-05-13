@@ -3,7 +3,7 @@
 // update_apply.py updates CHAPTER_VERSIONS automatically when new content is applied.
 
 const CHAPTER_VERSIONS = {
-  default: "אוקטובר 2025",
+  default: "מאי 2026",
   // Per-chapter overrides — add entries like:
   // "ch3_energy": "נובמבר 2025",
 };
