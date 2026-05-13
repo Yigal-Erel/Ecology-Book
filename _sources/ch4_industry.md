@@ -3,8 +3,6 @@
 > we can build an economy which can thrive and can run forever."
 >
 > Dame Ellen MacArthur, <https://doi.org/10.17226/29199>.
->
-> ***תעשיה וחומרי גלם***
 
 הכלכלה העולמית מתבססת על צריכת מוצרים, עבודה ושירותים. צריכת מוצרים היא
 אחד הגורמים העיקריים לנזקים הסביבתיים שהאנושות יוצרת. בפרק זה נתמקד
@@ -182,24 +180,24 @@ ironmaking ו-(2) steelmaking. השלב הראשון מתבצע רק כאשר מ
 
 **1. חמצון חלקי של פחם ויצירת פחמן חד חמצני (CO) וחום (תהליך המשחרר אנרגיה; ∆G שלילי):**
 
-> 2C(s) + $\ce{O2}$(g) ↔ 2CO(g) + heat
+$$\ce{2C(s) + O2(g) <=> 2CO(g) + \text{heat}}$$
 
 חיזור של ברזל תלת-ערכי הנמצא בהמטיט על ידי פחמן חד חמצני ויצירת נתך ברזל
 מתכתי ושחרור פד\"ח (תהליך הדורש השקעת אנרגיה; ∆G חיובי):
 
-> $\ce{Fe2O3}$(s) + 3CO(g) ↔ 2Fe(l) + 3$\ce{CO2}$(g)
+$$\ce{Fe2O3(s) + 3CO(g) <=> 2Fe(l) + 3CO2(g)}$$
 
 **3. חיזור של ברזל תלת-ערכי הנמצא בהמטיט על ידי פחם מעובד ויצירת נתך ברזל מתכתי ושחרור פד"ח (תהליך הדורש השקעת אנרגיה):**
 
-> 2$\ce{Fe2O3}$(s) + 3C(s) ↔ 4Fe(l) + 3$\ce{CO2}$(g)
+$$\ce{2Fe2O3(s) + 3C(s) <=> 4Fe(l) + 3CO2(g)}$$
 
 **4. פרוק אבן גיר ויצירת תחמוצת סידן ושחרור פד"ח (תהליך הדורש השקעת אנרגיה):**
 
-> $\ce{CaCO3}$(s) + heat ↔ CaO(s) + $\ce{CO2}$(g)
+$$\ce{CaCO3(s) ->[\Delta] CaO(s) + CO2(g)}$$
 
 **5. תגובה של תחמוצת סידן עם תחמוצת צורן שהגיעה עם מינרלי הברזל ליצירת סיג (slag) ועל ידי כך סילוק הצורן מהמערכת, בזכות העובדה שהסיג פחות צפוף מברזל מותך וצף מעליו, וכך ניתן להפריד ביניהם (תהליך הדורש השקעת אנרגיה):**
 
-> CaO(s) + $\ce{SiO2}$(s) ↔ $\ce{CaSiO3}$(l)
+$$\ce{CaO(s) + SiO2(s) <=> CaSiO3(l)}$$
 
 בשלב השני של ייצור הפלדה (steelmaking), עודפי הפחמן הנמצאים בברזל המותך
 מסולקים (בתור פד\"ח) ויחד אתם מסולקים מהברזל עודפי גופרית וזרחן (שמגיבים
@@ -251,7 +249,7 @@ ironmaking ו-(2) steelmaking. השלב הראשון מתבצע רק כאשר מ
 במימן,[^50] המופק מאלקטרוליזה של מים באמצעות חשמל המיוצר מאנרגיה מתחדשת,
 במקום פחמן כחומר המחזר את תחמוצות הברזל.
 
-$\ce{Fe2O3}$(s) + 3$\ce{H2}$(g) ↔ 2Fe(l) + 3$\ce{H2O}$(g)
+$$\ce{Fe2O3(s) + 3H2(g) <=> 2Fe(l) + 3H2O(g)}$$
 
 בשנים האחרונות מושקע מאמץ לייצר \"פלדה ירוקה\" במגוון שיטות ועל ידי כך
 להפחית פליטות פד\"ח.[^51] אכן, בשבע מתוך עשר המדינות העיקריות שמייצרות
@@ -319,7 +317,7 @@ $\ce{Fe2O3}$(s) + 3$\ce{H2}$(g) ↔ 2Fe(l) + 3$\ce{H2O}$(g)
 המעניינים ביותר הוא שימוש בבטון גרוס (וחומרי בניה נוספים)[^65] על מנת
 לקלוט פד\"ח מן האטמוספרה (הגבה של תחמוצת סידן שנמצאת בבטון בריכוז גבוה):
 
-$\ce{Ca(OH)2}$ + $\ce{CO2}$ ↔ $\ce{CaCO3}$ + $\ce{H2O}$
+$$\ce{Ca(OH)2 + CO2 <=> CaCO3 + H2O}$$
 
 היום מושקעים מאמצים רבים על מנת לייעל את קליטת הפד\"ח, לשפר את תכונות
 הקרבונט ($\ce{CaCO3}$) שמיוצר בתהליך ולמצוא לו שימושים. לאחרונה פורסם מאמר
@@ -915,9 +913,9 @@ and is used in a few world-size plants.[^186]
 דלקים פוסיליים (בעיקר נפט וגז אך גם פחם) מהווים כאמור חומר גלם גם לייצור
 פלסטיק, כאשר ייצור הפלסטיק מתבצע באופן הבא:[^187]
 
-## זיקוק נפט גולמי והפרדתו למקטעים (פרקציות) בהתאם לאורך שרשרות פחמנים, כאשר האורך משפיע על טמפרטורת האידוי, וכך מתאפשרת הפרדה באמצעות זיקוק. נפתא ותרכובות גז טבעי (בעיקר - ethane, propane or butane) הם המקטעים העיקריים המשמשים לייצור.
+**1. זיקוק נפט גולמי והפרדתו למקטעים (פרקציות) בהתאם לאורך שרשרות פחמנים, כאשר האורך משפיע על טמפרטורת האידוי, וכך מתאפשרת הפרדה באמצעות זיקוק. נפתא ותרכובות גז טבעי (בעיקר - ethane, propane or butane) הם המקטעים העיקריים המשמשים לייצור.**
 
-## פרוק המקטעים השונים ויצירת חומרי המוצא לסוגי פלסטיק שונים (שרשראות של פחמן בעלות קשר כפול המאפשר יצירת פולימרים) באמצעות:
+**2. פרוק המקטעים השונים ויצירת חומרי המוצא לסוגי פלסטיק שונים (שרשראות של פחמן בעלות קשר כפול המאפשר יצירת פולימרים) באמצעות:**
 
 - Steam cracking - high temperature and pressure to break the
   hydrocarbons long chains without a catalyst.
@@ -928,9 +926,9 @@ and is used in a few world-size plants.[^186]
 יצירת פולימרים (שרשראות ארוכות המורכבות מיחידות חוזרות הקשורות ביניהן --
 למשל, polyethylene, polypropylene) באמצעות:
 
-## פולימריזציה של הוספה (Addition polymerization)
+**3. פולימריזציה של הוספה (Addition polymerization)**
 
-## פולימריזציה של דחיסה (Condensation polymerization)
+**4. פולימריזציה של דחיסה (Condensation polymerization)**
 
 בשתי שיטות הפולימריזציה נפוץ השימוש בזרזים (קטליזטורים) שרובם עשויים
 ממתכות שונות. כפי שהראינו באיור 4.3, קצב הגידול של ייצור פלסטיק וצריכתו
@@ -1136,19 +1134,8 @@ N-ethyl-o-Toluesulfonamide),[^262] וכן שפלסטיק המוגדר כמתכל
 height: 400px
 name: fig 4-16
 ---
-איור 4.16: ייצור פלסטיק וסוגיו החל מ-1980 ועד 2050. RTS = Reference Technology Scenario (business as usual - a modelled projection of what might take place in the chemical sector between now and 2050) vs. CTS = Clean Technology Scenario. (LDPE = low-density polyethylene; HDPE = high- density polyethylene; PP = polypropylene; PS = polystyrene; PVC = polyvinyl chloride; PET = polyethylene terephthalate). מקור – RTS = Reference Technology Scenario (business as usual - a modelled projection of what might take place in the chemical sector between now and 2050) vs. CTS = Clean Technology Scenario. (LDPE = low-density
+איור 4.16: ייצור פלסטיק וסוגיו החל מ-1980 ועד 2050. RTS = Reference Technology Scenario (business as usual) vs. CTS = Clean Technology Scenario. (LDPE = low-density polyethylene; HDPE = high-density polyethylene; PP = polypropylene; PS = polystyrene; PVC = polyvinyl chloride; PET = polyethylene terephthalate). מקור – [IEA (2018)](https://www.iea.org/reports/the-future-of-petrochemicals); CC BY 4.0; Reprinted with permission.
 ```
-
-polyethylene; HDPE = high- density polyethylene; PP = polypropylene; PS
-= polystyrene; PVC = polyvinyl chloride; PET = polyethylene
-terephthalate).
-
-מקור -
-
-![](media/image17.emf)
-IEA (2018)
-<https://www.iea.org/reports/the-future-of-petrochemicals> ; CC BY 4.0;
-Reprinted with permission.
 
 ```{figure} media/4_17.jpg
 ---
@@ -1426,13 +1413,13 @@ Chemical Society.
 
 - ישנם ארבעה אתגרים סביבתיים מרכזיים בפעילות תעשייתית:
 
-## מעבר ממסלול חיים ליניארי (ייצור--שימוש--הטמנה) לכלכלה מעגלית (ייצור--שימוש--פירוק ומחזור--ייצור מוצרים חדשים).
+  - מעבר ממסלול חיים ליניארי (ייצור--שימוש--הטמנה) לכלכלה מעגלית (ייצור--שימוש--פירוק ומחזור--ייצור מוצרים חדשים).
 
-## מעבר מחומרי גלם מתכלים למתחדשים, תוך הקפדה על צריכה בקצב שאינו עולה על קצב התחדשותם.
+  - מעבר מחומרי גלם מתכלים למתחדשים, תוך הקפדה על צריכה בקצב שאינו עולה על קצב התחדשותם.
 
-## החלפת חומרים רעילים בחלופות שרעילותן לבני אדם ולמערכת האקולוגית פחותה.
+  - החלפת חומרים רעילים בחלופות שרעילותן לבני אדם ולמערכת האקולוגית פחותה.
 
-## נטרול זיהומים וניקוי אתרים שסבלו מזיהום תעשייתי .
+  - נטרול זיהומים וניקוי אתרים שסבלו מזיהום תעשייתי.
 
 - ראוי לשים לב לנטייה להעביר את המחזור של מרבית מוצרי הצריכה (פלדה,
   אלקטרוניקה, פלסטיק, טקסטיל, נייר, ועוד) לארצות עניות שם נגרמת פגיעה
