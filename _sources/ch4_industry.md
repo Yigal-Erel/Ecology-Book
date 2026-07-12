@@ -3,8 +3,6 @@
 > we can build an economy which can thrive and can run forever."
 >
 > Dame Ellen MacArthur, <https://doi.org/10.17226/29199>.
->
-> ***תעשיה וחומרי גלם***
 
 הכלכלה העולמית מתבססת על צריכת מוצרים, עבודה ושירותים. צריכת מוצרים היא
 אחד הגורמים העיקריים לנזקים הסביבתיים שהאנושות יוצרת. בפרק זה נתמקד
@@ -29,11 +27,11 @@
 ונרחיב בנוגע להשפעתם על הסביבה, האמצעים הננקטים כיום על מנת להתמודד איתם
 ואלו שיצטרכו להינקט בעתיד.
 
-## הנזקים והאתגרים שמציבה התעשייה לאיכות לסביבה
+# 4. הנזקים והאתגרים שמציבה התעשייה לאיכות לסביבה
 
 ההיבטים הסביבתיים של ייצור מוצרים הוא נושא רחב ביותר ומוקדש לו לפחות
 עיתון מקצועי אחד.[^5] בפרק זה נדגיש את צריכת האנרגיה ופליטת פד\"ח (פחמן
-דו חמצני -- $CO_2$) ושווה ערך פד\"ח של ענפי הייצור שצוינו לעיל (איור
+דו חמצני -- $\ce{CO2}$) ושווה ערך פד\"ח של ענפי הייצור שצוינו לעיל (איור
 4.1).[^6] בנוסף נסקור נזקים סביבתיים נוספים המפורטים במחקרים רבים, כולל
 בדוח של ה-OECD משנת 2019 והמסוכמים באיור 4.2.[^7] נזקים אלה כוללים:
 שחרור חומרים מאכלים (corrosive), שינויי אקלים, צריכת אנרגיה לייצור,
@@ -66,25 +64,6 @@ changes). מעבר לפגיעות אלה חשוב לתת את הדעת שכרי�
 נופש או שמורות טבע. כבר היום ניתן לדווח על מספר לא מבוטל של הצלחות,[^19]
 אם כי יש מספר גדול מאד של אתרים בארצות רבות שעדין לא טופלו.
 
-```{figure} media/4_1.jpg
----
-height: 400px
-name: fig 4-1
----
-איור 4.1: צריכת אנרגיה ופליטת פד"ח של כמה מהפעילויות התעשייתיות העיקריות.  chemicals(כימיקלים) - מתייחס בעיקר לסנתוז כימיקלים מדלקים פוסיליים ולייצור חומרי דישון והדברה בחקלאות.
-
-מקור – IEA (2018) <https://www.iea.org/reports/the-future-of-petrochemicals> ; CC BY 4.0; Reprinted with permission.
-```
-
-```{figure} media/4_2.jpg
----
-height: 400px
-name: fig 4-2
----
-איור 4.2: היבטים שונים של ההשפעה הסביבתית של ייצור ארבעה חומרי גלם (בהשוואה לחומרים אחרים, צפי ל-2060): נחושת, בטון, ברזל ומתכות נוספות.
-
-מקור – OECD (2018) [www.oecd.org/environment/waste/highlights-global-material-resources-outlook-to-2060.pdf](http://www.oecd.org/environment/waste/highlights-global-material-resources-outlook-to-2060.pdf)
-```
 
 ## מגמות בצריכת חומרי גלם
 
@@ -143,9 +122,7 @@ GDP - Gross Domestic Product)[^22] צפוי לגדול פי ארבע בין 2011
 height: 400px
 name: fig 4-3
 ---
-איור 4.3: תחזית הדוח של ה-OECD לגבי השינוי בצריכת חומרי גלם בהשוואה בין 2011 ו-2060 תוך ניסיון לעמוד ביעדי אקלים - SDS.
-
-מקור – OECD (2018) www.oecd.org/environment/waste/highlights-global-material-resources-outlook-to-2060.pdf ; Reprinted with permission.
+איור 4.3: תחזית הדוח של ה-OECD לגבי השינוי בצריכת חומרי גלם בהשוואה בין 2011 ו-2060 תוך ניסיון לעמוד ביעדי אקלים - SDS.  מקור – OECD (2018) www.oecd.org/environment/waste/highlights-global-material-resources-outlook-to-2060.pdf ; Reprinted with permission. OECD (2018) [www.oecd.org/environment/waste/highlights-global-material-resources-outlook-to-2060.pdf](http://www.oecd.org/environment/waste/highlights-global-material-resources-outlook-to-2060.pdf) ; Reprinted with permission.
 ```
 
 ```{figure} media/4_4.jpg
@@ -153,9 +130,7 @@ name: fig 4-3
 height: 400px
 name: fig 4-4
 ---
-איור 4.4: הגידול בייצור פלדה, מלט, אלומיניום, פלסטיק, אמוניה (דשן חקלאי) ותוצר מקומי גולמי ביחס לשנת 1970.
-
-מקור – IEA (2018) <https://www.iea.org/reports/the-future-of-petrochemicals> ; CC BY 4.0; Reprinted with permission.
+איור 4.4: הגידול בייצור פלדה, מלט, אלומיניום, פלסטיק, אמוניה (דשן חקלאי) ותוצר מקומי גולמי ביחס לשנת 1970. מקור – IEA (2018) [IEA](https://www.iea.org/reports/the-future-of-petrochemicals) ; CC BY 4.0; Reprinted with permission.
 ```
 
 ## כלכלה מעגלית (Circular Economy)
@@ -200,29 +175,29 @@ ironmaking ו-(2) steelmaking. השלב הראשון מתבצע רק כאשר מ
 
 בשלב הראשון (ironmaking) מחממים בתנור (כ-2550° צלזיוס) את הבצר הטחון
 בנוכחות פחם מעובד ( COKE- coal heated in the absence of air) ואבן גיר
-($CaCO_3$) ומתרחשות חמש הריאקציות הבאות (האותיות בסוגריים מציינות את
+($\ce{CaCO3}$) ומתרחשות חמש הריאקציות הבאות (האותיות בסוגריים מציינות את
 הפאזות של התרכובות השונות: גז (g), מוצק (s), נוזל - נתך (l).
 
-# 4. חמצון חלקי של פחם ויצירת פחמן חד חמצני (CO) וחום (תהליך המשחרר אנרגיה; ∆G שלילי):
+**1. חמצון חלקי של פחם ויצירת פחמן חד חמצני (CO) וחום (תהליך המשחרר אנרגיה; ∆G שלילי):**
 
-> 2C(s) + $O_2$(g) ↔ 2CO(g) + heat
+$$\ce{2C(s) + O2(g) <=> 2CO(g) + \text{heat}}$$
 
 חיזור של ברזל תלת-ערכי הנמצא בהמטיט על ידי פחמן חד חמצני ויצירת נתך ברזל
 מתכתי ושחרור פד\"ח (תהליך הדורש השקעת אנרגיה; ∆G חיובי):
 
-> $Fe_2O_3$(s) + 3CO(g) ↔ 2Fe(l) + 3$CO_2$(g)
+$$\ce{Fe2O3(s) + 3CO(g) <=> 2Fe(l) + 3CO2(g)}$$
 
-## חיזור של ברזל תלת-ערכי הנמצא בהמטיט על ידי פחם מעובד ויצירת נתך ברזל מתכתי ושחרור פד\"ח (תהליך הדורש השקעת אנרגיה):
+**3. חיזור של ברזל תלת-ערכי הנמצא בהמטיט על ידי פחם מעובד ויצירת נתך ברזל מתכתי ושחרור פד"ח (תהליך הדורש השקעת אנרגיה):**
 
-> 2$Fe_2O_3$(s) + 3C(s) ↔ 4Fe(l) + 3$CO_2$(g)
+$$\ce{2Fe2O3(s) + 3C(s) <=> 4Fe(l) + 3CO2(g)}$$
 
-## פרוק אבן גיר ויצירת תחמוצת סידן ושחרור פד\"ח (תהליך הדורש השקעת אנרגיה):
+**4. פרוק אבן גיר ויצירת תחמוצת סידן ושחרור פד"ח (תהליך הדורש השקעת אנרגיה):**
 
-> $CaCO_3$(s) + heat ↔ CaO(s) + $CO_2$(g)
+$$\ce{CaCO3(s) ->[\Delta] CaO(s) + CO2(g)}$$
 
-## תגובה של תחמוצת סידן עם תחמוצת צורן שהגיעה עם מינרלי הברזל ליצירת סיג (slag) ועל ידי כך סילוק הצורן מהמערכת, בזכות העובדה שהסיג פחות צפוף מברזל מותך וצף מעליו, וכך ניתן להפריד ביניהם (תהליך הדורש השקעת אנרגיה):
+**5. תגובה של תחמוצת סידן עם תחמוצת צורן שהגיעה עם מינרלי הברזל ליצירת סיג (slag) ועל ידי כך סילוק הצורן מהמערכת, בזכות העובדה שהסיג פחות צפוף מברזל מותך וצף מעליו, וכך ניתן להפריד ביניהם (תהליך הדורש השקעת אנרגיה):**
 
-> CaO(s) + $SiO_2$(s) ↔ CaSi$O_3$(l)
+$$\ce{CaO(s) + SiO2(s) <=> CaSiO3(l)}$$
 
 בשלב השני של ייצור הפלדה (steelmaking), עודפי הפחמן הנמצאים בברזל המותך
 מסולקים (בתור פד\"ח) ויחד אתם מסולקים מהברזל עודפי גופרית וזרחן (שמגיבים
@@ -274,7 +249,7 @@ ironmaking ו-(2) steelmaking. השלב הראשון מתבצע רק כאשר מ
 במימן,[^50] המופק מאלקטרוליזה של מים באמצעות חשמל המיוצר מאנרגיה מתחדשת,
 במקום פחמן כחומר המחזר את תחמוצות הברזל.
 
-$Fe_2O_3$(s) + 3$H_2$(g) ↔ 2Fe(l) + 3$H_2O$(g)
+$$\ce{Fe2O3(s) + 3H2(g) <=> 2Fe(l) + 3H2O(g)}$$
 
 בשנים האחרונות מושקע מאמץ לייצר \"פלדה ירוקה\" במגוון שיטות ועל ידי כך
 להפחית פליטות פד\"ח.[^51] אכן, בשבע מתוך עשר המדינות העיקריות שמייצרות
@@ -325,27 +300,27 @@ $Fe_2O_3$(s) + 3$H_2$(g) ↔ 2Fe(l) + 3$H_2O$(g)
 כגון קרקע עשירה בחרסית או אפר פחם.[^61] ריאקציה זאת מחייבת חימום
 לטמפרטורה של כ-1400° צלזיוס, כלומר השקעת אנרגיה רבה. בשלב השני הקלינקר
 מעורבב עם כמות קטנה של גבס וגיר. ייצור טון מלט משחרר לאטמוספרה פד\"ח הן
-מהתגובה הכימית (פירוק הקרבונט - $CO_3$) והן משימוש בדלקים פוסיליים.
+מהתגובה הכימית (פירוק הקרבונט - $\ce{CO3}$) והן משימוש בדלקים פוסיליים.
 בחישוב כללי, ייצור מלט תורם כ-8% מכלל פליטות הפד\"ח של האנושות.[^62]
 בשנים האחרונות מנסים להוסיף למפעלי ייצור מלט מערכת סילוק פד\"ח בטרם
 ייפלט לאטמוספירה, ולעשות זאת במינימום השקעת אנרגיה ותוספת שולית למחיר של
-ייצור המלט (Amine-Based $CO_2$ Capture).[^63] חשוב לזכור שתהליך ייצור
+ייצור המלט (Amine-Based $\ce{CO2}$ Capture).[^63] חשוב לזכור שתהליך ייצור
 המלט גורם גם לזיהום אוויר במורד הרוח, בעיקר חלקיקים מרחפים (נרחיב על כך
 בפרק 11) ולמפגע נופי משמעותי בשל כריית חומרי הגלם של המלט.
 
 בשנים האחרונות מושקע מאמץ ניכר בפיתוח שיטות חדשות של ייצור ומחזור בטון
 ומלט.[^64] אחת השיטות למחזור בטון כוללת גריסת בטון והוספתו לקרקעות לחות
 על מנת לייצבן. שימושים נוספים של בטון מתבססים על היותו חומר אלקלי
-(בסיסי, סותר חומציות) המסוגל לשחרר סידן הידרוקסיד ($Ca(OH)_2$). בהיותו
+(בסיסי, סותר חומציות) המסוגל לשחרר סידן הידרוקסיד ($\ce{Ca(OH)2}$). בהיותו
 חומר אלקלי ניתן למצוא לבטון גרוס שימוש לטיהור שפכים חומציים, נטרול גזים
 חומציים (עשירים בתחמוצת גופרית או תחמוצת חנקן) ועוד. אחד השימושים
 המעניינים ביותר הוא שימוש בבטון גרוס (וחומרי בניה נוספים)[^65] על מנת
 לקלוט פד\"ח מן האטמוספרה (הגבה של תחמוצת סידן שנמצאת בבטון בריכוז גבוה):
 
-$Ca(OH)_2$ + $CO_2$ ↔ $CaCO_3$ + $H_2O$
+$$\ce{Ca(OH)2 + CO2 <=> CaCO3 + H2O}$$
 
 היום מושקעים מאמצים רבים על מנת לייעל את קליטת הפד\"ח, לשפר את תכונות
-הקרבונט ($CaCO_3$) שמיוצר בתהליך ולמצוא לו שימושים. לאחרונה פורסם מאמר
+הקרבונט ($\ce{CaCO3}$) שמיוצר בתהליך ולמצוא לו שימושים. לאחרונה פורסם מאמר
 נוסף שהציע תהליך למחזור מלט.[^66] המחזור מתבסס על שימוש בעיסת מלט המופקת
 מבטון משומש. החומר שנוצר בתהליך המחזור דומה בתכונותיו למלט המקורי. השיטה
 נמצאת עדיין בחיתוליה והזמן יגיד האם ניתן ליישם אותה בקנה מידה מסחרי, אם
@@ -354,7 +329,7 @@ $Ca(OH)_2$ + $CO_2$ ↔ $CaCO_3$ + $H_2O$
 תחליפים למלט קונבנציונלי שייצורם אינו פולט פד\"ח. אכן, במאמר[^68]
 שהתפרסם ב-2025 והיכה גלים[^69] הוצע להוסיף לבטון בזמן הייצור חומרים
 המגיבים עם פד\"ח אטמוספרי וסופחים אותו. מאמר נוסף הציג חומר מבוסס
-אתרינגיט (ettringite - $Ca_6Al_2(SO_4)_3(OH)_{12}\cdot 26H_2O$) שיכול להוות
+אתרינגיט (ettringite - $\ce{Ca6Al2(SO4)3.26H2O}$) שיכול להוות
 ציפוי לקירות וגגות מבנים ולהפחית משמעותית את כמות הקרינה שהם בולעים
 ולהגדיל את כמות הקרינה שהם פולטים וכך לקרר המידה ניכרת את המבנים.[^70]
 
@@ -383,7 +358,7 @@ $Ca(OH)_2$ + $CO_2$ ↔ $CaCO_3$ + $H_2O$
 height: 400px
 name: fig 4-5
 ---
-איור 4.5: כמות פליטות פד"ח והאנרגיה אשר גלומות בחומרים המשמשים לבנייה בבריטניה. על פי - Lehne, J. & Preston, F. (2018) https://www.chathamhouse.org/2018/06/making-concrete-change-innovation-low-carbon-cement-and-concrete
+איור 4.5: כמות פליטות פד"ח והאנרגיה אשר גלומות בחומרים המשמשים לבנייה בבריטניה. על פי - Lehne, J. & Preston, F. (2018) [Chatham House](https://www.chathamhouse.org/2018/06/making-concrete-change-innovation-low-carbon-cement-and-concrete)
 ```
 
 ```{figure} media/4_6.jpg
@@ -391,7 +366,7 @@ name: fig 4-5
 height: 400px
 name: fig 4-6
 ---
-איור 4.6: דוגמאות לחומרי בנייה וגימור מתקדמים, בין היתר במובנים של יעילות אנרגטית גבוהה יותר. על פי - World Economic Forum – https://www.weforum.org/publications/shaping-the-future-of-construction-a-breakthrough-in-mindset-and-technology/
+איור 4.6: דוגמאות לחומרי בנייה וגימור מתקדמים, בין היתר במובנים של יעילות אנרגטית גבוהה יותר. על פי - World Economic Forum – [WEF](https://www.weforum.org/publications/shaping-the-future-of-construction-a-breakthrough-in-mindset-and-technology/)
 ```
 
 ## הפקת מתכות
@@ -495,9 +470,7 @@ name: fig 4-6
 height: 400px
 name: fig 4-7
 ---
-איור 4.7: הדרישה למינרלים ומתכות לצורך טכנולוגיות אנרגיה נקייה לפי שני תרחישים (אפס פליטות של גזי חממה עד 2050, SDS – עמידה ביעד של התחממות של פחות מ-2° צלזיוס). (א) עלייה מ-2020 ל-2040 בסקטורים שונים. (ב) גידול בצריכת גרפיט ומספר מתכות מ-2020 ל-2040 על פי תרחיש ה-SDS. Rare earth elements = REE.
-
-מקור – IEA (2021) <https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions> ; CC BY 4.0; Reprinted with permission.
+איור 4.7: הדרישה למינרלים ומתכות לצורך טכנולוגיות אנרגיה נקייה לפי שני תרחישים (אפס פליטות של גזי חממה עד 2050, SDS – עמידה ביעד של התחממות של פחות מ-2° צלזיוס). (א) עלייה מ-2020 ל-2040 בסקטורים שונים. (ב) גידול בצריכת גרפיט ומספר מתכות מ-2020 ל-2040 על פי תרחיש ה-SDS. Rare earth elements = REE. מקור – IEA (2021) [IEA](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions) ; CC BY 4.0; Reprinted with permission.
 ```
 
 ```{figure} media/4_8.jpg
@@ -505,9 +478,7 @@ name: fig 4-7
 height: 400px
 name: fig 4-8
 ---
-איור 4.8: כמות המתכות (ללא אלומיניום וברזל) הנצרכות במכוניות (לקילוגרם) ובמתקני הפקת אנרגיה (ל-MW).
-
-מקור – IEA (2021) <https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions> ; CC BY 4.0; Reprinted with permission.
+איור 4.8: כמות המתכות (ללא אלומיניום וברזל) הנצרכות במכוניות (לקילוגרם) ובמתקני הפקת אנרגיה (ל-MW). מקור – IEA (2021) [IEA](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions) ; CC BY 4.0; Reprinted with permission.
 ```
 
 ```{figure} media/4_9.jpg
@@ -515,9 +486,7 @@ name: fig 4-8
 height: 400px
 name: fig 4-9
 ---
-איור 4.9: חלקן של המדינות העיקריות בכרייה ועיבוד של מתכות ודלקים פוסיליים שונים.
-
-מקור – IEA (2021) <https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions> ; CC BY 4.0; Reprinted with permission.
+איור 4.9: חלקן של המדינות העיקריות בכרייה ועיבוד של מתכות ודלקים פוסיליים שונים. מקור – IEA (2021) [IEA](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions) ; CC BY 4.0; Reprinted with permission.
 ```
 
 ### נחושת (Cu)
@@ -789,9 +758,7 @@ Pr, Dy, Tb) יש חשיבות גדולה בתחנות רוח (לייצור מג�
 height: 400px
 name: fig 4-10
 ---
-איור 4.10: אחוז המיחזור של מתכות שונות (לא כולל ברזל).
-
-מקור- IEA (2021) https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions ; CC BY 4.0; Reprinted with permission.
+איור 4.10: אחוז המיחזור של מתכות שונות (לא כולל ברזל). מקור- IEA (2021) [IEA](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions) ; CC BY 4.0; Reprinted with permission.
 ```
 
 ```{figure} media/4_11.jpg
@@ -835,7 +802,7 @@ name: fig 4-11
 לבני אדם ולאורגניזמים אחרים.[^170]
 
 ישנן הערכות ששחיקת צמיגים תורמת 5-10% מכלל החלקיקים המרחפים
-($PM_{2.5}$)[^171] באוויר בסביבה העירונית,[^172] ומהווה מקור עיקרי
+(PM$_{2.5}$)[^171] באוויר בסביבה העירונית,[^172] ומהווה מקור עיקרי
 לננו-חלקיקים (קטנים מ-1 מיקרומטר)[^173] אטמוספריים באזורים הררים כמו
 האלפים.[^174] ישנן גם הערכות ששחיקה של צמיגים תורמת כמעט 80% מחלקיקי
 המיקרו-פלסטיק (קטנים מ-5 מ\"מ) הנשטפים לאוקיינוסים.[^175] יתרה מזאת, ככל
@@ -860,7 +827,7 @@ name: fig 4-11
 height: 400px
 name: fig 4-12
 ---
-איור 4.12: תיאור סכמתי של ייצור פטרו-כימיקלים מגז ונפט גולמי ושל המוצרים המכילים אותם. על פי – https://www.bpf.co.uk/plastipedia/how-is-plastic-made.aspx .
+איור 4.12: תיאור סכמתי של ייצור פטרו-כימיקלים מגז ונפט גולמי ושל המוצרים המכילים אותם. על פי – [bpf.co.uk](https://www.bpf.co.uk/plastipedia/how-is-plastic-made.aspx) .
 ```
 
 ```{figure} media/4_13.jpg
@@ -868,9 +835,7 @@ name: fig 4-12
 height: 400px
 name: fig 4-13
 ---
-איור 4.13: (א) השימושים הנפוצים של פטרו-כימיקלים בחברה המודרנית: אלקטרוניקה, טקסטיל, פנלים סולארים, טורבינות רוח, דשנים, סוללות, צמיגים, מכלים, חומרי בידוד, צנרת, חומרי ניקוי ואריזה. (ב) הפילוח של צריכת פלסטיק על ידי ענפי המשק השונים (איור שמאלי) והשכיחות של סוגי פלסטיק שונים הנצרכים כיום (איור ימני). PP&A  = Polyester, polyamide and acrylic; LDPE = low-density polyethylene; HDPE = high-density polyethylene; PP = polypropylene; PS = polystyrene; PVC = polyvinyl chloride; PET =  polyethylene terephthalate; PUR = polyurethane
-
-מקור – IEA (2018) https://www.iea.org/reports/the-future-of-petrochemicals;   CC BY 4.0; Reprinted with permission. א
+איור 4.13: (א) השימושים הנפוצים של פטרו-כימיקלים בחברה המודרנית: אלקטרוניקה, טקסטיל, פנלים סולארים, טורבינות רוח, דשנים, סוללות, צמיגים, מכלים, חומרי בידוד, צנרת, חומרי ניקוי ואריזה. (ב) הפילוח של צריכת פלסטיק על ידי ענפי המשק השונים (איור שמאלי) והשכיחות של סוגי פלסטיק שונים הנצרכים כיום (איור ימני). PP&A  = Polyester, polyamide and acrylic; LDPE = low-density polyethylene; HDPE = high-density polyethylene; PP = polypropylene; PS = polystyrene; PVC = polyvinyl chloride; PET =  polyethylene terephthalate; PUR = polyurethane מקור – IEA (2018) [IEA](https://www.iea.org/reports/the-future-of-petrochemicals);   CC BY 4.0; Reprinted with permission. א
 ```
 
 PP&A = Polyester, polyamide and acrylic; LDPE = low-density
@@ -885,18 +850,18 @@ CC BY 4.0; Reprinted with permission.
 
 א
 
+![](media/image13.jpeg)
 
 ב
 
+![](media/image14.jpeg)
 
 ```{figure} media/4_14.jpg
 ---
 height: 400px
 name: fig 4-14
 ---
-איור 4.14: התפלגות השימוש בגז טבעי - מתאן (ימין) ונפט (שמאל) בייצור פטרו-כימיקלים, בענפי תעשיה אחרים, בתחבורה, עבור ייצור אנרגיה (בעיקר חשמל) וכן בניה ותחזוקת בניינים.
-
-מקור - IEA (2018) https://www.iea.org/reports/the-future-of-petrochemicals ; CC BY 4.0; Reprinted with permission.
+איור 4.14: התפלגות השימוש בגז טבעי - מתאן (ימין) ונפט (שמאל) בייצור פטרו-כימיקלים, בענפי תעשיה אחרים, בתחבורה, עבור ייצור אנרגיה (בעיקר חשמל) וכן בניה ותחזוקת בניינים. מקור - IEA (2018) [IEA](https://www.iea.org/reports/the-future-of-petrochemicals) ; CC BY 4.0; Reprinted with permission.
 ```
 
 ```{figure} media/4_15.jpg
@@ -904,15 +869,13 @@ name: fig 4-14
 height: 400px
 name: fig 4-15
 ---
-איור 4.15: מגמות בייצור וצריכה עולמיים של "חומרים חדשים" (novel entities).
-
-מקור – Persson et al.  (2022) - https://doi.org/10.1021/acs.est.1c04158. Reprinted with permission.
+איור 4.15: מגמות בייצור וצריכה עולמיים של "חומרים חדשים" (novel entities). מקור – Persson et al.  (2022) - https://doi.org/10.1021/acs.est.1c04158. Reprinted with permission.
 ```
 
 ### ייצור דשנים -- תהליך הבר-בוש
 
 מבחינת הכמות, מוצרי פלסטיק ודשנים עשירי חנקן (מבוססי אמוניה) הם המוצרים
-העיקריים שמכינים מפטרו-כימיקלים. אמוניה ($NH_3$) מיוצרת בתהליך הבר-בוש
+העיקריים שמכינים מפטרו-כימיקלים. אמוניה ($\ce{NH3}$) מיוצרת בתהליך הבר-בוש
 (Haber-Bosch) באמצעות ריאקציה בין מתאן, מים וחנקן אטמוספרי והיא חומר גלם
 מרכזי ביצור דשנים עשירי חנקן (טבלה 4.1, ראו גם פרק 2). ייצור אמוניה
 אחראי על כ-3% מכמות הפד\"ח הנפלט לאטמוספרה.[^181] כבר שנים רבות נעשים
@@ -921,22 +884,22 @@ name: fig 4-15
 ממי שפכים בתהליך פוטוכימי.[^183] למרות שמדובר ברעיון מעניין ואפילו
 מלהיב, נותר לראות האם ניתן יהיה ליישם אותו בקנה מידה גדול.
 
-```{figure} media/tbl_4_1.jpg
+```{figure} media/4_1.jpg
 ---
 height: 400px
-name: tbl 4-1
+name: fig 4-1
 ---
 טבלה 4.1: תהליך הבר-בוש. Haber-Bosch process: (1) H2 production: (a) CH4 + H2O → CO + 3H2 (after removing S impurities from methane (CH4)), and (b) CO + H2O → CO2 + H2 (2) Ammonia production: 3H2 + N2 → 2NH3 - Using iron catalyst at 400 – 500°C and pressures above 100 bar with recycling of the unconverted part of the synthesis gas and separating the ammonia product under high pressure. Since the 1990s a ruthenium (Ru)-based catalyst was introduced which allows slightly lower synthesis pressure and is used in a few world-size plants.
 ```
 
 Haber-Bosch process:[^184]
 
-\(1\) $H_2$ production: (a) $CH_4$ + $H_2O$ → CO + 3$H_2$ (after removing S
-impurities from methane ($CH_4$)), and
+\(1\) $\ce{H2}$ production: (a) $\ce{CH4}$ + $\ce{H2O}$ → CO + 3$\ce{H2}$ (after removing S
+impurities from methane ($\ce{CH4}$)), and
 
-\(b\) CO + $H_2O$ → $CO_2$ + $H_2$
+\(b\) CO + $\ce{H2O}$ → $\ce{CO2}$ + $\ce{H2}$
 
-\(2\) Ammonia production: 3$H_2$ + $N_2$ → 2$NH_3$ - Using iron catalyst at
+\(2\) Ammonia production: 3$\ce{H2}$ + $\ce{N2}$ → 2$\ce{NH3}$ - Using iron catalyst at
 400 -- 500°C and pressures above 100 bar with recycling of the
 unconverted part of the synthesis gas and separating the ammonia product
 under high pressure. Since the 1990s a ruthenium (Ru)[^185]-based
@@ -950,9 +913,9 @@ and is used in a few world-size plants.[^186]
 דלקים פוסיליים (בעיקר נפט וגז אך גם פחם) מהווים כאמור חומר גלם גם לייצור
 פלסטיק, כאשר ייצור הפלסטיק מתבצע באופן הבא:[^187]
 
-## זיקוק נפט גולמי והפרדתו למקטעים (פרקציות) בהתאם לאורך שרשרות פחמנים, כאשר האורך משפיע על טמפרטורת האידוי, וכך מתאפשרת הפרדה באמצעות זיקוק. נפתא ותרכובות גז טבעי (בעיקר - ethane, propane or butane) הם המקטעים העיקריים המשמשים לייצור.
+**1. זיקוק נפט גולמי והפרדתו למקטעים (פרקציות) בהתאם לאורך שרשרות פחמנים, כאשר האורך משפיע על טמפרטורת האידוי, וכך מתאפשרת הפרדה באמצעות זיקוק. נפתא ותרכובות גז טבעי (בעיקר - ethane, propane or butane) הם המקטעים העיקריים המשמשים לייצור.**
 
-## פרוק המקטעים השונים ויצירת חומרי המוצא לסוגי פלסטיק שונים (שרשראות של פחמן בעלות קשר כפול המאפשר יצירת פולימרים) באמצעות:
+**2. פרוק המקטעים השונים ויצירת חומרי המוצא לסוגי פלסטיק שונים (שרשראות של פחמן בעלות קשר כפול המאפשר יצירת פולימרים) באמצעות:**
 
 - Steam cracking - high temperature and pressure to break the
   hydrocarbons long chains without a catalyst.
@@ -963,9 +926,9 @@ and is used in a few world-size plants.[^186]
 יצירת פולימרים (שרשראות ארוכות המורכבות מיחידות חוזרות הקשורות ביניהן --
 למשל, polyethylene, polypropylene) באמצעות:
 
-## פולימריזציה של הוספה (Addition polymerization)
+**3. פולימריזציה של הוספה (Addition polymerization)**
 
-## פולימריזציה של דחיסה (Condensation polymerization)
+**4. פולימריזציה של דחיסה (Condensation polymerization)**
 
 בשתי שיטות הפולימריזציה נפוץ השימוש בזרזים (קטליזטורים) שרובם עשויים
 ממתכות שונות. כפי שהראינו באיור 4.3, קצב הגידול של ייצור פלסטיק וצריכתו
@@ -1171,29 +1134,15 @@ N-ethyl-o-Toluesulfonamide),[^262] וכן שפלסטיק המוגדר כמתכל
 height: 400px
 name: fig 4-16
 ---
-איור 4.16: ייצור פלסטיק וסוגיו החל מ-1980 ועד 2050. RTS = Reference Technology Scenario (business as usual - a modelled projection of what might take place in the chemical sector between now and 2050) vs. CTS = Clean Technology Scenario. (LDPE = low-density polyethylene; HDPE = high- density polyethylene; PP = polypropylene; PS = polystyrene; PVC = polyvinyl chloride; PET = polyethylene terephthalate).
-
-מקור -
+איור 4.16: ייצור פלסטיק וסוגיו החל מ-1980 ועד 2050. RTS = Reference Technology Scenario (business as usual) vs. CTS = Clean Technology Scenario. (LDPE = low-density polyethylene; HDPE = high-density polyethylene; PP = polypropylene; PS = polystyrene; PVC = polyvinyl chloride; PET = polyethylene terephthalate). מקור – [IEA (2018)](https://www.iea.org/reports/the-future-of-petrochemicals); CC BY 4.0; Reprinted with permission.
 ```
-
-polyethylene; HDPE = high- density polyethylene; PP = polypropylene; PS
-= polystyrene; PVC = polyvinyl chloride; PET = polyethylene
-terephthalate).
-
-מקור -
-
-IEA (2018)
-<https://www.iea.org/reports/the-future-of-petrochemicals> ; CC BY 4.0;
-Reprinted with permission.
 
 ```{figure} media/4_17.jpg
 ---
 height: 400px
 name: fig 4-17
 ---
-איור 4.17: ייצור והצטברות פלסטיק מאז 1950, כולל תחזית עד 2050.
-
-מקור - United Nations Environment Programme (2021) https://doi.org/10.1038/s41586-024-07758-6. © Reprinted with permission.
+איור 4.17: ייצור והצטברות פלסטיק מאז 1950, כולל תחזית עד 2050. מקור - United Nations Environment Programme (2021) https://doi.org/10.1038/s41586-024-07758-6. © Reprinted with permission.
 ```
 
 ```{figure} media/4_18.jpg
@@ -1201,9 +1150,7 @@ name: fig 4-17
 height: 400px
 name: fig 4-18
 ---
-איור 4.18: התפלגות הטיפול בפלסטיק בין שיטות הטיפול השונות באיחוד האירופי.
-
-מקור – IEA (2018) <https://www.iea.org/reports/the-future-of-petrochemicals> ; CC BY 4.0; Reprinted with permission.
+איור 4.18: התפלגות הטיפול בפלסטיק בין שיטות הטיפול השונות באיחוד האירופי. מקור – IEA (2018) [IEA](https://www.iea.org/reports/the-future-of-petrochemicals) ; CC BY 4.0; Reprinted with permission.
 ```
 
 ```{figure} media/4_19.jpg
@@ -1211,9 +1158,7 @@ name: fig 4-18
 height: 400px
 name: fig 4-19
 ---
-איור 4.19: צריכה לגולגולת של מוצרי פלסטיק ודשן חקלאי כפונקציה של רמת החיים (תמ"ג לנפש).
-
-מקור - IEA (2018) https://www.iea.org/reports/the-future-of-petrochemicals ; CC BY 4.0; Reprinted with permission.
+איור 4.19: צריכה לגולגולת של מוצרי פלסטיק ודשן חקלאי כפונקציה של רמת החיים (תמ"ג לנפש). מקור - IEA (2018) [IEA](https://www.iea.org/reports/the-future-of-petrochemicals) ; CC BY 4.0; Reprinted with permission.
 ```
 
 ### פר-פלואורו-אלקיליות ופולי-פלואורו-אלקיליות (PFAS: per- and poly-fluoro-alkyl substances)
@@ -1358,9 +1303,7 @@ name: fig 4-20
 height: 400px
 name: fig 4-21
 ---
-איור 4.21: אבני דרך בהיסטוריה של המודעות לנזק של מספר POP כולל PFAS. רשימת מאמרי המפתח שהצביעו על הבעיה הסביבתית מצוינת ב-!. שימו לב ל-DDT שהוזכר בפרק המבוא, ל-CFC שהוזכרו למעלה ויופיעו שוב בפרק 11, וכן לעובדה שיש הטוענים שפלסטיק איננו POP.
-
-מקור – Scheringer, M. et al. (2022) https://doi.org/10.1021/acs.est.2c06611
+איור 4.21: אבני דרך בהיסטוריה של המודעות לנזק של מספר POP כולל PFAS. רשימת מאמרי המפתח שהצביעו על הבעיה הסביבתית מצוינת ב-!. שימו לב ל-DDT שהוזכר בפרק המבוא, ל-CFC שהוזכרו למעלה ויופיעו שוב בפרק 11, וכן לעובדה שיש הטוענים שפלסטיק איננו POP.  מקור – Scheringer, M. et al. (2022) https://doi.org/10.1021/acs.est.2c06611
 ```
 
 Reprinted with permission. Copyright
@@ -1424,14 +1367,12 @@ Reprinted with permission. Copyright
 התעשייה, כאשר הלקח העיקרי של תעשיית האופנה והבגדים מהזווית הסביבתית הוא
 לצרוך פחות ולהשתמש באותו בגד זמן ארוך ככל שניתן.[^348]
 
-```{figure} media/tbl_4_2.png
+```{figure} media/4_2.jpg
 ---
 height: 400px
-name: tbl 4-2
+name: fig 4-2
 ---
-טבלה 4.2: יצרניות הבגדים העיקריות.
-
-מקור – Leal Filho, W. et al. (2022) https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2022.973102/full?utm_source=chatgpt.com. Reprinted with permission. Copyright {2023} American Chemical Society.
+טבלה 4.2: יצרניות הבגדים העיקריות. מקור – Leal Filho, W. et al. (2022) [Frontiers](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2022.973102/full?utm_source=chatgpt.com). Reprinted with permission. Copyright {2023} American Chemical Society.
 ```
 
 ```{figure} media/4_22.jpg
@@ -1439,9 +1380,7 @@ name: tbl 4-2
 height: 400px
 name: fig 4-22
 ---
-איור 4.22: תרומת תעשיית הטקסטיל לפליטת פד"ח בהשוואה לפליטות מייצור אנרגיה, ביחידות של גיגה-טון לשנה.
-
-מקור – Leal Filho, W. et al. (2022) https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2022.973102/full?utm_source=chatgpt.com.
+איור 4.22: תרומת תעשיית הטקסטיל לפליטת פד"ח בהשוואה לפליטות מייצור אנרגיה, ביחידות של גיגה-טון לשנה. מקור – Leal Filho, W. et al. (2022) [Frontiers](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2022.973102/full?utm_source=chatgpt.com).
 ```
 
 Reprinted with permission. Copyright {2023} American
@@ -1474,13 +1413,13 @@ Chemical Society.
 
 - ישנם ארבעה אתגרים סביבתיים מרכזיים בפעילות תעשייתית:
 
-## מעבר ממסלול חיים ליניארי (ייצור--שימוש--הטמנה) לכלכלה מעגלית (ייצור--שימוש--פירוק ומחזור--ייצור מוצרים חדשים).
+  - מעבר ממסלול חיים ליניארי (ייצור--שימוש--הטמנה) לכלכלה מעגלית (ייצור--שימוש--פירוק ומחזור--ייצור מוצרים חדשים).
 
-## מעבר מחומרי גלם מתכלים למתחדשים, תוך הקפדה על צריכה בקצב שאינו עולה על קצב התחדשותם.
+  - מעבר מחומרי גלם מתכלים למתחדשים, תוך הקפדה על צריכה בקצב שאינו עולה על קצב התחדשותם.
 
-## החלפת חומרים רעילים בחלופות שרעילותן לבני אדם ולמערכת האקולוגית פחותה.
+  - החלפת חומרים רעילים בחלופות שרעילותן לבני אדם ולמערכת האקולוגית פחותה.
 
-## נטרול זיהומים וניקוי אתרים שסבלו מזיהום תעשייתי .
+  - נטרול זיהומים וניקוי אתרים שסבלו מזיהום תעשייתי.
 
 - ראוי לשים לב לנטייה להעביר את המחזור של מרבית מוצרי הצריכה (פלדה,
   אלקטרוניקה, פלסטיק, טקסטיל, נייר, ועוד) לארצות עניות שם נגרמת פגיעה
@@ -1789,7 +1728,7 @@ Chemical Society.
 
 [^48]: Acidification (the Bronsted-Lowry definition) -- the process of
     lowering the pH of the matter, i.e., increasing the concentration of
-    dissolved protons (H+, where pH = -log\[H^+^\], where \[H^+^\] =
+    dissolved protons (H+, where pH = -log\[$\ce{H+}$\], where \[$\ce{H+}$\] =
     concentration of dissolved proton). Sometimes, the notion of
     concentrations should be replaced with activities, which are
     proportional to concentrations but take into consideration also the
@@ -1813,7 +1752,7 @@ Chemical Society.
     iron production from iron oxide and salt water. *Joule* **8**,
     714-727. <https://doi.org/10.1016/j.joule.2024.01.001>
 
-[^52]: Lei, T. et al. (2023) Global iron and steel plant $CO_2$ emissions
+[^52]: Lei, T. et al. (2023) Global iron and steel plant $\ce{CO2}$ emissions
     and carbon-neutrality pathways. *Nature* **622**, 514--520.
     <https://doi.org/10.1038/s41586-023-06486-7>
 
@@ -1842,8 +1781,8 @@ Chemical Society.
     Sandy fingerprints trace supply sources. *EOS* **105**.
     <https://doi.org/10.1029/2024EO240004>
 
-[^61]: $CaCO_3$(s) + clay + heat → clinker {$SiO_2$(\~21%),
-    $Fe_2O_3$(\~3%), $Al_2$$O_3$(\~7%), MgO(\~2%), CaO(\~63%)} + $CO_2$
+[^61]: $\ce{CaCO3}$(s) + clay + heat → clinker {$\ce{SiO2}$(\~21%),
+    $\ce{Fe2O3}$(\~3%), $\ce{Al2O3}$(\~7%), MgO(\~2%), CaO(\~63%)} + $\ce{CO2}$
 
 [^62]: <https://www.weforum.org/stories/2024/09/cement-production-sustainable-concrete-co2-emissions/>
 
@@ -2385,7 +2324,7 @@ Chemical Society.
     Aromatics (benzene, toluene and xylenes -- BTX). Used for dyes and
     synthetic detergents, polyurethanes, plastics and synthetic fibers.
 
-    Synthesis gas (CO + $H_2$). Used to produce methanol and other
+    Synthesis gas (CO + $\ce{H2}$). Used to produce methanol and other
     chemicals, and then ammonia to produce fertilizers.
 
 [^167]: OECD/IEA (2018) The Future of Petrochemicals.

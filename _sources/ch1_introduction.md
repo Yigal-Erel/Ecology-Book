@@ -1,25 +1,11 @@
-"All people --- living in ancient or modern times, in luxury or
-
-destitution, in mega-cities or vast hinterlands --- depend
-
-intimately and utterly on nature. Through the microbiome
-
-inhabiting our body, the nature in local parks and farms, and
-
-exotic forests and underwater realms across the world, we
-
-are all deeply embedded within the web of life. This extremely
-
-subtle and extensive net of relationships sustains and fulfills
-
-us, providing the material basics of nutrition, health, and
-
-security to ethereal senses of attachment, beauty, and spirit."
+:::{div} .en-quote
+"All people — living in ancient or modern times, in luxury or destitution, in mega-cities or vast hinterlands — depend intimately and utterly on nature. Through the microbiome inhabiting our body, the nature in local parks and farms, and exotic forests and underwater realms across the world, we are all deeply embedded within the web of life. This extremely subtle and extensive net of relationships sustains and fulfills us, providing the material basics of nutrition, health, and security to ethereal senses of attachment, beauty, and spirit."
 
 Gretchen C. Daily, Stanford University, 2021
-(<https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review/the-economics-of-biodiversity-the-dasgupta-review-reactions>)
+:::
 
-## מבוא - עקרונות, היסטוריה והגורמים למשבר הסביבה והאקלים
+
+# מבוא - עקרונות, היסטוריה והגורמים למשבר הסביבה והאקלים
 
 חדשות לבקרים אנחנו נתקלים בנבואות אפוקליפטיות על הרס כדור הארץ ועל העתיד
 הלוהט הצפוי לנו.[^1] המושג \"משבר האקלים\" אינו יורד מהכותרות כבר שנים
@@ -137,18 +123,18 @@ Economics* ובשנת 1980 פרסם ויליאם קטון (Catton) את ספרו
 כמו פיזור רעלים בסביבה (כגון עופרת, כספית או פלסטיק) או סחיפת קרקעות --
 זכו לתשומת לב מועטה יותר או קצרת טווח.
 
-```{figure} media/tbl_1_1.png
+```{figure} media/1_1.png
 ---
 height: 400px
-name: tbl 1-1
+name: fig 1-1
 ---
-טבלה 1.1: אבני דרך בהיסטוריה הסביבתית The great smog, London 						(1952) CO2 rise, the Mauna Loa record – C. Keeling 				(1957) Silent Spring, bio-magnification of pesticides - R. Carson	 		(1962) Pollution is global & ancient, Pb in ice cores – C. C. Patterson 		(1969)
+איור 1.1: גבולות פלנטריים (א) מעודכן לשנת 2025; (ב) בשנים 2009, 2015, 2023. מקור: Azote for Stockholm Resilience Centre. CC BY-NC-ND 3.0 - Planetary boundaries - Stockholm Resilience Centre, Reprinted with permission.
 ```
 
 :::{div} .en-quote
 
 
-The great smog, London (1952)<br>$CO_2$ rise, the Mauna Loa record -- C. Keeling (1957)<br>Silent Spring, bio-magnification of pesticides - R. Carson (1962)<br>Pollution is global & ancient, Pb in ice cores -- C. C. Patterson (1969)<br>Earth Day -- G. Nelson & D. Hayes (1970)<br>Limits to Growth -- The Club of Rome (1972)<br>The central role of oceans in climate regulation -- W. Broecker & DSDP<br>(1970s)<br>The stratospheric $O_3$ depletion -- M. Molina & S. Rowland (1974--1980s)<br>The Gaia Hypothesis -- J. Lovelock & L. Margulis (1970s)<br>Ecological Footprint concept -- W. Rees & M. Wackernagel (1992)<br>Earth in the Balance -- A. Gore (1992)<br>Global warming -- 1896 (S. Arrhenius), 1930s (G. Callendar), 1970s,<br>1990s (Rio -- 1992) - present (COP21 - Paris 2015, COP30 - Brazil)
+The great smog, London (1952)<br>$\ce{CO2}$ rise, the Mauna Loa record -- C. Keeling (1957)<br>Silent Spring, bio-magnification of pesticides - R. Carson (1962)<br>Pollution is global & ancient, Pb in ice cores -- C. C. Patterson (1969)<br>Earth Day -- G. Nelson & D. Hayes (1970)<br>Limits to Growth -- The Club of Rome (1972)<br>The central role of oceans in climate regulation -- W. Broecker & DSDP<br>(1970s)<br>The stratospheric $\ce{O3}$ depletion -- M. Molina & S. Rowland (1974--1980s)<br>The Gaia Hypothesis -- J. Lovelock & L. Margulis (1970s)<br>Ecological Footprint concept -- W. Rees & M. Wackernagel (1992)<br>Earth in the Balance -- A. Gore (1992)<br>Global warming -- 1896 (S. Arrhenius), 1930s (G. Callendar), 1970s,<br>1990s (Rio -- 1992) - present (COP21 - Paris 2015, COP30 - Brazil)
 :::
 
 ## תיעוד הבעיה הסביבתית באמצעות מדדים רב-ממדיים
@@ -195,19 +181,6 @@ integrity); (9) שינויי אקלים (climate change).
 ומראה כיצד מצב הסביבה הולך ומחמיר וכיצד פוחת המידע החסר (השטחות האפורות
 שמופיעות בשנים 2009 ו-2015, אך לא בשנים 2023 ו-2025).[^42] כל הנושאים
 המופיעים באיור יפורטו בפרקים הבאים של הספר.
-
-> איור 1.1: גבולות פלנטריים (א) מעודכן לשנת 2025; (ב) בשנים 2009, 2015,
-> 2023. מקור:
->
-> Azote for Stockholm Resilience Centre. CC BY-NC-ND 3.0 - [Planetary
-> boundaries - Stockholm Resilience
-> Centre](https://www.stockholmresilience.org/research/planetary-boundaries.html),
-> Reprinted with permission.
-
-# 1. 2025
-
-
-2009, 2015, 2023
 
 ## הגורמים לפגיעה בסביבה
 
@@ -337,9 +310,7 @@ P\*A\*T, הטוענת שהשפעת האנושות על הטבע (I) שווה ל�
 height: 400px
 name: fig 1-2
 ---
-איור 1.2: טווח התחזיות של האו"ם לגבי גודל האוכלוסייה העולמית עד שנת 2100.
-
-מקור – <https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900>; Reprinted with permission.
+איור 1.2: טווח התחזיות של האו"ם לגבי גודל האוכלוסייה העולמית עד שנת 2100. מקור – [UN](https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900); Reprinted with permission.
 ```
 
 ```{figure} media/1_3.jpg
@@ -472,16 +443,8 @@ content - ראו פרקים 6 ו-10). [^75]
 height: 400px
 name: fig 1-4
 ---
-איור 1.4: ההשפעה של ההתחממות הגלובלית על מערכות אקולוגיות, חקלאות, משאבי מים ובני אדם. (א) השפעה על מערכות אקולוגיות; (ב) השפעה על בני אדם ומערכות אנושיות.
-
-מקור: IPCC (2022), https://www.cambridge.org/core/books/climate-change-2022-impacts-adaptation-and-vulnerability/summary-for-policymakers/016527EADEE2178406C4A7CE7DEAEACA Reprinted with permission א.
+איור 1.4: ההשפעה של ההתחממות הגלובלית על מערכות אקולוגיות, חקלאות, משאבי מים ובני אדם. (א) השפעה על מערכות אקולוגיות; (ב) השפעה על בני אדם ומערכות אנושיות. מקור: IPCC (2022), [Cambridge](https://www.cambridge.org/core/books/climate-change-2022-impacts-adaptation-and-vulnerability/summary-for-policymakers/016527EADEE2178406C4A7CE7DEAEACA) Reprinted with permission א. IPCC (2022), [Cambridge](https://www.cambridge.org/core/books/climate-change-2022-impacts-adaptation-and-vulnerability/summary-for-policymakers/016527EADEE2178406C4A7CE7DEAEACA) Reprinted with permission
 ```
-
-א.
-
-
-> ב.
-
 
 ## מבנה הספר
 
@@ -931,7 +894,7 @@ name: fig 1-4
     ההתחלתי שביחס אליו מחושב הגידול ובמספרים מוחלטים באותו פרק זמן יש
     תוספת גדולה יותר. ניתן לחשב בקלות את הזמן הדרוש להכפלת הערך ההתחלתי:
 
-    t~(x2)~ = 70/R, where t~(x2)~ = time needed for the initial value to
+    $t_{x2}$ = 70/R, where $t_{x2}$ = time needed for the initial value to
     double itself, and R = growth rate in %. [Exponential growth
     Definition and Examples - Biology Online
     Dictionary](https://www.biologyonline.com/dictionary/exponential-growth)
