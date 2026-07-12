@@ -1,3 +1,14 @@
+// Scroll primary sidebar to top after PST auto-scrolls to active chapter link.
+// PST's scroll runs synchronously when its script is parsed (readyState is already
+// "interactive" by then). We reset on window.load + small delay to run after PST.
+window.addEventListener('load', function() {
+  setTimeout(function() {
+    // PST targets "div.bd-sidebar"; .bd-sidebar-primary is the same element in this theme
+    var sidebar = document.querySelector('div.bd-sidebar') || document.querySelector('.bd-sidebar-primary');
+    if (sidebar) sidebar.scrollTop = 0;
+  }, 200);
+});
+
 // Keep desktop interactive: don't open the <dialog>; collapse the static sidebar instead.
 document.addEventListener("DOMContentLoaded", () => {
   // Dispose Bootstrap tooltips on sidebar toggles — they fire too aggressively

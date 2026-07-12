@@ -2,6 +2,19 @@
 // Applies the book's geometric background to all pages with a readable content
 // overlay. User preference is persisted in localStorage.
 
+// Force light theme for first-time visitors.
+// PST reads localStorage 'mode' on init; if unset it falls back to OS preference.
+// Setting it here (synchronously, before any defer/DOMContentLoaded) ensures new
+// visitors see light mode. Returning visitors who explicitly chose dark are unaffected.
+if (!localStorage.getItem('mode')) {
+  localStorage.setItem('mode', 'light');
+  // Also override data-mode directly: the <head> inline script already ran and
+  // set data-mode="" (because localStorage was empty then). PST reads data-mode
+  // on init — setting it here before PST's script runs ensures light mode applies.
+  document.documentElement.dataset.mode = 'light';
+  document.documentElement.dataset.theme = 'light';
+}
+
 (function () {
   const STORAGE_KEY = "bookBgEnabled";
   const BG_CLASS = "with-book-bg";
