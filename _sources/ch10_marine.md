@@ -112,7 +112,9 @@ William Sound בו התרחשה הדליפה של Exxon Valdez, וכן בימי�
 height: 400px
 name: fig 10-1
 ---
-איור 10.1: מספר אירועי דליפת נפט גולמי ממכליות לאוקיינוסים בכל שנה (עמודות) ובממוצע בכל עשור (קו אדום) בין 1970 ו-2023. מקור – [itopf.org](https://www.itopf.org/knowledge-resources/data-statistics/statistics/); Copyright © ITOPF Limited, 2023. All rights reserved. Reprinted with permission. [https://www.itopf.org/knowledge-resources/data-statistics/statistics/](https://www.itopf.org/knowledge-resources/data-statistics/statistics/); Copyright © ITOPF Limited, 2023. All rights reserved. Reprinted with permission.
+איור 10.1: מספר אירועי דליפת נפט גולמי ממכליות לאוקיינוסים בכל שנה (עמודות) ובממוצע בכל עשור (קו אדום) בין 1970 ו-2023.
+
+מקור – https://www.itopf.org/knowledge-resources/data-statistics/statistics/; Copyright © ITOPF Limited, 2023. All rights reserved. Reprinted with permission.
 ```
 
 ## זיהום פלסטיק באוקיינוסים
@@ -181,7 +183,9 @@ dimethyl sulfide).[^45] מיקרו וננו-חלקיקים של פלסטיק נ�
 height: 400px
 name: fig 10-2
 ---
-איור 10.2: מהלך סוגי פלסטיק שונים (גדול, מיקרו- וננו-פלסטיק) והשפעתם על המערכת הימית. מקור – United Nations Environment Programme (2021) https://doi.org/10.1038/s41586-024-07758-6;  © 2024 UNEP. Reprinted with permission.
+איור 10.2: מהלך סוגי פלסטיק שונים (גדול, מיקרו- וננו-פלסטיק) והשפעתם על המערכת הימית.
+
+מקור – United Nations Environment Programme (2021) https://doi.org/10.1038/s41586-024-07758-6;  © 2024 UNEP. Reprinted with permission.
 ```
 
 ```{figure} media/10_3.jpg
@@ -189,7 +193,9 @@ name: fig 10-2
 height: 400px
 name: fig 10-3
 ---
-איור 10.3: זרמי השטח ומצבורי הפלסטיק הגדולים באוקיינוס השקט. מקור – NOAA, <https://marinedebris.noaa.gov/info/patch.html> ; Reprinted with permission.
+איור 10.3: זרמי השטח ומצבורי הפלסטיק הגדולים באוקיינוס השקט.
+
+מקור – NOAA, <https://marinedebris.noaa.gov/info/patch.html> ; Reprinted with permission.
 ```
 
 ## חומרים אי-אורגניים ומתכות בסביבה הימית
@@ -412,7 +418,9 @@ reefs) בסביבות ימיות שונות: מים קרים או חמים, עמ
 height: 400px
 name: fig 10-4
 ---
-איור 10.4: מידת הסכנה למספר קבוצות טקסונומיות, כולל אלמוגים. מקור – [IUCN](https://www.iucn.org/resources/conservation-tool/iucn-red-list-threatened-species) ; ©IUCN. Reprinted with permission.
+איור 10.4: מידת הסכנה למספר קבוצות טקסונומיות, כולל אלמוגים.
+
+מקור – <https://www.iucn.org/resources/conservation-tool/iucn-red-list-threatened-species> ; ©IUCN. Reprinted with permission.
 ```
 
 ## תהליכי אאוטרופיקציה בסביבה החופית ואזורים עניים בחמצן בים העמוק
@@ -484,7 +492,7 @@ zone)[^137] לבין מי העומק ישנו אזור מעבר שבו קורי�
 
 תופעות של אנוקסיה באוקיינוסים בעבר הגיאולוגי נקשרו למגוון סיבות ותהליכים
 בנוסף לאלו שתוארו לעיל. למשל נמצא קשר הופכי בין ריכוזי חמצן מומס וזרחן
-(בתוך פוספט - $\ce{PO4^{3-}}$), משום שריכוזי פוספט גבוהים מובילים להגדלת
+(בתוך פוספט - $PO_4^{3-}$), משום שריכוזי פוספט גבוהים מובילים להגדלת
 היצרנות הראשונית המובילה לתהליכי אאוטרופיקציה וצריכת חמצן מומס במי
 האוקיינוסים.[^140] מאמר נוסף שטיפל בשתי תקופות חמות ששררו בכדור הארץ
 במיליוני השנים האחרונות (1) תחילת האיאוקן - Early Eocene Climatic
@@ -612,7 +620,9 @@ protected areas - MPAs).[^165] חלקם אזורים אסורים בדייג (no
 height: 400px
 name: fig 10-5
 ---
-איור 10.5: עקרונות הכלכלה המעגלית בחקלאות ימית. מקור – Greene et al. (2022) <https://doi.org/10.5670/oceanog.2022.213> ; Creative Commons Attribution 4.0 International License. Reprinted with permission.
+איור 10.5: עקרונות הכלכלה המעגלית בחקלאות ימית.
+
+מקור – Greene et al. (2022) <https://doi.org/10.5670/oceanog.2022.213> ; Creative Commons Attribution 4.0 International License. Reprinted with permission.
 ```
 
 ## מינים פולשים
@@ -645,8 +655,8 @@ name: fig 10-5
 גיגה-טון[^185] פד\"ח -- ראו פרק 5) נקלטות על ידי האוקיינוסים.[^186]
 העלייה בריכוז פד\"ח מומס במי האוקיינוס מגבירה את החומציות של מי הים
 ומורידה את ערכי ה-pH.[^187] זאת כיוון שחלק מהפד\"ח המומס מגיב עם
-מולקולות מים ויוצר חומצה קרבונית ($\ce{H2CO3}$), העוברת פרוק (דיסוציאציה)
-ומשחררת פרוטון ($\ce{H+}$ - הגורם לחומציות). בעקבות זאת, בעשורים האחרונים
+מולקולות מים ויוצר חומצה קרבונית ($H_2CO_3$), העוברת פרוק (דיסוציאציה)
+ומשחררת פרוטון (H^+^ - הגורם לחומציות). בעקבות זאת, בעשורים האחרונים
 ה-pH של מי ים ירד מערך של כ-8.2 לערך של כ-8.1, כלומר ריכוז הפרוטון
 המשתחרר מפרוק החומצה הקרבונית עלה בערך ב-25%.[^188] לשינוי זה, ובעיקר
 להמשך המגמה של עליית החומציות, יש השלכות מרחיקות לכת אותן נפרט בהמשך.
@@ -658,7 +668,7 @@ name: fig 10-5
 
 אחת ההשלכות המיידיות של הגדלת החומציות של מי ים היא הפיכתם לפחות
 על-רווים (supersaturated)[^190] להשקעת מינרלים קרבונטיים:[^191] קלציט
-וארגוניט -- calcite & aragonite: $\ce{CaCO3}$. אלו שני המינרלים העיקריים שרוב
+וארגוניט -- calcite & aragonite: $CaCO_3$. אלו שני המינרלים העיקריים שרוב
 חסרי החוליות (למשל רוב האלמוגים) וחלק ניכר מהמיקרו-אורגניזמים הימיים
 (בעיקר פלנקטון) משקיעים כדי לבנות את השלד שלהם. מידת העל רוויה חשובה
 בעיקר במי השטח האוקיאניים, הן בגלל שהם על-רווים להשקעת מינרלים
@@ -702,7 +712,7 @@ Barrier Reef) ב-2008-09, בהשוואה לקצב שנמדד בשנת 1975, עק
 שארגוניט נעשה תת-רווי כבר בעומקים רדודים יותר, בקצב \"הרדדה\" של כ-15-10
 מטר בשנה.[^200] עוד עולה מהמחקר שעם הזמן, מי עומק עם חומציות גבוהה ינדדו
 גם לאזורים אחרים באוקיינוס האטלנטי ובהמשך אף יגיעו לאוקיינוסים אחרים,
-שבקרקעיתם יש מאגר ענק של $\ce{CaCO3}$ הנמצא בסדימנט והיכול לסתור את חומציות
+שבקרקעיתם יש מאגר ענק של CaCO~3\ ~הנמצא בסדימנט והיכול לסתור את חומציות
 המים. אולם לרוע המזל, הסתירה צפויה להיות איטית ביותר. מי השטח של
 האוקיינוסים הקרים (הארקטי והדרומי) מועדים במיוחד להגיע למצב של תת-רוויה
 עבור קלציט וארגוניט, שכן ערכי הרוויה יורדים במים קרים. מנגד, באוקיינוס
@@ -775,14 +785,15 @@ Meridional Overturning Circulation.[^206] בניגוד בולט, בצפון הא
 height: 400px
 name: fig 10-6
 ---
-איור 10.6: תיאור סכמתי של הסירקולציה הגלובלית באוקיינוס – המסוע האוקיאני. במהלך השנים התקיימו ויכוחים רבים לגבי עצם קיומו של המסוע, אולם כיום, המסוע המוצג כאן מקובל על מרבית החוקרים של זרמי האוקיינוסים. שימו לב למפתח הצבעים בתחתית האיור. מקור – Talley, L.D. (2013) http://dx.doi.org/10.5670/oceanog.2013.07. Creative Commons Attribution 4.0 International License. Reprinted with permission.
+איור 10.6: תיאור סכמתי של הסירקולציה הגלובלית באוקיינוס – המסוע האוקיאני. במהלך השנים התקיימו ויכוחים רבים לגבי עצם קיומו של המסוע, אולם כיום, המסוע המוצג כאן מקובל על מרבית החוקרים של זרמי האוקיינוסים. שימו לב למפתח הצבעים בתחתית האיור.
+
+מקור – Talley, L.D. (2013) http://dx.doi.org/10.5670/oceanog.2013.07. Creative Commons Attribution 4.0 International License. Reprinted with permission.
 ```
 
 Talley, L.D. (2013) <http://dx.doi.org/10.5670/oceanog.2013.07>.
 Creative Commons Attribution 4.0 International License. Reprinted with
 permission.
 
-![](media/image6.jpeg)
 
 Purple = upper ocean and thermocline. Red = denser thermocline and
 intermediate water. Orange = Indian deep Water and Pacific deep Water.
@@ -794,7 +805,7 @@ Bering Strait components and Mediterranean and Red Sea inflows.
 height: 400px
 name: fig 10-7
 ---
-איור 10.7: מפת האוקיינוסים עם ריכוזי זרחן, כפוספט (עליון) וחמצן (תחתון) בעומק של 4,000 מטר (שימו לב ליחידות). נתונים – [NOAA](https://www.ncei.noaa.gov/products/world-ocean-atlas)
+איור 10.7: מפת האוקיינוסים עם ריכוזי זרחן, כפוספט (עליון) וחמצן (תחתון) בעומק של 4,000 מטר (שימו לב ליחידות). נתונים – https://www.ncei.noaa.gov/products/world-ocean-atlas
 ```
 
 ### יחסי הגומלין בין זרמי הים ושינויי אקלים
@@ -904,7 +915,9 @@ Warm Period, and the Little Ice Age).[^237] למעשה, העובדה שיש מת
 height: 400px
 name: fig 10-8
 ---
-איור 10.8: שינויים באוקיינוסים ובכיפות הקרח בעקבות התחממות גלובלית בעבר ובעתיד, בין שנת 1950 ועד 2100 בהשוואה לערך הממוצע של 2005-1986. RCP2.6 –increase in temperature by 1.6°C by the end-of-century RCP8.5 - increase in temperature by 4.3°C by the end-of-century איור A: שינויים בטמפרטורה הממוצעת של האוויר בכדור הארץ. איור B: שינויים בטמפרטורה הממוצעת של מי השטח באוקיינוסים. איור C: מספר הימים של גלי חום ימיים.  איור D: תכולת החום שספגו האוקיינוסים ושינויים במפלס הים האוקיינוסים (האוקיינוסים ספגו מאז 1970 כ- 90% מעודף החום של כדור הארץ. בגלל קיבול החום הגדול של מים, יעבור זמן רב אחרי שנפסיק לפלוט גזי חממה בטרם האוקיינוסים יתקררו שוב). איור E: אובדן קרח מגרינלנד. איור F: אובדן קרח מאנטארקטיקה. איור G: אובדן קרח מקרחונים הרריים. איור H: ערך החומציות (pH) של מי השטח של האוקיינוסים. איור I: ריכוז חמצן מומס בעומק 100-600 מטר. איור J: כיסוי קרח ימי בים הארקטי בספטמבר. איור K: כיסוי שלג באזור האקלים הארקטי ביוני. איור L: שטח הקרקע הקפואה (permafrost). איור M: מפלס מי הים. חשוב לזכור שחלק מהשינויים התחילו לפני 1950. מקור – IPCC (2019), [IPCC](https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/) ; Reprinted with permission.
+איור 10.8: שינויים באוקיינוסים ובכיפות הקרח בעקבות התחממות גלובלית בעבר ובעתיד, בין שנת 1950 ועד 2100 בהשוואה לערך הממוצע של 2005-1986. RCP2.6 –increase in temperature by 1.6°C by the end-of-century RCP8.5 - increase in temperature by 4.3°C by the end-of-century איור A: שינויים בטמפרטורה הממוצעת של האוויר בכדור הארץ. איור B: שינויים בטמפרטורה הממוצעת של מי השטח באוקיינוסים. איור C: מספר הימים של גלי חום ימיים.  איור D: תכולת החום שספגו האוקיינוסים ושינויים במפלס הים האוקיינוסים (האוקיינוסים ספגו מאז 1970 כ- 90% מעודף החום של כדור הארץ. בגלל קיבול החום הגדול של מים, יעבור זמן רב אחרי שנפסיק לפלוט גזי חממה בטרם האוקיינוסים יתקררו שוב). איור E: אובדן קרח מגרינלנד. איור F: אובדן קרח מאנטארקטיקה. איור G: אובדן קרח מקרחונים הרריים. איור H: ערך החומציות (pH) של מי השטח של האוקיינוסים. איור I: ריכוז חמצן מומס בעומק 100-600 מטר. איור J: כיסוי קרח ימי בים הארקטי בספטמבר. איור K: כיסוי שלג באזור האקלים הארקטי ביוני. איור L: שטח הקרקע הקפואה (permafrost). איור M: מפלס מי הים. חשוב לזכור שחלק מהשינויים התחילו לפני 1950.
+
+מקור – IPCC (2019), https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/ ; Reprinted with permission.
 ```
 
 RCP2.6 --increase in temperature by 1.6°C by the end-of-century
@@ -927,14 +940,15 @@ IPCC (2019),
 <https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/> ;
 Reprinted with permission.
 
-![](media/image8.jpeg)
 
 ```{figure} media/10_9.jpg
 ---
 height: 400px
 name: fig 10-9
 ---
-איור 10.9: השפעת התחממות גלובלית על אזורים שונים באוקיינוסים. מקור – IPCC (2019) [IPCC](https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/); Reprinted with permission. IPCC (2019) [IPCC](https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/); Reprinted with permission.
+איור 10.9: השפעת התחממות גלובלית על אזורים שונים באוקיינוסים.
+
+מקור – IPCC (2019) https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/; Reprinted with permission.
 ```
 
 ## עליית מפלס הים
@@ -1039,7 +1053,9 @@ name: fig 10-9
 height: 400px
 name: fig 10-10
 ---
-איור 10.10: עליית מפלס הים, שיטות מדידה והגורמים המרכזיים בכל תקופה מאז 1900. מקור – NASA, [climate.nasa.gov](https://climate.nasa.gov/vital-signs/sea-level/)  ; Reprinted with permission. NASA, [climate.nasa.gov](https://climate.nasa.gov/vital-signs/sea-level/) ; Reprinted with permission.
+איור 10.10: עליית מפלס הים, שיטות מדידה והגורמים המרכזיים בכל תקופה מאז 1900.
+
+מקור – NASA, https://climate.nasa.gov/vital-signs/sea-level/  ; Reprinted with permission. NASA, <https://climate.nasa.gov/vital-signs/sea-level/> ; Reprinted with permission.
 ```
 
 ## האוקיינוסים כמלכודת לפד\"ח
@@ -1257,18 +1273,18 @@ name: fig 10-11
     <https://eos.org/science-updates/carbon-in-carbon-out-balancing-the-oceans-books?utm_source=EosBuzz&mkt_tok=OTg3LUlHVC01NzIAAAGLkJtcim0nDNE1bALnEkieFvtWVv2s9dYYeAT4SDJFtmaj1bjlr0wM-9EN>
 
 [^7]: Alkalinity - the capacity of aqueous solution to neutralize acid.
-    It is a measure of the excess of strong bases (mostly $\ce{Ca^{2+}}$,
+    It is a measure of the excess of strong bases (mostly Ca^2+^,
     Mg^2+^, Na^+^, and K^+^) relative to strong acids (mostly Cl^-^,
     SO4^2-^, NO3^-^) dissolved in water (e.g., seawater).
 
 [^8]: Alkalinization: "By increasing the alkalinity of the upper ocean,
     the carbon storage capacity of seawater can be enhanced and thus,
-    more $\ce{CO2}$ can be taken up by the ocean." -
+    more $CO_2$ can be taken up by the ocean." -
     <https://www.oceannets.eu/ocean-alkalinization/> ; Ocean alkalinity
     enhancement is based on the idea that by increasing seawater pH by a
-    few 0.1 units, substantial amounts of dissolved $\ce{CO2}$ in seawater
-    are converted to dissolved $\ce{HCO3-}$ and $\ce{CO3^{2-}}$, which in turn
-    will promote a transfer of large amounts of atmospheric $\ce{CO2}$ into
+    few 0.1 units, substantial amounts of dissolved $CO_2$ in seawater
+    are converted to dissolved $HCO_3^-$ and $CO_3^{2-}$, which in turn
+    will promote a transfer of large amounts of atmospheric $CO_2$ into
     ocean water in order to compensate for this conversion. pH increase
     can be facilitated by dissolving Ca-rich or Mg-rich minerals.
 
@@ -1451,7 +1467,7 @@ name: fig 10-11
     ומחזורים ביוגאוכימיים (5). בהקשר הימי מקובל להשתמש ביחס רדפילד --
 
     Extended Redfield ratio -
-    (C~124~N~16~P~1~S~1.3~K~1.7~Mg~0.56~Ca~0.5~)~1000~Sr~5.0~Fe~7.5~Zn~0.80~Cu~0.38~Co~0.19~Cd~0.21~Mo
+    $(C_{124}N_{16}P_1S_{1.3}K_{1.7}Mg_{0.56}Ca_{0.5})_{1000}Sr_{5.0}Fe_{7.5}Zn_{0.80}Cu_{0.38}Co_{0.19}Cd_{0.21}$Mo
     ~0.03~). "This elemental stoichiometry varies between species and,
     potentially, in response to changes in the chemistry of seawater, it
     provides a basis for examining how phytoplankton influence the
@@ -2187,8 +2203,8 @@ name: fig 10-11
 
 [^186]: <https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification#:~:text=The%20ocean's%20average%20pH%20is,the%20ocean%20becomes%20more%20acidic>.
 
-[^187]: pH = -log{$\ce{H+}$}, where log{$\ce{H+}$} is the activity
-    (\~concentration) of $\ce{H+}$. Hence, pH has a logarithmic scale.
+[^187]: pH = -log{H^+^}, where log{H^+^} is the activity
+    (\~concentration) of H^+^. Hence, pH has a logarithmic scale.
 
 [^188]: <https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification#:~:text=The%20ocean's%20average%20pH%20is,the%20ocean%20becomes%20more%20acidic>.
 
@@ -2197,16 +2213,16 @@ name: fig 10-11
     <https://tos.org/oceanography/issue/volume-22-issue-04>
 
 [^190]: Supersaturated solution with respect to calcite/aragonite exists
-    when the product of the concentrations of $\ce{CO3^{2-}}$ and $\ce{Ca^{2+}}$
+    when the product of the concentrations of $CO_3^{2-}$ and Ca^2+^
     exceeds the value of the solubility constant of calcite/aragonite at
     equilibrium. In other words, supersaturated solution enables the
     formation (precipitation) of aragonite or calcite. -
     <https://chem.libretexts.org/Courses/University_of_California_Davis/UCD_Chem_002B/UCD_Chem_2B/Text/Unit_III%3A_Chemical_Equilibria/17%3A_Solubility_and_Complex-Ion_Equilibria/17.1%3A_Solubility_Product_Constant_Ksp>
 
 [^191]: Biologically driven conversion of dissolved Ca and bicarbonate
-    to solid carbonate mineral, release of $\ce{CO2}$ that is dissolved in
+    to solid carbonate mineral, release of $CO_2$ that is dissolved in
     the water and/or escapes to the atmosphere. The reaction is:
-    $\ce{Ca^{2+}}$ + 2$\ce{HCO3-}$ \<-\> $\ce{CaCO3}$ + $\ce{CO2}$ + $\ce{H2O}$
+    Ca^2+^ + 2$HCO_3^-$ \<-\> $CaCO_3$ + $CO_2$ + $H_2O$
 
 [^192]: Henson, H. C. (2026) Melting glaciers make the coastal ocean
     more sensitive, *EOS* **107**.
@@ -2663,9 +2679,9 @@ name: fig 10-11
 
 [^273]: \(1\) Ocean alkalinity enhancement is based on the idea that by
     increasing seawater pH by a few 0.1 units, substantial amounts of
-    dissolved $\ce{CO2}$ in seawater will be converted to dissolved $\ce{HCO3-}$
-    and $\ce{CO3^{2-}}$, which in turn will promote a transfer of large
-    amounts of atmospheric $\ce{CO2}$ into ocean water in order to compensate
+    dissolved $CO_2$ in seawater will be converted to dissolved $HCO_3^-$
+    and $CO_3^{2-}$, which in turn will promote a transfer of large
+    amounts of atmospheric $CO_2$ into ocean water in order to compensate
     for this conversion. pH increase can be facilitated by dissolving
     Ca-rich or Mg-rich minerals; (2) Reusch, D., K. Brisard, G.
     Hamilton, and C. Theriault (2023) A transformative carbon sink in

@@ -62,7 +62,9 @@
 height: 400px
 name: fig 8-1
 ---
-איור 8.1: חלוקת סוגים ושימושים של שטח היבשות. מקור - Making Peace with Nature (2021) [UNEP](https://www.unep.org/resources/making-peace-nature); ©, Reprinted with permission.
+איור 8.1: חלוקת סוגים ושימושים של שטח היבשות.
+
+מקור - Making Peace with Nature (2021) https://www.unep.org/resources/making-peace-nature; ©, Reprinted with permission.
 ```
 
 ```{figure} media/8_2.jpg
@@ -70,7 +72,9 @@ name: fig 8-1
 height: 400px
 name: fig 8-2
 ---
-איור 8.2: השפעה של בני האדם על השטחים הפתוחים בכל היבשות: (a) מִדְרך אקולוגי, (b) סחיפת קרקעות, (c) החלק היחסי של חקלאות ביצרנות הראשונית, (d) נפיצות מינים מקוריים של צמחים. מקור – Making Peace with Nature (2021) [UNEP](https://www.unep.org/resources/making-peace-nature); ©; Reprinted with permission.
+איור 8.2: השפעה של בני האדם על השטחים הפתוחים בכל היבשות: (a) מִדְרך אקולוגי, (b) סחיפת קרקעות, (c) החלק היחסי של חקלאות ביצרנות הראשונית, (d) נפיצות מינים מקוריים של צמחים.
+
+מקור – Making Peace with Nature (2021) <https://www.unep.org/resources/making-peace-nature>; ©; Reprinted with permission.
 ```
 
 ## פגיעה בשטחים פתוחים ובמגוון הביולוגי
@@ -82,7 +86,7 @@ species richness)[^13] בגלל שבירת הרצף (קיטוע) של בתי ג�
 המגוון הביולוגי. מצד שני, ב-2013 וב-2016 התפרסמו מחקרים שתעדו באמצעות
 ניתוח של תצלומי לווין מגמה של גידול בכיסוי הצמחייה (לא רק חקלאית) על פני
 היבשות בעשורים האחרונים greening effect)) למרות המשך הפגיעה בשטחים
-פתוחים,[^14] כאשר 70% מהעלייה יוחסה לדישון של פד\"ח ($\ce{CO2}$
+פתוחים,[^14] כאשר 70% מהעלייה יוחסה לדישון של פד\"ח ($CO_2$
 fertilization)[^15] והיתרה התחלקה בין מספר גורמים כמו התחממות גלובלית,
 זמינות של חנקן, ושינוי בשימושי קרקע.[^16] המגמה של גידול בכיסוי צמחיה
 נמצאה במחקר נוסף שפורסם ב-2017 והסתמך על מדידות של קרבוניל גופרתי
@@ -137,7 +141,9 @@ transpiration)[^27] בעקבות ההתחממות הגלובלית. הערכה �
 height: 400px
 name: fig 8-3
 ---
-איור 8.3: הקשרים הרב-כיווניים בין שינויי אקלים, פגיעה בשטחים פתוחים וירידה במגוון המינים והשפעתם על איכות החיים של בני אדם. מקור - Making Peace with Nature(2021)  [UNEP](https://www.unep.org/resources/making-peace-nature); ©; Reprinted with permission.
+איור 8.3: הקשרים הרב-כיווניים בין שינויי אקלים, פגיעה בשטחים פתוחים וירידה במגוון המינים והשפעתם על איכות החיים של בני אדם.
+
+מקור - Making Peace with Nature(2021)  https://www.unep.org/resources/making-peace-nature; ©; Reprinted with permission.
 ```
 
 ## יערות
@@ -221,7 +227,9 @@ name: fig 8-3
 height: 400px
 name: fig 8-4
 ---
-איור 8.4: שינויים בשטח היערות וסוגי שטחים אחרים בעשרת אלפי השנה האחרונות. מקור – OUR WORLD IN DATA, <https://ourworldindata.org/forest-area> ; Reprinted with permission.
+איור 8.4: שינויים בשטח היערות וסוגי שטחים אחרים בעשרת אלפי השנה האחרונות.
+
+מקור – OUR WORLD IN DATA, <https://ourworldindata.org/forest-area> ; Reprinted with permission.
 ```
 
 Hectare = 0.01 km^2^
@@ -231,7 +239,9 @@ Hectare = 0.01 km^2^
 height: 400px
 name: fig 8-5
 ---
-איור 8.5: קצב בירוא היערות בעבר ובהווה, והקצב הדרוש עד שנת 2030 על מנת לעמוד ביעד של התחממות גלובלית מירבית של 1.5 מעלות צלזיוס. למרבה הצער, עדכון של הדו"ח בשנת 2024 מציג תמונה עגומה. מקור – Forest Declaration Assessment Partners (2023) [www.forestdeclaration.org](http://www.forestdeclaration.org); Reprinted with permission.
+איור 8.5: קצב בירוא היערות בעבר ובהווה, והקצב הדרוש עד שנת 2030 על מנת לעמוד ביעד של התחממות גלובלית מירבית של 1.5 מעלות צלזיוס. למרבה הצער, עדכון של הדו"ח בשנת 2024 מציג תמונה עגומה.
+
+מקור – Forest Declaration Assessment Partners (2023) [www.forestdeclaration.org](http://www.forestdeclaration.org); Reprinted with permission.
 ```
 
 ### שריפות יער
@@ -294,7 +304,9 @@ flow);[^67] וכן לזיהום מקורות מים במשך מספר שנים �
 height: 400px
 name: fig 8-6
 ---
-איור 8.6: תמונת לווין של שריפות (אזורים אדומים) ברחבי העולם ב-19 בספטמבר 2019. מקור – NASA, Worldview <[worldview.earthdata.nasa.gov](https://worldview.earthdata.nasa.gov/?v=-343.1907259552927,-151.60588405379724,268.17007744076045,138.4720804742259&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Night,VIIRS_SNPP_CorrectedReflectance_TrueColor,MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=false&t=2019-09-07-T15%3A25%3A24Z>) ; Reprinted with permission.
+איור 8.6: תמונת לווין של שריפות (אזורים אדומים) ברחבי העולם ב-19 בספטמבר 2019.
+
+מקור – NASA, Worldview <https://worldview.earthdata.nasa.gov/?v=-343.1907259552927,-151.60588405379724,268.17007744076045,138.4720804742259&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Night,VIIRS_SNPP_CorrectedReflectance_TrueColor,MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=false&t=2019-09-07-T15%3A25%3A24Z> ; Reprinted with permission.
 ```
 
 ### פגיעה ביערות ושינויי אקלים
@@ -599,10 +611,10 @@ name: fig 8-7
 ופגיעה במגוון הביולוגי.[^183] לתהליכים אלה, הקרויים בשם כולל הרס הקרקע
 (soil degradation), יש גם השלכות על גופי מים סמוכים, כמו למשל זיהום
 ואאוטרופיקציה (eutrophication -- ראו פרק 2 ופרק 9) וכן פליטה של גזים
-שונים לאטמוספרה ($\ce{CO2}$, $\ce{CH4}$, $\ce{N2O}$, NOx - ראו פרק 11).
+שונים לאטמוספרה ($CO_2$, $CH_4$, $N_2O$, NOx - ראו פרק 11).
 
 אחת השאלות החשובות בחקר הקרקע היא מה תהיה תגובת הקרקעות בעולם להתחממות
-גלובלית והאם כתוצאה מהתחממות והגברת היצרנות הראשונית (בעיקר עקב $\ce{CO2}$
+גלובלית והאם כתוצאה מהתחממות והגברת היצרנות הראשונית (בעיקר עקב $CO_2$
 fertilization), תכולת החומר האורגני בקרקע תעלה או שמא היא דווקא תרד בגלל
 העלייה בקצב הפירוק של חומר אורגני עם העלייה בטמפרטורה.[^184] מחקרים
 שונים מצביעים על כך שחלק מאי הוודאות לגבי קצב קליטת פד\"ח על ידי קרקעות
@@ -1520,7 +1532,7 @@ Management של אלן סבורי ( Savory- ראו פרק 2),[^250] וכן הפ�
     <https://www.pnas.org/doi/10.1073/pnas.1922030117>
 
 [^123]: \(1\) Reich, P. B. et al. (2018) Unexpected reversal of C3
-    versus C4 grass response to elevated $\ce{CO2}$ during a 20-year field
+    versus C4 grass response to elevated $CO_2$ during a 20-year field
     experiment. *Science* **360**, 317-320.
     [*https://doi.org/doi:10.1126/science.aas9313*](https://doi.org/doi:10.1126/science.aas9313)
     ; (2) Hovenden, M. J., Newton, P. C. & Wills, K. E (2014) Seasonal
@@ -1923,7 +1935,7 @@ Management של אלן סבורי ( Savory- ראו פרק 2),[^250] וכן הפ�
     *Science* **358**, 101-105.
     [*https://doi.org/doi:10.1126/science.aan2874*](https://doi.org/doi:10.1126/science.aan2874)
     ; (4) Terrer, C. et al*.* (2021) A trade-off between plant and soil
-    carbon storage under elevated $\ce{CO2}$. *Nature* **591**, 599--603.
+    carbon storage under elevated $CO_2$. *Nature* **591**, 599--603.
     <https://doi.org/10.1038/s41586-021-03306-8> ; (5) Fang, C. et
     al. (2005) Similar response of labile and resistant soil organic
     matter pools to changes in temperature. *Nature* **433**, 57--59.
@@ -1989,7 +2001,7 @@ Management של אלן סבורי ( Savory- ראו פרק 2),[^250] וכן הפ�
 
 [^195]: אלקליניות -- alkalinity: The excess of strong base cations
     (chiefly, Ca2+, Mg2+, Na+, K+) relative to strong acid anions
-    (mostly, Cl^-^, $\ce{SO4^{2-}}$, $\ce{NO3-}$) dissolved in water, considering
+    (mostly, Cl^-^, $SO_4^{2-}$, $NO_3^-$) dissolved in water, considering
     both concentrations and charges. It translates to the ability of the
     water to neutralize acids and bases and maintain a relatively stable
     pH level -- Stumm W. and Morgan J. J. (1996) Aquatic Chemistry,

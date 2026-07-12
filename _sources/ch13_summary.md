@@ -255,7 +255,7 @@ Partnership for Sustainable Development.
 לכלכלה בשנת 2008) בזכות \"הצמיחה הירוקה\".[^42] קרוגמן טוען שאין קשר בין
 צמיחה כלכלית וזיהום הסביבה, ולראיה, איכות הסביבה טובה יותר במדינות
 עשירות. הוא מביא כדוגמא את השיפור שחל באיכות האוויר של לונדון והירידה
-בפליטות פד\"ח (פחמן דו חמצני -- $\ce{CO2}$) לאדם, תוך כדי מעבר לאנרגיות
+בפליטות פד\"ח (פחמן דו חמצני -- $CO_2$) לאדם, תוך כדי מעבר לאנרגיות
 מתחדשות. ברור שזהו טיעון שלוקח בחשבון רק חלק מהתמונה, משום שבחמישים
 השנים האחרונות כלכלות העולם המערבי ייצאו את אמצעי הייצור המזהמים[^43]
 וכן את הפסולת שלהן, על כל סוגיה לארצות עניות יותר (ראו גם פרק 4).[^44]
@@ -530,7 +530,9 @@ marketing. דוגמא אחת לכך היא חברת פטגוניה שמשתמש�
 height: 400px
 name: fig 13-1
 ---
-איור 13.1: המדְרך האקולוגי הפחמני (שווה ערך לפליטת פד"ח שנתית לנפש) ב-10 ארצות שונות המייצגות את מרבית ארצות העולם. מקור – Akenji, L. et al. (2021). Reprinted with permission.
+איור 13.1: המדְרך האקולוגי הפחמני (שווה ערך לפליטת פד"ח שנתית לנפש) ב-10 ארצות שונות המייצגות את מרבית ארצות העולם.
+
+מקור – Akenji, L. et al. (2021). Reprinted with permission.
 ```
 
 ```{figure} media/13_2.jpg
@@ -538,7 +540,9 @@ name: fig 13-1
 height: 400px
 name: fig 13-2
 ---
-איור 13.2: הפעולות העיקריות בהן יש לנקוט כדי להפחית את הנזק שגורמת האנושות לטבע כפי שטוענים משתתפי הכנס בניירובי. מקור – United Nations Environment Programme (2021) [UNEP](https://www.unep.org/resources/making-peace-nature) ; © 2024 UNEP. Reprinted with permission.
+איור 13.2: הפעולות העיקריות בהן יש לנקוט כדי להפחית את הנזק שגורמת האנושות לטבע כפי שטוענים משתתפי הכנס בניירובי.
+
+מקור – United Nations Environment Programme (2021) <https://www.unep.org/resources/making-peace-nature> ; © 2024 UNEP. Reprinted with permission.
 ```
 
 ```{figure} media/13_3.jpg
@@ -546,18 +550,19 @@ name: fig 13-2
 height: 400px
 name: fig 13-3
 ---
-איור 13.3: מידת העמידה ביעדי ה-SDG באזורים שונים של כדור הארץ, שימו לב שככל שהציון גבוה יותר, ההשפעה הסביבתית קטנה יותר. להבנה טובה יותר של האיור, ראו הערת שוליים של מושג ה-spillover. מקור – Global Sustainable Development Report (2023)
-```
+איור 13.3: מידת העמידה ביעדי ה-SDG באזורים שונים של כדור הארץ, שימו לב שככל שהציון גבוה יותר, ההשפעה הסביבתית קטנה יותר. להבנה טובה יותר של האיור, ראו הערת שוליים של מושג ה-spillover.
 
-<https://sdgs.un.org/sites/default/files/2023-09/FINAL%20GSDR%202023-Digital%20-110923_1.pdf>.
-© 2024 all rights reserved. Reprinted with permission.
+מקור – Global Sustainable Development Report (2023) <https://sdgs.un.org/sites/default/files/2023-09/FINAL%20GSDR%202023-Digital%20-110923_1.pdf>. © 2024 all rights reserved. Reprinted with permission.
+```
 
 ```{figure} media/13_4.jpg
 ---
 height: 400px
 name: fig 13-4
 ---
-איור 13.4: קצב צבירת עושר כפונקציה של המעמד הסוציו-אקונומי. מקור – Global Sustainable Development Report (2023) [UN](https://sdgs.un.org/sites/default/files/2023-09/FINAL%20GSDR%202023-Digital%20-110923_1.pdf). © 2024 all rights reserved. Reprinted with permission.
+איור 13.4: קצב צבירת עושר כפונקציה של המעמד הסוציו-אקונומי.
+
+מקור – Global Sustainable Development Report (2023) <https://sdgs.un.org/sites/default/files/2023-09/FINAL%20GSDR%202023-Digital%20-110923_1.pdf>. © 2024 all rights reserved. Reprinted with permission.
 ```
 
 ```{figure} media/13_5.png
@@ -565,7 +570,9 @@ name: fig 13-4
 height: 400px
 name: fig 13-5
 ---
-איור 13.5: הדרך להגיע לאפס פליטות פד"ח ב-2050. שימו לב שכבר ב-2023-2022 היה נראה כאילו יש עצירה בגידול בפליטות, למרות שבפועל יש האטה בפליטות אבל לא עצירה. מקור – IEA September 2023. [IEA](https://www.iea.org/reports/net-zero-roadmap-a-global-pathway-to-keep-the-15-c-goal-in-reach/executive-summary)     CC BY 4.0. Reprinted with permission.
+איור 13.5: הדרך להגיע לאפס פליטות פד"ח ב-2050. שימו לב שכבר ב-2023-2022 היה נראה כאילו יש עצירה בגידול בפליטות, למרות שבפועל יש האטה בפליטות אבל לא עצירה.
+
+מקור – IEA September 2023. https://www.iea.org/reports/net-zero-roadmap-a-global-pathway-to-keep-the-15-c-goal-in-reach/executive-summary     CC BY 4.0. Reprinted with permission.
 ```
 
 ## שינוי ההגדרה של מדדים לפיתוח וצמיחה כלכלית
@@ -698,7 +705,9 @@ sustainable development pathway). מענין לראות את התחזית לגב
 height: 400px
 name: fig 13-6
 ---
-איור 13.6: מדד לגטום לשגשוג - Legatum Prosperity Index. מקור – [docs.prosperity.com](https://docs.prosperity.com/2116/7756/6547/Measuring_Prosperity.pdf) ; ©2023 The Legatum Institute Foundation.
+איור 13.6: מדד לגטום לשגשוג - Legatum Prosperity Index.
+
+מקור – https://docs.prosperity.com/2116/7756/6547/Measuring_Prosperity.pdf ; ©2023 The Legatum Institute Foundation.
 ```
 
 ```{figure} media/13_7.jpg
@@ -706,7 +715,9 @@ name: fig 13-6
 height: 400px
 name: fig 13-7
 ---
-איור 13.7: התקדמות לקראת יעדי SDG: הערכה לגבי שנת 2030 ושנת 2050 תחת שני תרחישים (high ambition, middle-of-the-road). מקור – Global Sustainable Development Report (2023) [UN](https://sdgs.un.org/sites/default/files/2023-09/FINAL%20GSDR%202023-Digital%20-110923_1.pdf). ©  2024 all rights reserved. Reprinted with permission.
+איור 13.7: התקדמות לקראת יעדי SDG: הערכה לגבי שנת 2030 ושנת 2050 תחת שני תרחישים (high ambition, middle-of-the-road).
+
+מקור – Global Sustainable Development Report (2023) https://sdgs.un.org/sites/default/files/2023-09/FINAL%20GSDR%202023-Digital%20-110923_1.pdf. ©  2024 all rights reserved. Reprinted with permission.
 ```
 
 ## צדק חברתי והקשר לבעיות הסביבה
@@ -776,7 +787,9 @@ and change in biosphere integrity) שני העשירונים העליונים (�
 height: 400px
 name: fig 13-8
 ---
-איור 13.8: גבולות פלנטריים תוך ציון גבולות מותרים מבחינה פיזית ומבחינת צדק חברתי. מקור - Rockström, J. et al. (2023) https://doi.org/10.1038/s41586-023-06083-8; Creative Commons CC BY. Reprinted with permission from Nature.
+איור 13.8: גבולות פלנטריים תוך ציון גבולות מותרים מבחינה פיזית ומבחינת צדק חברתי.
+
+מקור - Rockström, J. et al. (2023) https://doi.org/10.1038/s41586-023-06083-8; Creative Commons CC BY. Reprinted with permission from Nature.
 ```
 
 ```{figure} media/13_9.jpg
@@ -784,7 +797,9 @@ name: fig 13-8
 height: 400px
 name: fig 13-9
 ---
-איור 13.9: מפת העולם המראה את מספר המדדים שנחצים בכל אזור. מקור – Rockström, J. et al. (2023) <https://doi.org/10.1038/s41586-023-06083-8>; Creative Commons CC BY. Reprinted with permission from Nature.
+איור 13.9: מפת העולם המראה את מספר המדדים שנחצים בכל אזור.
+
+מקור – Rockström, J. et al. (2023) <https://doi.org/10.1038/s41586-023-06083-8>; Creative Commons CC BY. Reprinted with permission from Nature.
 ```
 
 ## הפתרון המשולב: שינויי אקלים -- פגיעה בעולם החי -- זיהום

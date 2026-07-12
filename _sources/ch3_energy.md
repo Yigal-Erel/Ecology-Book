@@ -12,7 +12,7 @@
 חיים מבויתים, ובמידה פחותה מרוח וזרימת מים. מאז סוף המאה התשע עשרה ועד
 ימינו הכלכלה העולמית מתבססת בעיקר על אנרגיה המופקת מדלקים פוסיליים.[^1]
 בהתחלה השתמשו בעיקר בפחם, לאחר מכן גם בדלק נוזלי ולאחרונה בגז (מתאן --
-$\ce{CH4}$) בכמויות הולכות וגדלות. בעשורים האחרונים מתרחש מעבר חלקי להפקת
+$CH_4$) בכמויות הולכות וגדלות. בעשורים האחרונים מתרחש מעבר חלקי להפקת
 אנרגיה ממקורות חילופיים, כגון אנרגיה גרעינית, אנרגיה הידרואלקטרית,
 אנרגיה סולארית ואנרגית רוח. הפרק הנוכחי ידון במקורות האנרגיה השונים
 ובהשלכות הסביבתיות של השימוש בהם. נתחיל את הפרק בהצגת גודל האתגר (3.1),
@@ -48,6 +48,16 @@ $\ce{CH4}$) בכמויות הולכות וגדלות. בעשורים האחרו�
 height: 400px
 name: fig 3-1
 ---
+איור 3.1: הפקת אנרגיה לפי סוגים החל משנת 1800 ועד 2023.
+
+מקור – Our World in Data, https://ourworldindata.org/energy-production-consumption; Reprinted with permission.
+```
+
+```{figure} media/tbl_3_1.png
+---
+height: 400px
+name: tbl 3-1
+---
 טבלה 3.1: צריכת וייצור אנרגיה בעולם מ-1980 ועד 2024. הפער בין ייצור לצריכה נובע מאיבוד אנרגיה, בעיקר חום שנפלט לסביבה בזמן הייצור, וכן הפסדים בזמן הולכת האנרגיה ממקום הייצור אל הצרכנים. ייצור חשמל מתחלק בין הצרכנים השונים: תעשייה, תחבורה, מגורים, חקלאות. TPES = Total Primary Energy Supply; TFC = Total Final Consumption
 ```
 
@@ -60,7 +70,7 @@ Sources:
 דלקים פוסיליים (פחם, דלק נוזלי גולמי וגז -- בעיקר מתאן)[^6] נוצרו במשך
 מיליוני שנה (בעיקר מלפני כ-350 מיליוני שנה ועד ההווה) משרידי
 מיקרואורגניזמים, בעלי חיים וצמחים שנקברו בסדימנט[^7] בטרם הספיקו להתחמצן
-ולהפוך לפד\"ח (פחמן דו חמצני -- $\ce{CO2}$). לאחר קבורתם הם עברו תהליכים
+ולהפוך לפד\"ח (פחמן דו חמצני -- $CO_2$). לאחר קבורתם הם עברו תהליכים
 ביולוגיים וכימיים בטמפרטורות נמוכות (דיאגנזה, עד 50 מעלות צלזיוס) ללא
 נוכחות חמצן, ויצרו גאו-פולימרים[^8] כגון חומצות הומיות וקרוגן.[^9] לאחר
 מכן, גאו-פולימרים אלו עברו תהליך של \"הבשלה\" (קטגנזה -
@@ -110,6 +120,16 @@ sub-bituminous). פחם מסוג זה פחות יעיל אנרגטית (מחמם
 kerosene, liquefied petroleum gas - LPG) מכילים כמויות שונות של חומרים
 מזיקים הנפלטים לסביבה בעת שריפתם (ראו פרק 11).
 
+```{figure} media/tbl_3_2.jpg
+---
+height: 400px
+name: tbl 3-2
+---
+טבלה 3.2: תכונות עיקריות של דלקים פוסיליים בהקשר הסביבתי.
+
+מקור - (Gemini)
+```
+
 ### שיפור היעילות של שריפת דלקים פוסיליים
 
 לפני שנדון בחלופות לדלקים פוסיליים ובהיבטים הסביבתיים הכרוכים בכך, חשוב
@@ -142,15 +162,17 @@ cycle / combined heat and power - CHP),[^23] שבו היעילות עולה
 height: 400px
 name: fig 3-2
 ---
-איור 3.2: סכמה של איבוד אנרגיה בתהליך ייצור חשמל בדרך מתחנת הכוח אל הצרכנים. יחידות - TWh. מקור – IEA (2008). [IEA](https://www.iea.org/reports/combined-heat-and-power), CC BY 4.0; Reprinted with permission.
+איור 3.2: סכמה של איבוד אנרגיה בתהליך ייצור חשמל בדרך מתחנת הכוח אל הצרכנים. יחידות - TWh.
+
+מקור – IEA (2008). <https://www.iea.org/reports/combined-heat-and-power>, CC BY 4.0; Reprinted with permission.
 ```
 
 ### סילוק מזהמים ולכידת פד\"ח
 
 דרך נוספת לצמצום ההשפעה הסביבתית של שימוש בדלקים פוסיליים היא באמצעות
 סילוק המזהמים הנפלטים בזמן שריפתם (חלקיקים מרחפים (PM), גופרית (בעיקר
-$\ce{SO2}$), חנקן (בעיקרNOx = NO + $\ce{NO2}$), מתכות רעילות, בעיקר כספית Hg; ראו
-פרוט בפרק 11), תרכובות אורגניות (למשל PAH),[^25] ופד"ח ($\ce{CO2}$
+$SO_2$), חנקן (בעיקרNOx = NO + $NO_2$), מתכות רעילות, בעיקר כספית Hg; ראו
+פרוט בפרק 11), תרכובות אורגניות (למשל PAH),[^25] ופד"ח ($CO_2$
 sequestration -- ראו בהמשך). הטכנולוגיות לסילוק כל המזהמים זמינות
 ומופעלות בתחנות כוח רבות ברחבי העולם, אם כי לא ברובן. התקנתן מייקרת את
 מחיר השימוש בדלקים פוסיליים ולכן לרוב אינה נובעת מיוזמה עצמאית של
@@ -247,7 +269,9 @@ fertilization/alkalinization), נושא זה יידון בפרק 10. חשוב ל
 height: 400px
 name: fig 3-3
 ---
-טבלה 3.3: הערכה של נתוני הספק המופק כיום, ושניתן להפיק באמצעים הקיימים מכל אחד ממקורות האנרגיה החילופיים. מקורות המידע בגוף הטבלה (טור רביעי מימין). ההבדלים בין ההערכות ממקורות שונים נובעת מצורת החישוב (https://ourworldindata.org/energy-substitution-method ). מקור -
+איור 3.3: תרחיש המבוסס על הערכות מ-2020 לגבי הדרכים להפחתת פליטות פד"ח בסקטור האנרגיה.
+
+מקור -
 ```
 
 IEA
@@ -352,7 +376,15 @@ pollution-mortality) היו כ-5 טריליון דולר, השקולים ל-6.5%
 height: 400px
 name: fig 3-4
 ---
-איור 3.4: LCOE (דולר למגה-וואט שעה) כפי שחושב על ידי LAZARD. שימו לב לערכים התחרותיים של אנרגיית רוח ושל PV ברמת ה-utility scale. על פי - [LAZARD](https://www.lazard.com/perspective/levelized-cost-of-energy-levelized-cost-of-storage-and-levelized-cost-of-hydrogen/)
+איור 3.4: LCOE (דולר למגה-וואט שעה) כפי שחושב על ידי LAZARD. שימו לב לערכים התחרותיים של אנרגיית רוח ושל PV ברמת ה-utility scale. על פי - https://www.lazard.com/perspective/levelized-cost-of-energy-levelized-cost-of-storage-and-levelized-cost-of-hydrogen/
+```
+
+```{figure} media/tbl_3_3.jpg
+---
+height: 400px
+name: tbl 3-3
+---
+טבלה 3.3: הערכה של נתוני הספק המופק כיום, ושניתן להפיק באמצעים הקיימים מכל אחד ממקורות האנרגיה החילופיים. מקורות המידע בגוף הטבלה (טור רביעי מימין). ההבדלים בין ההערכות ממקורות שונים נובעת מצורת החישוב (https://ourworldindata.org/energy-substitution-method ).
 ```
 
 ### אנרגיה גרעינית -- ביקוע
@@ -367,7 +399,7 @@ name: fig 3-4
 אורניום 235, צריך להעשיר את ריכוזו באורניום עד לריכוז של מספר אחוזים
 (כ-4.5% אורניום 235) כדי להשיג תגובת שרשרת של ביקועים הדרושה להפעלת
 כורים המקוררים במים -- מרבית כורי-הכוח הפועלים כיום. כורים המשתמשים במים
-כבדים - $\ce{D2O}$, ובחומרים נוספים (ראו למטה) יכולים להשתמש באורניום טבעי.
+כבדים - D$O_2$, ובחומרים נוספים (ראו למטה) יכולים להשתמש באורניום טבעי.
 כיום פועלים בעולם כ-440 כורים גרעיניים לייצור אנרגיה שרובם פועל כבר
 עשרות שנים. יש כ-55 כורים נוספים בשלבי בניה והם אמורים להיכנס לפעולה
 בשנים הקרובות, אם כתוספת או כתחליף לחלק מהכורים הישנים שיושבתו.[^80]
@@ -508,7 +540,7 @@ IEA קידוחים עד עומק של שלושה קילומטר יכולים ל�
 משום שהמים המחוממים מאכלים (corrosive) יותר ממי תהום רגילים ויכולים
 לשחרר יסודות רעילים הנמצאים בתת הקרקע. יתרון האנרגיה הגאותרמית בכך שאינה
 משחררת פד\"ח לאטמוספרה, אם כי יש חשש שכמויות קטנות של גזים כמו מתאן
-ומימן גופרתי ($\ce{H2}$S) עלולים להיפלט מהמים שהוחדרו לעומקים גדולים, כפי
+ומימן גופרתי ($H_2S$) עלולים להיפלט מהמים שהוחדרו לעומקים גדולים, כפי
 שעולה מסקר שביצעה הסוכנות הבינלאומית לאנרגיות מתחדשות (IRENA) ושהוזכר
 בראשית תת הפרק הזה. יתרון נוסף הוא שהמִדְרך האקולוגי של תחנות גאותרמיות
 (מבחינת שטחים הדרושים לפעילותה, כמות חומרי הגלם הנחוצים להקמתן אם לא
@@ -754,7 +786,7 @@ depletion)[^166] והיכולת למחזר אותם[^167] נמצא בחזית ה
 לבעירה בזמן צורך.
 
 שימוש במימן לייצור אנרגיה חורג מתחום אגירת אנרגיה, ומהווה נושא בפני
-עצמו. למשל, כיום מנסים להפיק מימן מפירוק של מתאן ($\ce{CH4}$) או
+עצמו. למשל, כיום מנסים להפיק מימן מפירוק של מתאן ($CH_4$) או
 ביו-מסה[^173] (מימן אפור, משום שהתהליך מלווה בשחרור פד\"ח שצריך ללכוד
 בשיטות שונות של CCS). לאחרונה הוצע להשתמש בשילוב של ראקציות כימיות על
 מנת להפיק מימן מגז מתאן ובמקביל לקבע את הפחמן המשתחרר בתהליך הנקרא
@@ -882,7 +914,7 @@ process) בדומה לשריפת דלקים פוסיליים, אולם בניג�
 height: 400px
 name: fig 3-6
 ---
-איור 3.6: תהליכי יצירה, תנועה והפקה של מימן גיאולוגי. על פי - Hand E. (Science) - [Science](https://www.science.org/content/article/hidden-hydrogen-earth-may-hold-vast-stores-renewable-carbon-free-fuel)
+איור 3.6: תהליכי יצירה, תנועה והפקה של מימן גיאולוגי. על פי - Hand E. (Science) - https://www.science.org/content/article/hidden-hydrogen-earth-may-hold-vast-stores-renewable-carbon-free-fuel
 ```
 
 ## כיווני התפתחות
@@ -968,7 +1000,9 @@ grids) אמור לספק מידה גדולה יותר של ביטחון אנרג
 height: 400px
 name: fig 3-7
 ---
-איור 3.7: השילוב המוצע בין מקורות האנרגיה העתידים לשלוט בשוק האנרגיה לבין אמצעי האגירה ודרישות צרכני האנרגיה. מקור – Davis S. J. et al., (2018) [Science](https://www.science.org/doi/10.1126/science.aas9793).  Reprinted with permission from AAAS.
+איור 3.7: השילוב המוצע בין מקורות האנרגיה העתידים לשלוט בשוק האנרגיה לבין אמצעי האגירה ודרישות צרכני האנרגיה.
+
+מקור – Davis S. J. et al., (2018) https://www.science.org/doi/10.1126/science.aas9793.  Reprinted with permission from AAAS.
 ```
 
 ## סיכום
@@ -1303,7 +1337,7 @@ name: fig 3-7
     <https://pubs.acs.org/doi/10.1021/acs.est.5c09820?utm_source=SendGrid_ealert&utm_medium=ealert&utm_campaign=ASAP_esthag_v0_i0>
 
 [^40]: סלעים מאפיים הם סלעים מגמתיים המכילים יחסית מעט צורן דו-חמצני
-    (45-52% - $\ce{SiO2}$) וריכוזים גבוהים יחסית של ברזל ומגנזיום. בזלת היא
+    (45-52% - $SiO_2$) וריכוזים גבוהים יחסית של ברזל ומגנזיום. בזלת היא
     דוגמא לסלע מאפי נפוץ. סלעים אולטרה-מאפיים מכילים פחות מ 45% צורן
     דו-חמצני. הסלעים הנפוצים ביותר הם פרידוטיט -- המורכב ממינרלי אוליבין
     ופירוקסן, ודוניט -- המורכב בעיקר מאוליבין. רוב הסלעים האולטרה-מאפיים
@@ -1544,10 +1578,10 @@ name: fig 3-7
     = \\frac{\\sum\_{t=1}\^{n} \\frac{ I_t + M_t +
     F_t}{\\left({1+r}\\right)\^t} }{\\sum\_{t=1}\^{n}
     \\frac{E_t}{\\left({1+r}\\right)\^{t}} }
-    ](media/image6.png) Where, *$I_t$* = investment
-    expenditures in the year t; *$M_t$* = operations and maintenance
-    expenditures in the year t; *$F_t$* = fuel expenditures in the year
-    t; *$E_t$* = electrical energy generated in the year t; *r* =
+    ](media/image6.png) Where, *I~t~* = investment
+    expenditures in the year t; *M~t~* = operations and maintenance
+    expenditures in the year t; *F~t~* = fuel expenditures in the year
+    t; *E~t~* = electrical energy generated in the year t; *r* =
     discount rate; *n* = expected lifetime of system or power station.
 
 [^72]: <https://www.themarker.com/wallstreet/2025-10-18/ty-article/.premium/00000199-e7a4-dde4-a7bd-fffe1cf10000?utm_source=Web_Share&utm_me…>
@@ -2238,7 +2272,7 @@ name: fig 3-7
     Precambrian continental lithosphere to global H2 production.
     *Nature* **516**, 379-382.
     <https://www.nature.com/articles/nature14017>; (2) Warr, O. et al.
-    (2019) Mechanisms and rates of ^4^He, ^40^Ar, and $\ce{H2}$ production
+    (2019) Mechanisms and rates of ^4^He, ^40^Ar, and $H_2$ production
     and accumulation in fracture fluids in Precambrian Shield
     environments. *Chemical Geology*, **530**, 119322.
     <https://www.sciencedirect.com/science/article/abs/pii/S0009254119304292?via%3Dihub>
@@ -2269,7 +2303,7 @@ name: fig 3-7
     geologic hydrogen resources. *Sci. Adv*. **10**.
     <https://www.science.org/doi/10.1126/sciadv.ado0955>
 
-[^197]: There are two major pathways to produce $\ce{H2}$ by igneous rocks
+[^197]: There are two major pathways to produce $H_2$ by igneous rocks
     (Lollar, et al., 2014): (1) \~80% s produced through
     serpentinization - water reaction with iron-rich minerals that
     reside in iron-rich rocks to make hydrogen; (2) \~20% is produced by
@@ -2325,8 +2359,8 @@ name: fig 3-7
 [^207]: \(1\) <https://www.eia.gov/analysis/>; (2) IEA (2024) Renewables
     <https://iea.blob.core.windows.net/assets/45704c88-a7b0-4001-b319-c5fc45298e07/Renewables2024.pdf>
 
-[^208]: In 2003 - 27.7 GT $\ce{CO2}$ were emitted, in 2013 -- 35.3 GT, and in
-    2023 -- 37.8 GT (delta $\ce{CO2}$: 2003 -- 2013 = 7.6 GT; 2013-2023 = 2.5
+[^208]: In 2003 - 27.7 GT $CO_2$ were emitted, in 2013 -- 35.3 GT, and in
+    2023 -- 37.8 GT (delta $CO_2$: 2003 -- 2013 = 7.6 GT; 2013-2023 = 2.5
     GT).
     [https://ourworldindata.org/co2-and-greenhouse-gas-emissions](https://ourworldindata.org/co2-and-greenhouse-gas-emissions%20%20-%20in%202003)
 

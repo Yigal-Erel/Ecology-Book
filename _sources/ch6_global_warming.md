@@ -29,7 +29,7 @@
 
 ## הקשר בין ריכוז גזי חממה וטמפרטורת פני השטח של כדור הארץ
 
-המחקר שקשר בין ריכוז גזי חממה (בעיקר פד\"ח (פחמן דו חמצני -- $\ce{CO2}$)
+המחקר שקשר בין ריכוז גזי חממה (בעיקר פד\"ח (פחמן דו חמצני -- $CO_2$)
 והתחממות כדור הארץ החל לפני כ-200 שנה.[^9] בשנת 1824 פרסם ז\'אן-בפטיסט
 פורייה (Fourier), מגדולי המדענים של המאה התשע עשרה, מחקר שהראה כי מאזן
 הקרינה של כדור הארץ מחייב שטמפרטורת פני השטח שלו תהיה נמוכה ב-33 מעלות
@@ -111,7 +111,7 @@ forcing)[^19] על מנת לתאר בצורה כמותית את תרומתם ש�
 הבינלאומי של מומחי אקלים של האו\"ם (IPCC) לפרסם דוחות,[^30] כאשר האחרון
 שבהם פורסם ב-2023.[^31] למרות כל המאמצים שנעשו בשנים האחרונות וההזהרות
 החוזרות ונשנות של מומחי ה-IPCC, ריכוזי גזי החממה העיקריים (פד\"ח, מתאן,
-חנקן דו-חמצני ו-$\ce{SF6}$)[^32] באטמוספרה ממשיכים לטפס (ראו פרוט לגבי פד\"ח
+חנקן דו-חמצני ו-~6~SF)[^32] באטמוספרה ממשיכים לטפס (ראו פרוט לגבי פד\"ח
 ומתאן בפרק 5), ונכון לסוף 2024 אינם מראים סימנים של היפוך מגמה.[^33]
 כישלון זה יביא ככל הנראה להמשך ההתחממות הגלובלית, והצפי הוא שהיא תגיע
 כבר בשנים הקרובות ל-C1.5° מעל הטמפרטורה הממוצעת בתחילת המאה העשרים.[^34]
@@ -121,7 +121,9 @@ forcing)[^19] על מנת לתאר בצורה כמותית את תרומתם ש�
 height: 400px
 name: fig 6-1
 ---
-איור 6.1: נתונים מרכזיים בדיון על התחממות גלובלית. (א) תיעוד העלייה בריכוז פד"ח באטמוספרה בתחנה של הוואי (Mauna Loa) החל בסוף שנות החמישים של המאה הקודמת. מקור – NOAA (2023) https://gml.noaa.gov/ccgg/trends/; Reprinted with permission. (ב) בחינה מחודשת בשנת 2018 של המאמר של הנסן משנת 1988. מקור – Hausfather, Z. et al. (2020) https://doi.org/10.1029/2019GL085378; ©2019. American Geophysical Union. All Rights Reserved. Reprinted with permission. (ג) חריגות של הטמפרטורה הממוצעת בכדור הארץ משנת 1850 ועד 2025 בהשוואה לממוצע של השנים 1850-1900. מקור – NOAA (2023) <https://gml.noaa.gov/ccgg/trends/>; Reprinted with permission. (ב) בחינה מחודשת בשנת 2018 של המאמר של הנסן משנת 1988. מקור --
+איור 6.1: נתונים מרכזיים בדיון על התחממות גלובלית. (א) תיעוד העלייה בריכוז פד"ח באטמוספרה בתחנה של הוואי (Mauna Loa) החל בסוף שנות החמישים של המאה הקודמת.
+
+מקור – NOAA (2023) https://gml.noaa.gov/ccgg/trends/; Reprinted with permission. (ב) בחינה מחודשת בשנת 2018 של המאמר של הנסן משנת 1988. מקור – Hausfather, Z. et al. (2020) https://doi.org/10.1029/2019GL085378; ©2019. American Geophysical Union. All Rights Reserved. Reprinted with permission. (ג) חריגות של הטמפרטורה הממוצעת בכדור הארץ משנת 1850 ועד 2025 בהשוואה לממוצע של השנים 1850-1900. מקור – NOAA (2023) <https://gml.noaa.gov/ccgg/trends/>; Reprinted with permission. (ב) בחינה מחודשת בשנת 2018 של המאמר של הנסן משנת 1988. מקור --
 ```
 
 Hausfather, Z. et al. (2020) <https://doi.org/10.1029/2019GL085378>;
@@ -135,14 +137,11 @@ Global Temperature Report for 2025 - Berkeley Earth,
 <https://berkeleyearth.org/global-temperature-report-for-2025/>. All
 Rights Reserved. Reprinted with permission.
 
-![](media/image1.jpeg)
 
-![](media/image2.jpeg)
 (ב)
 
 (ג)
 
-![](media/image3.png)
 
 ## מדוע עדין ניטש הוויכוח על התחממות גלובלית
 
@@ -185,7 +184,9 @@ Rights Reserved. Reprinted with permission.
 height: 400px
 name: fig 6-2
 ---
-איור 6.2: (א) שינויים בריכוז פד"ח באטמוספרה ב-1000 השנים האחרונות כפי שנמדדו בבועות אוויר בשלושה גלעיני קרח מאנטארקטיקה. מקור – Ahn et al (2012) [agupubs.onlinelibrary.wiley.com](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011GB004247) Reprinted with permission by AGU ריכוזי פד"ח ממוצעים ממספר גלעיני קרח ב-800 אלף השנים האחרונות כפי שהורכבו על ידי סוכנות החלל האמריקאית. על פי – NASA - [climate.nasa.gov](https://climate.nasa.gov/climate_resources/24/graphic-the-relentless-rise-of-carbon-dioxide/)
+איור 6.2: (א) שינויים בריכוז פד"ח באטמוספרה ב-1000 השנים האחרונות כפי שנמדדו בבועות אוויר בשלושה גלעיני קרח מאנטארקטיקה.
+
+מקור – Ahn et al (2012) https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011GB004247 Reprinted with permission by AGU ריכוזי פד"ח ממוצעים ממספר גלעיני קרח ב-800 אלף השנים האחרונות כפי שהורכבו על ידי סוכנות החלל האמריקאית. על פי – NASA - https://climate.nasa.gov/climate_resources/24/graphic-the-relentless-rise-of-carbon-dioxide/
 ```
 
 Ahn et al (2012)
@@ -197,9 +198,7 @@ Reprinted with permission by AGU
 NASA -
 <https://climate.nasa.gov/climate_resources/24/graphic-the-relentless-rise-of-carbon-dioxide/>
 
-![](media/image4.png)
 
-![](media/image5.jpeg)
 (ב)
 
 ## סוגי גזי החממה
@@ -215,8 +214,8 @@ Warming Potential - GWP).[^41] כמו כן, יש להתייחס אליהם בש�
 הוא אפקט החממה האנתרופוגני[^43] שגורם לכדור הארץ להתחמם בעוד 2.4 מעלות
 קלווין (מהן צריך להפחית כ-1.2 מעלות עקב קירור הנגרם על ידי אירוסולים).
 לפי חישוביו של מרק ג\'יקובסון (Jacobson), 66% מאפקט החממה הטבעי נתרמים
-על ידי אדי מים, 25% על ידי פד\"ח, 6.2% על ידי אוזון (ozone -- $\ce{O3}$),
-1.4% על ידי חמצן דו חנקני (nitrous oxide -- $\ce{N2O}$), 0.6% על ידי מתאן,
+על ידי אדי מים, 25% על ידי פד\"ח, 6.2% על ידי אוזון (ozone -- $O_3$),
+1.4% על ידי חמצן דו חנקני (nitrous oxide -- $N_2O$), 0.6% על ידי מתאן,
 0.6% על ידי חמצן, והשאר על ידי גזים אחרים וחלקיקים מרחפים באוויר. לעומת
 זאת, אפקט החממה האנתרופוגני נגרם ברובו על ידי פד\"ח (45.7%), פיח וחלקיקי
 חומר אורגני כהים המרחפים באוויר (16.3%), מתאן (12%)[^44], מתיל כלוריד
@@ -319,7 +318,9 @@ variability).[^79] דוגמא נוספת למידת המורכבות של תהל
 height: 400px
 name: fig 6-3
 ---
-איור 6.3: השינוי בטמפרטורה הממוצעת השנתית בישראל ביחס לתקופת יחוס 2017-1988. ממוצע התצפיות (בשחור), ממוצע אנסמבל המודלים עבור תרחיש RCP4.5 (בירוק), ממוצע אנסמבל המודלים עבור תרחיש RCP8.5 (באדום). מקור – https://ims.gov.il/he/node/228 ; Reprinted with permission. <https://ims.gov.il/he/node/228> ; Reprinted with permission.
+איור 6.3: השינוי בטמפרטורה הממוצעת השנתית בישראל ביחס לתקופת יחוס 2017-1988. ממוצע התצפיות (בשחור), ממוצע אנסמבל המודלים עבור תרחיש RCP4.5 (בירוק), ממוצע אנסמבל המודלים עבור תרחיש RCP8.5 (באדום).
+
+מקור – https://ims.gov.il/he/node/228 ; Reprinted with permission.
 ```
 
 שנה
@@ -448,7 +449,9 @@ Holocene), הקצב הנוכחי של נסיגת הקרחונים ההרריים
 height: 400px
 name: fig 6-4
 ---
-איור 6.4: תרחישים שונים של פליטת גזי חממה, המקבילים להם בעבר, והשפעתם על כיפות הקרח בגרינלנד ובאנטארקטיקה. מקור – Tierney, J. E. et al. (2020) https://doi.org/doi:10.1126/science.aay3701 ; Reprinted with permission from AAAS. RCP = Representative Concentration Pathway – see Figure 6.3
+איור 6.4: תרחישים שונים של פליטת גזי חממה, המקבילים להם בעבר, והשפעתם על כיפות הקרח בגרינלנד ובאנטארקטיקה.
+
+מקור – Tierney, J. E. et al. (2020) https://doi.org/doi:10.1126/science.aay3701 ; Reprinted with permission from AAAS. RCP = Representative Concentration Pathway – see Figure 6.3
 ```
 
 Tierney, J. E. et al. (2020)
@@ -457,14 +460,15 @@ permission from AAAS.
 
 RCP = Representative Concentration Pathway -- see Figure 6.3
 
-![](media/image7.jpeg)
 
 ```{figure} media/6_5.jpg
 ---
 height: 400px
 name: fig 6-5
 ---
-איור 6.5: שינוי הטמפרטורה הממוצעת בכדור הארץ וריכוזי פד"ח (part per million - ppm) בארבעה מיליוני השנה האחרונות, בהשוואה לשנים 1850 - 1900. כל פנל מתאר טווח שונה של שנים לפני ההווה. מקור – Fischer, H. et al. (2018). [Nature](https://www.nature.com/articles/s41561-018-0146-0).  Reprinted with permission from Nature.
+איור 6.5: שינוי הטמפרטורה הממוצעת בכדור הארץ וריכוזי פד"ח (part per million - ppm) בארבעה מיליוני השנה האחרונות, בהשוואה לשנים 1850 - 1900. כל פנל מתאר טווח שונה של שנים לפני ההווה.
+
+מקור – Fischer, H. et al. (2018). https://www.nature.com/articles/s41561-018-0146-0.  Reprinted with permission from Nature.
 ```
 
 ## התחממות גלובלית ועליית מפלס הים
@@ -484,13 +488,14 @@ name: fig 6-5
 height: 400px
 name: fig 6-6
 ---
-איור 6.6: שינויים במפלס הים, בטמפרטורה, ובריכוזי פד"ח לפני 125 אלף, 400 אלף (שתיים מהתקופות הבין-קרחוניות הקודמות), ושלושה מיליון שנה (פליוקן מאוחר). שימו לב לעלייה המשמעותית במפלס הים (כנראה עקב המסה מאסיבית של קרחונים בגרינלנד) לפני כ-125 אלף שנה למרות שהטמפרטורה כנראה לא הייתה גבוהה משמעותית מהעכשווית. מקור – Dutton, A. et al. (2015) https://doi.org/doi:10.1126/science.aaa4019 ; Reprinted with permission from AAAS.
+איור 6.6: שינויים במפלס הים, בטמפרטורה, ובריכוזי פד"ח לפני 125 אלף, 400 אלף (שתיים מהתקופות הבין-קרחוניות הקודמות), ושלושה מיליון שנה (פליוקן מאוחר). שימו לב לעלייה המשמעותית במפלס הים (כנראה עקב המסה מאסיבית של קרחונים בגרינלנד) לפני כ-125 אלף שנה למרות שהטמפרטורה כנראה לא הייתה גבוהה משמעותית מהעכשווית.
+
+מקור – Dutton, A. et al. (2015) https://doi.org/doi:10.1126/science.aaa4019 ; Reprinted with permission from AAAS.
 ```
 
 Dutton, A. et al. (2015) <https://doi.org/doi:10.1126/science.aaa4019> ;
 Reprinted with permission from AAAS.
 
-![](media/image9.jpeg)
 
 ## לקחים כלליים וסיכום
 
@@ -897,8 +902,8 @@ Reprinted with permission from AAAS.
     המגיעה מן השמש ופולט לחלל קרינה אינפרה-אדומה.
 
 [^41]: Global Warming Potential (GWP) is a metric that compares a
-    greenhouse gas\'s heat-trapping ability to $\ce{CO2}$ over a time period,
-    with $\ce{CO2}$ set as the baseline (GWP=1) -- see Table 7.15 in
+    greenhouse gas\'s heat-trapping ability to $CO_2$ over a time period,
+    with $CO_2$ set as the baseline (GWP=1) -- see Table 7.15 in
     <https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Chapter07.pdf>
 
 [^42]: Jacobson, M. Z. - Contributors to Anthropogenic Global Warming

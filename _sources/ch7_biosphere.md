@@ -13,7 +13,7 @@
 ביותר להשפעה של הביוטה על תנאי הסביבה היא הרכב האטמוספרה הנוכחי, כ-80%
 חנקן וכ-20% חמצן. כל העדויות המצויות בידנו מצביעות על כך שבראשית חייו
 היתה לכדור הארץ אטמוספרה עם הרכב שונה לחלוטין, שבשלב מסוים כללה בעיקר
-פד\"ח (פחמן דו חמצני -- $\ce{CO2}$), וריכוז החמצן החופשי בה היה אפסי. בעקבות
+פד\"ח (פחמן דו חמצני -- $CO_2$), וריכוז החמצן החופשי בה היה אפסי. בעקבות
 הופעתם של מיקרואורגניזמים המבצעים פוטוסינתיזה (photosynthesis),[^1]
 בשילוב עם קבורה משמעותית של חומר אורגני (ראו פרק 3) שנוצר בתהליך
 הפוטוסינתזה, ובנוסף השקעה של שלדים קרבונטיים[^2] (תהליך המסלק פד\"ח מן
@@ -156,7 +156,9 @@ species turnover,[^43] and trait diversity[^44]) יצליח לתאר בצורה 
 height: 400px
 name: fig 7-1
 ---
-איור 7.1: התרומה של גורמים עקיפים (דמוגרפים, חברתיים, כלכליים, טכנולוגיים, פוליטיים, מנהליים, מלחמות ומגיפות) על הגורמים הישירים (שינוי שימושי קרקע, ניצול יתר, שינוי אקלים, זיהום, חדירת מינים פולשים וגורמים אחרים) המביאים לפגיעה בטבע (גודל מערכות אקולוגיות, הכחדת מינים, חברות אקולוגיות, ביומסה ו-evenness, קהילות מקומיות וילידים) במערכות אקולוגיות יבשתיות, מימיות (מים מתוקים), וימיות. מקור – IPBES (2019) [IPBES](https://files.ipbes.net/ipbes-web-prod-public-files/inline/files/ipbes_global_assessment_report_summary_for_policymakers.pdf). Reprinted with permission.
+איור 7.1: התרומה של גורמים עקיפים (דמוגרפים, חברתיים, כלכליים, טכנולוגיים, פוליטיים, מנהליים, מלחמות ומגיפות) על הגורמים הישירים (שינוי שימושי קרקע, ניצול יתר, שינוי אקלים, זיהום, חדירת מינים פולשים וגורמים אחרים) המביאים לפגיעה בטבע (גודל מערכות אקולוגיות, הכחדת מינים, חברות אקולוגיות, ביומסה ו-evenness, קהילות מקומיות וילידים) במערכות אקולוגיות יבשתיות, מימיות (מים מתוקים), וימיות.
+
+מקור – IPBES (2019) <https://files.ipbes.net/ipbes-web-prod-public-files/inline/files/ipbes_global_assessment_report_summary_for_policymakers.pdf>. Reprinted with permission.
 ```
 
 ```{figure} media/7_2.jpg
@@ -164,10 +166,12 @@ name: fig 7-1
 height: 400px
 name: fig 7-2
 ---
-איור 7.2: סכנת ההכחדה ופגיעה במגוון של פטריות, צמחים, חסרי חוליות, בעלי חוליות. שימו לב לחלונות הזמן השונים באיורים B ו-C. מקור – IPBES (2019) [IPBES](https://files.ipbes.net/ipbes-web-prod-public-files/inline/files/ipbes_global_assessment_report_summary_for_policymakers.pdf). Reprinted with permission.
+איור 7.2: סכנת ההכחדה ופגיעה במגוון של פטריות, צמחים, חסרי חוליות, בעלי חוליות. שימו לב לחלונות הזמן השונים באיורים B ו-C.
+
+מקור – IPBES (2019) <https://files.ipbes.net/ipbes-web-prod-public-files/inline/files/ipbes_global_assessment_report_summary_for_policymakers.pdf>. Reprinted with permission.
 ```
 
-### השפעת שינויי אקלים על מערכות אקולוגיות
+> 7.2.2 *השפעת שינויי אקלים על מערכות אקולוגיות*
 
 לשינויי האקלים יש השפעות מרחיקות לכת על המערכת האקולוגית,[^46] ויש הרבה
 דוגמאות לשינויים שכבר נצפו בפועל במערכות אקולוגיות שונות, הן כתוצאה של
@@ -208,7 +212,7 @@ name: fig 7-2
 ההתמודדות עם שינויי אקלים, יש לבצע ניטור ממושך של שיטות ואופני הפעולה
 בהם אנו נוקטים ולבחון אותם בצורה קבועה.[^64]
 
-### מינים פולשים
+> 7.2.3 *מינים פולשים*
 
 אחת מחמש הסיבות שפורטו באיור 7.1 לפגיעה במגוון המינים, היא חדירה של
 מינים פולשים, מינים אופורטוניסטים ומינים מלווי אדם.[^65] בשנים האחרונות
@@ -258,7 +262,7 @@ name: fig 7-2
 ועלולים להפוך למטרד בסביבות מסוימות בהן יש להם יתרון אקולוגי (למשל
 הסביבה העירונית -- ראו פרק 12, וכן פרק 14).[^79]
 
-### פגיעה במאביקים
+> 7.2.4 *פגיעה במאביקים*
 
 פגיעה בחרקים מאביקים הינה נושא נוסף המושך תשומת לב מדעית וציבורית רבה
 בגלל האיום על אספקת מזון לבני אדם.[^80] כ-75% מצמחי המאכל תלויים במידה
@@ -372,7 +376,7 @@ Hypothesis) [^112]הגורסת שהכחדות הן חלק בלתי נפרד מה
 מנגנון ההכחדה העיקרי לטענת וורד הוא התחממות כדור הארץ עקב הצטברות גזי
 חממה, שגורמת להפסקת הערבוב של מי האוקיינוסים (נרחיב על כך בפרק 10).
 הפסקת הערבוב של מי הים גורמת להיווצרות של גוף מים עמוקים חסר חמצן שבו
-פועלים מיקרואורגניזמים אנאירוביים המייצרים גז מימן סולפיד ($\ce{H2}$S) רעיל
+פועלים מיקרואורגניזמים אנאירוביים המייצרים גז מימן סולפיד ($H_2S$) רעיל
 ביותר, המתנדף לאטמוספרה וגורם להכחדה נרחבת וכן להעלמות שכבת האוזון
 הסטרטוספרי, המגינה על פני השטח של כדור הארץ מקרינה אולטרה-סגולה קטלנית
 (נחזור לשכבת האוזון הסטרטוספרי בפרק 11).
@@ -396,13 +400,14 @@ Hypothesis) [^112]הגורסת שהכחדות הן חלק בלתי נפרד מה
 height: 400px
 name: fig 7-3
 ---
-איור 7.3: החומרה של מצב הביוטה בהווה ברמת המחלקה, והשוואה לאירועי הכחדה בעבר. הקו השחור מסמן את המדד המייצג לדעת המחברים ארוע הכחדה (75% הכחדה). סימון לבן – מין שהוכחד בטבע. סימון שחור – מין הנמצא בסכנת הכחדה. סימון צהוב – מינים שהוכחדו באחד מחמשת אירועי ההכחדה הגדולים של העבר. מקור – Barnosky, et al. (2011) https://doi.org/10.1038/nature09678 ; Reprinted with permission from Nature.
+איור 7.3: החומרה של מצב הביוטה בהווה ברמת המחלקה, והשוואה לאירועי הכחדה בעבר. הקו השחור מסמן את המדד המייצג לדעת המחברים ארוע הכחדה (75% הכחדה). סימון לבן – מין שהוכחד בטבע. סימון שחור – מין הנמצא בסכנת הכחדה. סימון צהוב – מינים שהוכחדו באחד מחמשת אירועי ההכחדה הגדולים של העבר.
+
+מקור – Barnosky, et al. (2011) https://doi.org/10.1038/nature09678 ; Reprinted with permission from Nature.
 ```
 
 Barnosky, et al. (2011) <https://doi.org/10.1038/nature09678> ;
 Reprinted with permission from Nature.
 
-![](media/image3.png)
 
 ## מדוע יש לשמור על התפקוד הביולוגי?
 
@@ -583,7 +588,9 @@ COP-16,[^144] בסיומו הוסכם שמדינות העולם יגייסו ב�
 height: 400px
 name: fig 7-4
 ---
-איור 7.4: שינויים יחסיים במגוון הביולוגי ביבשות השונות בין 1970 ל-2018. מקור – WWF (2022) [WWF](https://wwfint.awsassets.panda.org/downloads/embargo_13_10_2022_lpr_2022_full_report_single_page_1.pdf) © Reprinted with permission.
+איור 7.4: שינויים יחסיים במגוון הביולוגי ביבשות השונות בין 1970 ל-2018.
+
+מקור – WWF (2022) <https://wwfint.awsassets.panda.org/downloads/embargo_13_10_2022_lpr_2022_full_report_single_page_1.pdf> © Reprinted with permission.
 ```
 
 ## סיכום
@@ -619,16 +626,16 @@ name: fig 7-4
 [^1]: Photosynthesis -- the fundamental biochemical process where
     organisms, primarily plants, algae, and some bacteria, harness the
     energy from sunlight to synthesize glucose (a sugar) from carbon
-    dioxide ($\ce{CO2}$​) and water ($\ce{H2}$​O). This conversion transforms light
+    dioxide ($CO_2$​) and water ($H_2$​O). This conversion transforms light
     energy into a usable form of potential chemical energy stored within
     the bonds of glucose. Photosynthesis takes place in two distinct
     stages. <https://www.ncbi.nlm.nih.gov/books/NBK9861/>
 
 [^2]: Biologically driven conversion of dissolved Ca and 2 ions of
     bicarbonate, originated from the atmosphere, to form solid carbonate
-    mineral and a release of $\ce{CO2}$ that dissolves in water and/or
-    escapes to the atmosphere. The reaction is: $\ce{Ca^{2+}}$ + 2$\ce{HCO3-}$
-    \<-\> $\ce{CaCO3}$ + $\ce{CO2}$ + $\ce{H2O}$
+    mineral and a release of $CO_2$ that dissolves in water and/or
+    escapes to the atmosphere. The reaction is: Ca^2+^ + 2$HCO_3^-$
+    \<-\> $CaCO_3$ + $CO_2$ + $H_2O$
 
 [^3]: <https://www.who.int/news-room/fact-sheets/detail/one-health>
 
