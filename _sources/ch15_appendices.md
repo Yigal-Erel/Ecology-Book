@@ -1,6 +1,6 @@
 # 15. נספחים
 
-## אמנות בין לאומיות בנושאי סביבה
+## 15.1 אמנות בין לאומיות בנושאי סביבה
 
 - **Ramsar** convention - The Convention on Wetlands is the
   intergovernmental treaty that provides the framework for the
@@ -68,9 +68,9 @@
   environment, covering the full lifecycle of plastics -
   <https://packagingeurope.com/news/next-global-plastics-treaty-meeting-will-be-held-in-geneva-unep-confirms/12552.article>
 
-## דמויות מעוררות השראה במחקר ובתנועה הסביבתית
+## 15.2 דמויות מעוררות השראה במחקר ובתנועה הסביבתית
 
-## מדענים שקידמו את הבסיס המדעי-ממשקי של חקר, הגנת ושמירת הטבע
+## 15.3 מדענים שקידמו את הבסיס המדעי-ממשקי של חקר, הגנת ושמירת הטבע
 
 - **Alexander von Humboldt** - von Humboldt (1769 -- 1859) was a German
   polymath, geographer, naturalist, explorer, and proponent of Romantic
@@ -299,7 +299,7 @@
   while not limiting opportunities for future generations by protecting
   the ecosystem. <https://en.wikipedia.org/wiki/Kate_Raworth>
 
-## מנהיגים ופעילים חברתיים שהגבירו את המודעות לבעיות הסביבה
+## 15.4 מנהיגים ופעילים חברתיים שהגבירו את המודעות לבעיות הסביבה
 
 - **John Muir** - Muir (1838 -- 1914) was a Scottish-born
   American naturalist, author, environmental philosopher, botanist,
@@ -387,7 +387,7 @@
   help of attorney Ed Masry in 1993.
   <https://en.wikipedia.org/wiki/Erin_Brockovich>
 
-## דמויות מרכזיות בקידום המודעות והמחקר הסביבתי בישראל
+## 15.5 דמויות מרכזיות בקידום המודעות והמחקר הסביבתי בישראל
 
 - **היינריך מנדלסון** - מנדלסון (1910 -- 2002) היה זואולוג גרמני-ישראלי.
   הוא נחשב לאחד ממייסדי שימור הטבע בישראל והמחקר הזואולוגי בה וזוכה פרס

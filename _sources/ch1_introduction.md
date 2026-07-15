@@ -5,7 +5,7 @@ Gretchen C. Daily, Stanford University, 2021
 :::
 
 
-# מבוא - עקרונות, היסטוריה והגורמים למשבר הסביבה והאקלים
+# 1. מבוא - עקרונות, היסטוריה והגורמים למשבר הסביבה והאקלים
 
 חדשות לבקרים אנחנו נתקלים בנבואות אפוקליפטיות על הרס כדור הארץ ועל העתיד
 הלוהט הצפוי לנו.[^1] המושג \"משבר האקלים\" אינו יורד מהכותרות כבר שנים
@@ -40,7 +40,7 @@ Gretchen C. Daily, Stanford University, 2021
 פדולוגיה \[חקר הקרקע\], מדעי האקלים, מדעי האטמוספרה, אוקיינוגרפיה),
 הכימיה והפיזיקה, שנערכו במאות השנים האחרונות.
 
-## אבני דרך בהתפתחות המודעות לבעיות הסביבה
+## 1.1 אבני דרך בהתפתחות המודעות לבעיות הסביבה
 
 ההכרה בכך שהאדם מסב נזקים סביבתיים ניכרים מתועדת בכמה כתבים כבר בעת
 העתיקה,[^12] וחלקם יוזכרו בפרקים 8, 9 ו-11. מאז פרסום ספרו של תומאס
@@ -137,7 +137,7 @@ name: fig 1-1
 The great smog, London (1952)<br>$\ce{CO2}$ rise, the Mauna Loa record -- C. Keeling (1957)<br>Silent Spring, bio-magnification of pesticides - R. Carson (1962)<br>Pollution is global & ancient, Pb in ice cores -- C. C. Patterson (1969)<br>Earth Day -- G. Nelson & D. Hayes (1970)<br>Limits to Growth -- The Club of Rome (1972)<br>The central role of oceans in climate regulation -- W. Broecker & DSDP<br>(1970s)<br>The stratospheric $\ce{O3}$ depletion -- M. Molina & S. Rowland (1974--1980s)<br>The Gaia Hypothesis -- J. Lovelock & L. Margulis (1970s)<br>Ecological Footprint concept -- W. Rees & M. Wackernagel (1992)<br>Earth in the Balance -- A. Gore (1992)<br>Global warming -- 1896 (S. Arrhenius), 1930s (G. Callendar), 1970s,<br>1990s (Rio -- 1992) - present (COP21 - Paris 2015, COP30 - Brazil)
 :::
 
-## תיעוד הבעיה הסביבתית באמצעות מדדים רב-ממדיים
+## 1.2 תיעוד הבעיה הסביבתית באמצעות מדדים רב-ממדיים
 
 במקביל למחקרים דיסציפלינריים, נעשו במחצית השנייה של המאה ה-20 גם
 ניסיונות לכמת את השפעתה הכוללת של האנושות על הסביבה באמצעות מדדים
@@ -182,7 +182,7 @@ integrity); (9) שינויי אקלים (climate change).
 שמופיעות בשנים 2009 ו-2015, אך לא בשנים 2023 ו-2025).[^42] כל הנושאים
 המופיעים באיור יפורטו בפרקים הבאים של הספר.
 
-## הגורמים לפגיעה בסביבה
+## 1.3 הגורמים לפגיעה בסביבה
 
 דיון במשבר הסביבה והאקלים צריך להתחיל בגורמים ולא בסימפטומים. בהמשך למה
 שנכתב לעיל, הנחת העבודה שלי ושל רבים לפניי, היא שגידול האוכלוסייה (מספר
@@ -321,7 +321,7 @@ name: fig 1-3
 איור 1.3: היררכיה של בעיות סביבה
 ```
 
-## עקרונות מרכזיים בחקר הסביבה
+## 1.4 עקרונות מרכזיים בחקר הסביבה
 
 יש כמה עקרונות ומאפיינים העוברים כחוט השני במחקר הסביבתי, והם יידונו
 בפרקי הספר. מרבית העקרונות הללו אינם ייחודיים למדעי הסביבה, והם מאפיינים
@@ -446,7 +446,7 @@ name: fig 1-4
 איור 1.4: ההשפעה של ההתחממות הגלובלית על מערכות אקולוגיות, חקלאות, משאבי מים ובני אדם. (א) השפעה על מערכות אקולוגיות; (ב) השפעה על בני אדם ומערכות אנושיות. מקור: IPCC (2022), [Cambridge](https://www.cambridge.org/core/books/climate-change-2022-impacts-adaptation-and-vulnerability/summary-for-policymakers/016527EADEE2178406C4A7CE7DEAEACA) Reprinted with permission א. IPCC (2022), [Cambridge](https://www.cambridge.org/core/books/climate-change-2022-impacts-adaptation-and-vulnerability/summary-for-policymakers/016527EADEE2178406C4A7CE7DEAEACA) Reprinted with permission
 ```
 
-## מבנה הספר
+## 1.5 מבנה הספר
 
 **פרק המבוא** מציג את התשתית הרעיונית של הספר ודן בקצרה בהתפתחות המודעות
 הציבורית לבעיות הסביבה ובסיבות למשבר הסביבתי-אקולוגי-אקלימי. **פרקים
