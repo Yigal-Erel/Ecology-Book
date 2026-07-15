@@ -552,7 +552,7 @@ name: fig 13-3
 ---
 איור 13.3: מידת העמידה ביעדי ה-SDG באזורים שונים של כדור הארץ, שימו לב שככל שהציון גבוה יותר, ההשפעה הסביבתית קטנה יותר. להבנה טובה יותר של האיור, ראו הערת שוליים של מושג ה-spillover.
 
-מקור – Global Sustainable Development Report (2023) <https://sdgs.un.org/sites/default/files/2023-09/FINAL%20GSDR%202023-Digital%20-110923_1.pdf>. © 2024 all rights reserved. Reprinted with permission.
+מקור – [Global Sustainable Development Report (2023)](https://sdgs.un.org/sites/default/files/2023-09/FINAL%20GSDR%202023-Digital%20-110923_1.pdf). © 2024 all rights reserved. Reprinted with permission.
 ```
 
 ```{figure} media/13_4.jpg
@@ -562,7 +562,7 @@ name: fig 13-4
 ---
 איור 13.4: קצב צבירת עושר כפונקציה של המעמד הסוציו-אקונומי.
 
-מקור – Global Sustainable Development Report (2023) <https://sdgs.un.org/sites/default/files/2023-09/FINAL%20GSDR%202023-Digital%20-110923_1.pdf>. © 2024 all rights reserved. Reprinted with permission.
+מקור – [Global Sustainable Development Report (2023)](https://sdgs.un.org/sites/default/files/2023-09/FINAL%20GSDR%202023-Digital%20-110923_1.pdf). © 2024 all rights reserved. Reprinted with permission.
 ```
 
 ```{figure} media/13_5.png

@@ -158,7 +158,7 @@ name: fig 7-1
 ---
 איור 7.1: התרומה של גורמים עקיפים (דמוגרפים, חברתיים, כלכליים, טכנולוגיים, פוליטיים, מנהליים, מלחמות ומגיפות) על הגורמים הישירים (שינוי שימושי קרקע, ניצול יתר, שינוי אקלים, זיהום, חדירת מינים פולשים וגורמים אחרים) המביאים לפגיעה בטבע (גודל מערכות אקולוגיות, הכחדת מינים, חברות אקולוגיות, ביומסה ו-evenness, קהילות מקומיות וילידים) במערכות אקולוגיות יבשתיות, מימיות (מים מתוקים), וימיות.
 
-מקור – IPBES (2019) <https://files.ipbes.net/ipbes-web-prod-public-files/inline/files/ipbes_global_assessment_report_summary_for_policymakers.pdf>. Reprinted with permission.
+מקור – IPBES (2019), [Global Assessment Report Summary for Policymakers](https://files.ipbes.net/ipbes-web-prod-public-files/inline/files/ipbes_global_assessment_report_summary_for_policymakers.pdf). Reprinted with permission.
 ```
 
 ```{figure} media/7_2.jpg
@@ -168,10 +168,10 @@ name: fig 7-2
 ---
 איור 7.2: סכנת ההכחדה ופגיעה במגוון של פטריות, צמחים, חסרי חוליות, בעלי חוליות. שימו לב לחלונות הזמן השונים באיורים B ו-C.
 
-מקור – IPBES (2019) <https://files.ipbes.net/ipbes-web-prod-public-files/inline/files/ipbes_global_assessment_report_summary_for_policymakers.pdf>. Reprinted with permission.
+מקור – IPBES (2019), [Global Assessment Report Summary for Policymakers](https://files.ipbes.net/ipbes-web-prod-public-files/inline/files/ipbes_global_assessment_report_summary_for_policymakers.pdf). Reprinted with permission.
 ```
 
-> 7.2.2 *השפעת שינויי אקלים על מערכות אקולוגיות*
+### 7.2.2 השפעת שינויי אקלים על מערכות אקולוגיות
 
 לשינויי האקלים יש השפעות מרחיקות לכת על המערכת האקולוגית,[^46] ויש הרבה
 דוגמאות לשינויים שכבר נצפו בפועל במערכות אקולוגיות שונות, הן כתוצאה של
@@ -212,7 +212,7 @@ name: fig 7-2
 ההתמודדות עם שינויי אקלים, יש לבצע ניטור ממושך של שיטות ואופני הפעולה
 בהם אנו נוקטים ולבחון אותם בצורה קבועה.[^64]
 
-> 7.2.3 *מינים פולשים*
+### 7.2.3 מינים פולשים
 
 אחת מחמש הסיבות שפורטו באיור 7.1 לפגיעה במגוון המינים, היא חדירה של
 מינים פולשים, מינים אופורטוניסטים ומינים מלווי אדם.[^65] בשנים האחרונות
@@ -262,7 +262,7 @@ name: fig 7-2
 ועלולים להפוך למטרד בסביבות מסוימות בהן יש להם יתרון אקולוגי (למשל
 הסביבה העירונית -- ראו פרק 12, וכן פרק 14).[^79]
 
-> 7.2.4 *פגיעה במאביקים*
+### 7.2.4 פגיעה במאביקים
 
 פגיעה בחרקים מאביקים הינה נושא נוסף המושך תשומת לב מדעית וציבורית רבה
 בגלל האיום על אספקת מזון לבני אדם.[^80] כ-75% מצמחי המאכל תלויים במידה
@@ -590,7 +590,7 @@ name: fig 7-4
 ---
 איור 7.4: שינויים יחסיים במגוון הביולוגי ביבשות השונות בין 1970 ל-2018.
 
-מקור – WWF (2022) <https://wwfint.awsassets.panda.org/downloads/embargo_13_10_2022_lpr_2022_full_report_single_page_1.pdf> © Reprinted with permission.
+מקור – WWF (2022), [Living Planet Report 2022](https://wwfint.awsassets.panda.org/downloads/embargo_13_10_2022_lpr_2022_full_report_single_page_1.pdf) © Reprinted with permission.
 ```
 
 ## סיכום

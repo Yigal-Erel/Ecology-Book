@@ -321,7 +321,7 @@ name: fig 12-2
 ---
 איור 12.2: מדד חום וקור (H) של מספר ערים החל מ-1950 ועד 2020. שימו לב למגמה של עלייה איטית אך עקבית בערכי H של כל הערים, למעט ברלין, שם היה ערך יציב על 1990, ומאז איחודה ב-1990 התחילה עלייה בערכי ה-H (יש להתעלם מהקו המקווקו המסמן את המגמה ולבחון אך ורק את הערכים עצמם המופיעים כנקודות כחולות).
 
-מקור – <https://eos.org/geofizz/hotness-and-coldness-indexes-based-on-the-fahrenheit-scale> ; CC BY-NC-ND 3.0. Reprinted with permission.
+מקור – [EOS: Hotness and Coldness Indexes Based on the Fahrenheit Scale](https://eos.org/geofizz/hotness-and-coldness-indexes-based-on-the-fahrenheit-scale) ; CC BY-NC-ND 3.0. Reprinted with permission.
 ```
 
 ### אי החום העירוני (urban heat island)

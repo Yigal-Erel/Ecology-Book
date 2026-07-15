@@ -306,7 +306,7 @@ name: fig 8-6
 ---
 איור 8.6: תמונת לווין של שריפות (אזורים אדומים) ברחבי העולם ב-19 בספטמבר 2019.
 
-מקור – NASA, Worldview <https://worldview.earthdata.nasa.gov/?v=-343.1907259552927,-151.60588405379724,268.17007744076045,138.4720804742259&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Night,VIIRS_SNPP_CorrectedReflectance_TrueColor,MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=false&t=2019-09-07-T15%3A25%3A24Z> ; Reprinted with permission.
+מקור – NASA, [Worldview](https://worldview.earthdata.nasa.gov/?v=-343.1907259552927,-151.60588405379724,268.17007744076045,138.4720804742259&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Night,VIIRS_SNPP_CorrectedReflectance_TrueColor,MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=false&t=2019-09-07-T15%3A25%3A24Z) ; Reprinted with permission.
 ```
 
 ### פגיעה ביערות ושינויי אקלים

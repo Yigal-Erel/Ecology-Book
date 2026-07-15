@@ -420,7 +420,7 @@ name: fig 10-4
 ---
 איור 10.4: מידת הסכנה למספר קבוצות טקסונומיות, כולל אלמוגים.
 
-מקור – <https://www.iucn.org/resources/conservation-tool/iucn-red-list-threatened-species> ; ©IUCN. Reprinted with permission.
+מקור – [IUCN Red List of Threatened Species](https://www.iucn.org/resources/conservation-tool/iucn-red-list-threatened-species) ; ©IUCN. Reprinted with permission.
 ```
 
 ## תהליכי אאוטרופיקציה בסביבה החופית ואזורים עניים בחמצן בים העמוק

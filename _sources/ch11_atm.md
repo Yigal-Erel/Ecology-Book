@@ -831,7 +831,7 @@ name: fig 11-10
 ---
 איור 11.10: מגמות של מקרי מוות ונזקים כלכליים בארצות שונות עקב זיהום אוויר (PM ואוזון), 2010 לעומת 2060.
 
-מקור – <https://web-archive.oecd.org/2017-01-04/405314-air-pollution-to-cause-6-9-million-premature-deaths-and-cost-1-gdp-by-2060.htm> ; © Organisation for Economic Co-operation and Development; Reprinted with permission.
+מקור – [OECD: Air pollution to cause 6-9 million premature deaths by 2060](https://web-archive.oecd.org/2017-01-04/405314-air-pollution-to-cause-6-9-million-premature-deaths-and-cost-1-gdp-by-2060.htm) ; © Organisation for Economic Co-operation and Development; Reprinted with permission.
 ```
 
 ## השפעת מזהמי אוויר על האקלים
