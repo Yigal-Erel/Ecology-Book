@@ -14,12 +14,13 @@ document.addEventListener("DOMContentLoaded", function() {
   var target = document.querySelector(".sidebar-primary-items__end");
   if (!target) return;
 
+  var to = "tomer.vagenfeld@mail.huji.ac.il";
   var subject = encodeURIComponent("דיווח על בעיה בספר");
   var body = encodeURIComponent(
     "שלום,\n" +
     "מצאתי בעיה באתר הספר 'משבר הסביבה והאקלים - הזוית המדעית' מאת יגאל אראל.\n\n"
   );
-  var href = "mailto:tomer.vagenfeld@mail.huji.ac.il?subject=" + subject + "&body=" + body;
+  var href = "https://mail.google.com/mail/?view=cm&fs=1&to=" + encodeURIComponent(to) + "&su=" + subject + "&body=" + body;
 
   var btn = document.createElement("a");
   btn.href = href;
