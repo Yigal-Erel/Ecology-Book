@@ -1076,6 +1076,38 @@ html[data-mode="dark"] body.with-book-bg .bd-footer-content {
 /* ── Hide Sphinx auto-figure numbers (Hebrew captions already have "איור N.N") */
 figcaption .caption-number { display: none; }
 
+/* ── Bug report button (bottom of primary sidebar) ─────────────────────── */
+.bug-report-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  direction: rtl;
+  margin: 1rem 1rem 0.5rem;
+  padding: 0.45rem 0.8rem;
+  font-size: 0.82rem;
+  color: var(--pst-color-muted, #6c757d);
+  background: transparent;
+  border: 1px solid var(--pst-color-border, #dee2e6);
+  border-radius: 6px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+}
+.bug-report-btn:hover {
+  color: var(--pst-color-danger, #dc3545);
+  border-color: var(--pst-color-danger, #dc3545);
+  background: rgba(220, 53, 69, 0.06);
+  text-decoration: none;
+}
+.bug-report-btn span { font-size: 0.9em; }
+
+html[data-theme="dark"] .bug-report-btn,
+html[data-mode="dark"] .bug-report-btn {
+  color: var(--pst-color-muted, #adb5bd);
+  border-color: var(--pst-color-border, #495057);
+}
+
 /* ── Chapter version badge ──────────────────────────────────────────────── */
 .chapter-version-badge {
   display: inline-block;

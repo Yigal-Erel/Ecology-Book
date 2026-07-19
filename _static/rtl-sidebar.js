@@ -9,6 +9,26 @@ window.addEventListener('load', function() {
   }, 200);
 });
 
+// Bug report button — injected below the TOC in the primary sidebar.
+document.addEventListener("DOMContentLoaded", function() {
+  var target = document.querySelector(".sidebar-primary-items__end");
+  if (!target) return;
+
+  var subject = encodeURIComponent("דיווח על בעיה בספר");
+  var body = encodeURIComponent(
+    "שלום,\n" +
+    "מצאתי בעיה באתר הספר 'משבר הסביבה והאקלים - הזוית המדעית' מאת יגאל אראל.\n\n"
+  );
+  var href = "mailto:tomer.vagenfeld@mail.huji.ac.il?subject=" + subject + "&body=" + body;
+
+  var btn = document.createElement("a");
+  btn.href = href;
+  btn.className = "bug-report-btn";
+  btn.setAttribute("aria-label", "דווחו על בעיה");
+  btn.innerHTML = "<span>&#9888;</span> דווחו על בעיה";
+  target.appendChild(btn);
+});
+
 // Keep desktop interactive: don't open the <dialog>; collapse the static sidebar instead.
 document.addEventListener("DOMContentLoaded", () => {
   // Dispose Bootstrap tooltips on sidebar toggles — they fire too aggressively
