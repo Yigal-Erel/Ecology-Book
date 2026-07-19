@@ -25,6 +25,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
   var btn = document.createElement("a");
   btn.href = href;
+  btn.target = "_blank";
+  btn.rel = "noopener";
   btn.className = "bug-report-btn";
   btn.setAttribute("aria-label", "דווחו על בעיה");
   btn.innerHTML = "<span>&#9888;</span> דווחו על בעיה";
