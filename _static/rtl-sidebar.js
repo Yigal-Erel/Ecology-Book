@@ -17,6 +17,7 @@ document.addEventListener("DOMContentLoaded", function() {
   var to = "tomer.vagenfeld@mail.huji.ac.il";
   var subject = encodeURIComponent("דיווח על בעיה בספר");
   var body = encodeURIComponent(
+    "‏" +  // Right-to-Left Mark — tells Gmail to open compose in RTL
     "שלום,\n" +
     "מצאתי בעיה באתר הספר 'משבר הסביבה והאקלים - הזוית המדעית' מאת יגאל אראל.\n\n"
   );
